@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import templates, { ETemplateKeys, ETemplatesType } from './templates';
+import templates, {ETemplateKeys, ETemplatesType} from './templates';
 
 interface IEmailOptions {
   to: string;
@@ -33,12 +33,11 @@ class EmailService {
     key: T,
     args: Record<ETemplatesType[T]['fields'], string>,
     options: IEmailOptions,
-    req: { t: any },
   ) {
     const { attachments } = templates[key];
     const template = this.pushArguments(key, args);
     console.log(req.t('email:title'));
-    
+
     return await axios.post(
       `https://api.sparkpost.com/api/v1/transmissions`,
       {
