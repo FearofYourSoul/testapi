@@ -36,7 +36,6 @@ class EmailService {
   ) {
     const { attachments } = templates[key];
     const template = this.pushArguments(key, args);
-    console.log(req.t('email:title'));
 
     return await axios.post(
       `https://api.sparkpost.com/api/v1/transmissions`,
