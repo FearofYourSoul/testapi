@@ -1,13 +1,13 @@
-import { TRPCError } from '@trpc/server';
+import {TRPCError} from '@trpc/server';
 import jwt from 'jsonwebtoken';
 
-import { router, TRequest } from '../../createRouter';
-import { updateClientDto, updateFCMTokenDto, updateLocationDto, updatePhoneNumber } from './dto';
+import {router} from '../../createRouter';
+import {updateClientDto, updateFCMTokenDto, updateLocationDto, updatePhoneNumber} from './dto';
 
-import { authService, emailService, smsService } from '../../../services';
-import { EErrorCode } from '../../../utils';
-import { clientPrivateProcedure } from '../../../privateProcedures';
-import { logger } from '../../../log';
+import {authService, emailService, smsService} from '../../../services';
+import {EErrorCode} from '../../../utils';
+import {clientPrivateProcedure} from '../../../privateProcedures';
+import {logger} from '../../../log';
 
 export const accountRouter = router({
   update: clientPrivateProcedure.input(updateClientDto).mutation(async ({ ctx: { prisma, req }, input }) => {
@@ -75,7 +75,6 @@ export const accountRouter = router({
             to: input.email,
             subject: 'Проверка почты',
           },
-          { t: req.t },
         );
       } catch (error) {
         logger.error(
