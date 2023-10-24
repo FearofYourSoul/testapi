@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Вежливость",
+    "place_id": {
+      "type": "Place",
+      "where": {
+        "name": "Mojo Mediterrasian"
+      }
+    }
+  },
+  {
+    "name": "Щедрость",
+    "place_id": {
+      "type": "Place",
+      "where": {
+        "name": "Mojo Mediterrasian"
+      }
+    }
+  }
+]

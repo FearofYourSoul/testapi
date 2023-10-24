@@ -1,0 +1,602 @@
+[
+  {
+    "name": "exploit",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "architect",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "embrace",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "synthesize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "matrix",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "whiteboard",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "extend",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "productize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "exploit",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "innovate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "engage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "leverage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "incentivize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "reintermediate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "target",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "orchestrate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "deliver",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enhance",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "target",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enhance",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "evolve",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "engineer",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "architect",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "redefine",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "orchestrate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "recontextualize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enhance",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "incubate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "facilitate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "harness",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "transition",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "whiteboard",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "engage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "orchestrate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "strategize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "morph",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "synthesize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "scale",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "mesh",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "monetize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "scale",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "brand",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "seize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "evolve",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "redefine",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "leverage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "mesh",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "architect",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "maximize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "revolutionize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "leverage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "whiteboard",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "redefine",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "repurpose",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "matrix",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "disintermediate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "repurpose",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "expedite",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "streamline",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "embrace",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "exploit",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "exploit",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "envisioneer",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "disintermediate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "monetize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "evolve",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "target",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "engineer",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enable",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "grow",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "harness",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "empower",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "facilitate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "e-enable",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "envisioneer",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "evolve",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "leverage",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "matrix",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "expedite",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enable",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "drive",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "expedite",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "utilize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "recontextualize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "unleash",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "synergize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "productize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "enable",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "exploit",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "optimize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "visualize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "recontextualize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "brand",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "grow",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "monetize",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "empower",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "embrace",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "matrix",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "incubate",
+    "place_id": {
+      "type": "Place"
+    }
+  },
+  {
+    "name": "repurpose",
+    "place_id": {
+      "type": "Place"
+    }
+  }
+]

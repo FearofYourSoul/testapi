@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "id": "970dd47f-3966-47b3-a2d8-b29eb5e16393"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "id": "bde3fba2-41d0-4bef-b64d-c58abb0252e9"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "id": "93402d9a-a6cc-4b8d-9e86-72892d2b75f3"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "id": "ead10568-7414-4121-872b-f67b53977bc2"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "id": "80598814-30cd-401a-89d6-4ddf54f2593d"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "id": "2ce373a4-28f5-49d9-b011-3e1e006dfa18"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "id": "dfa5202f-f450-4fb4-94dc-00810f210810"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "id": "ccfd2524-7a65-4d0f-8611-7e34d0b45e90"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "id": "5b5f3219-e727-416d-8800-d796d72e721a"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "id": "be0867a0-0ae6-4716-bb01-ad873475fda1"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "id": "2eead5ab-1f99-40c5-b31c-5fce0b89830d"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "id": "6e14842c-555f-4012-9762-f823cf949629"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "id": "2513487e-bfdb-4601-a0a0-d1d9a3f68e72"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "id": "d81c720d-91a6-4e08-8660-16bc5a086fb0"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "id": "ab6d7947-cc47-4731-a4b3-4d31913a7350"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "id": "696d2a1c-f8f4-4d88-b523-5e1e72b62f07"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "id": "7317e930-0ee5-4e38-8193-d97fad8f1170"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "id": "71fbbc55-9323-45a5-9ad5-4f1eb71d8f94"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "id": "ad12eda8-85d5-4a7c-875f-d6469126855c"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "id": "acf17b73-d11b-4a7d-bf11-ec315d698f03"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "id": "61bc7468-518b-4fe3-a80c-7b3da0c9bdec"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "id": "5b9a0269-b1e4-4067-a4f9-52009e904536"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "id": "796e8cad-0439-44b3-9fd6-ca9e8d5c6e35"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "id": "5eb32ba4-26cd-4801-9d60-f25cb6a96a37"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "id": "f8946836-3145-4c61-90bb-029de434acb5"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "id": "9aea033e-ff81-45be-ab6a-21e557fde556"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "id": "73f6b25b-b6c4-4e86-8b0c-dde3244e3817"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "id": "389bd1b4-2c5e-431d-a8b9-42cddd691370"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "id": "c0035e6d-106a-4b17-863d-75218b5c0ed5"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "id": "aa234a0b-fd5f-4c47-8390-3f703b2c8423"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "id": "adee0412-ab36-40c5-ab3f-f610f3ea9c19"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "id": "82eeb16f-5776-45a3-afc3-c1bff2167e1b"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "id": "c71cf7c0-6874-4bb9-b184-fc7137bb9336"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "id": "20d6143d-a46a-458d-bb33-7334ea3b0d15"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "id": "f9083ecf-e559-4c8d-83f5-0d876e605460"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "id": "426feb9d-cf14-40f2-80d9-ba21f5466133"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "id": "cc637c3b-3afd-4f24-84c0-22e28ddc854c"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "id": "81e8bf68-45c2-4ddf-9bbc-9218f830221d"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "id": "60661f8b-3719-4259-b346-29d6ff3d9b71"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "id": "55786c54-4687-48db-96ba-261864d25677"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "id": "474c2b53-7b50-457f-b201-1c53ad8d5a46"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "id": "8314593b-73e6-4db5-afa6-957311e8ba13"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "id": "c2c672c8-82de-4347-bd4e-d147f55fe3cf"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "id": "df53bb27-b6d7-434e-a38d-f6f6d7fb9d6d"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "id": "118ad0d4-a968-4e07-b46e-15220eecf690"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "id": "8c5a87a7-e0a6-4416-9cfa-4504b5ed5846"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "id": "86ad05ee-6210-46e0-b5cd-883671eb6423"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "id": "da1dac9a-f92a-43fb-8b02-0da9eac9ec10"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "id": "75dc2ede-26d6-41ba-b783-5d696d84fe82"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "id": "55ff339b-ffac-4bbd-b486-29243c3dbc2e"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "id": "278c8df4-2fb6-4319-9d41-5dedce111163"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "id": "54854be9-bdaf-40a3-a702-904f2d7ca92c"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "id": "eeb92145-8145-47ee-b678-a9a2b4f0af8a"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "id": "499ba6be-1654-430c-b529-4fb286a53821"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "id": "94b8b614-3bf9-4dc8-a8e4-1f26d9c94dfc"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "id": "8a4060ee-ac90-4124-86f3-ee2d59b0c43b"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "id": "aea90d1d-5da2-4952-9589-af69bf66c3fe"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "id": "4765a0c7-b752-4d50-bce3-5194a20179b0"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "id": "05c8b064-4b6d-41e4-b7f7-465c0fd67b5c"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "id": "f0a93f16-cd17-4a88-90cd-568556c03958"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "id": "d56d6c40-7e3c-459f-87e2-bd9870548364"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "id": "80adf507-705e-4ddf-b019-4df09db20e62"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "id": "7aa0f793-65f8-4af9-b3fc-55381d8393a2"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "id": "e6deba56-b135-496e-858e-1738bd535c65"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "id": "8d2d455b-015d-4004-ac18-39e367d41781"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "id": "76c9f51a-09b7-4ebc-8f27-0e8c947d2a22"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "id": "07f8c138-c664-42f3-aebb-5497b24a110a"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "id": "24cde59e-495b-435e-88d9-f2688113ea38"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "id": "d19c33e1-7cf5-45dd-ae83-59f94a1ecd0f"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "id": "e83124e2-a864-4688-a73c-c1dae37ed180"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "id": "b80b45bd-49f1-4c3d-9d7a-78328c06ca07"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "id": "f42bc11e-89a5-47e9-90a5-de9495f9bcff"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "id": "5a063fa0-2b6f-4236-9b59-a4dc316341f3"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "id": "33be4af3-2532-4418-b5f0-1f6b3cc7df60"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "id": "622c0d9b-0478-4bad-ae71-6e6c01380857"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "id": "fa3d6d6b-bc57-456f-bc98-d4067949c8d1"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "id": "c4dedd49-ab59-408d-b173-4765aaed0a2b"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "id": "17cd7c7b-83a2-46a3-bf1a-c8f33a991608"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "id": "ef181286-59d3-46f9-a020-f5f051f79b6f"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "id": "b2c4f471-b091-4272-90b8-cf7fdb42428b"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "id": "dcf1b386-e99a-4a4c-be77-b16149e06be5"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "id": "260df566-3daa-44ff-a4cd-09e3aeb149af"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "id": "0d617e99-c44f-415a-b5b0-9e2283622599"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "id": "e5b10acf-ae74-4c99-88e9-ed42cbc5a4cd"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "id": "365ad890-aca3-4ae1-80ab-ecf54322e6c8"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "id": "4dc500b7-047c-4654-9eb4-5d02dfba167c"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "id": "cc63603d-c402-4f61-b5c2-502d889e784d"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "id": "2dc37c45-a485-4214-a7c1-ef9ff4880c03"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "id": "64ea0235-e408-4f48-a005-18f02b7a561c"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "id": "ad673db9-9037-43f8-8610-40f8a093d0aa"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "id": "0993b549-d720-4f2a-b74f-01119e92d85e"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "id": "1d557859-7d90-4fe2-b627-b74b1ee13174"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "id": "73b8a396-9832-4ea0-afca-13cb6bfff9dc"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "id": "52b76125-72de-4009-9438-9783d9bbae41"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "id": "dd99779a-8a91-47d4-9567-1b70aca560b3"
+  },
+  {
+    "name": "Пицца",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "id": "b871a924-69ab-4a34-808d-afacac0809a4"
+  },
+  {
+    "name": "Суши",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "id": "06a79050-2610-4dfd-9e45-6d0e27145759"
+  },
+  {
+    "name": "Горячее",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "id": "4164fb93-3a9f-4f46-888f-d4f6a53a4409"
+  },
+  {
+    "name": "Напитки",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "id": "a2dc8fbe-da28-4f6e-b6de-31ab9acb14c0"
+  },
+  {
+    "name": "Десерты",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "id": "9dee9635-5911-492d-b9a7-950f5e5e36f6"
+  }
+]

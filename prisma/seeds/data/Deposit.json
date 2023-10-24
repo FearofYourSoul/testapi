@@ -1,0 +1,502 @@
+[
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7515,
+    "table_price": 6822,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6251,
+    "table_price": 5323,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 9549,
+    "table_price": 8962,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4749,
+    "table_price": 7486,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 1355,
+    "table_price": 5261,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 3266,
+    "table_price": 5725,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6460,
+    "table_price": 8064,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 193,
+    "table_price": 1279,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6791,
+    "table_price": 7975,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 1710,
+    "table_price": 1540,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7237,
+    "table_price": 1199,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 3710,
+    "table_price": 1586,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 3459,
+    "table_price": 1147,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 8279,
+    "table_price": 1458,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4606,
+    "table_price": 5699,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7,
+    "table_price": 938,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 683,
+    "table_price": 5753,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4767,
+    "table_price": 3561,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 1788,
+    "table_price": 9924,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2849,
+    "table_price": 8703,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6715,
+    "table_price": 9320,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2738,
+    "table_price": 3944,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 8413,
+    "table_price": 9171,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7307,
+    "table_price": 2176,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6428,
+    "table_price": 9036,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4937,
+    "table_price": 6981,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2809,
+    "table_price": 5478,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 534,
+    "table_price": 2100,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6338,
+    "table_price": 7684,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 713,
+    "table_price": 9928,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2395,
+    "table_price": 4672,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 394,
+    "table_price": 9383,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6063,
+    "table_price": 5360,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4842,
+    "table_price": 5773,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2802,
+    "table_price": 7056,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6368,
+    "table_price": 1629,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 53,
+    "table_price": 4072,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2793,
+    "table_price": 5138,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7886,
+    "table_price": 6216,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 9286,
+    "table_price": 6478,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "TAKE_MORE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 6200,
+    "table_price": 5862,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2117,
+    "table_price": 9926,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 5739,
+    "table_price": 2661,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 2854,
+    "table_price": 7820,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 3910,
+    "table_price": 3280,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7422,
+    "table_price": 4227,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 4875,
+    "table_price": 8912,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 7292,
+    "table_price": 2090,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 8682,
+    "table_price": 9160,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  },
+  {
+    "place_id": {
+      "type": "Place"
+    },
+    "person_price": 8714,
+    "table_price": 8641,
+    "is_table_price": true,
+    "is_person_price": true,
+    "interaction": "SUMMARIZE"
+  }
+]

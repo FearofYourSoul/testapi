@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Алексей",
+    "email": "alex.big@yahoo.com",
+    "password": "$2a$12$IKk/0KK6Wdc2spMtZ2WEZ.9QZ8XKx2qWDcVP.POngyQhw3Gql6gFO",
+    "phone_number": "+375 29 777 82 19",
+    "is_email_verified": true
+  },
+  {
+    "name": "Егор",
+    "email": "baradavkina@gmail.com",
+    "password": "$2a$10$FGEqK0kmcHwCgDEQSXpKTuiZK3LWPo7nr4A7AXmeUwiqu2mnM.42.",
+    "phone_number": "+375297778219",
+    "is_email_verified": true
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "message": "Your booking for {{time}} at {{name}} has been {{status}}",
+  "refund": "The place {{name}} returned your money. Click to see for what.",
+  "statuses": {
+    "ACCEPTED": "confirmed",
+    "REJECTED": "declined",
+    "EXPIRED": "declined"
+  }
+}

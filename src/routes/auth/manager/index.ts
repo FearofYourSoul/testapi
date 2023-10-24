@@ -1,0 +1,1 @@
+export * from './managerAuth.router';

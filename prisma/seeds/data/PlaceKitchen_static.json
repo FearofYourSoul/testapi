@@ -1,0 +1,302 @@
+[
+  {
+    "id": "793f3f1a-edd8-45e0-ad3e-f9a3d381093d",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "d1f8c38a-d171-447d-bf22-1a619fbb09f0",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "55e80a81-6397-4a14-8f0c-87b94ff1d9a7",
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "82a55ae5-f761-417e-b38e-28c35e6e7758",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "5dcdeb25-834e-45fb-9b1a-85bc2b489637",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "european" } }
+  },
+  {
+    "id": "1253c840-f900-482f-93bf-a91433292e16",
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "sushi" } }
+  },
+  {
+    "id": "a9157cc3-ae9b-487e-ad78-4bfe8d199de0",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "belarusian" } }
+  },
+  {
+    "id": "c53391dd-a389-498b-9c15-0b95e1fa2ead",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "european" } }
+  },
+  {
+    "id": "8a5eabaf-3571-4b90-b606-292ef6448839",
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "162c5816-e6e2-44d1-9abc-15e95681ec2e",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "5318438c-3c81-446d-bad7-991d331a2cd2",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "997ee520-7c1b-4fe7-bbe6-e6c90d8425be",
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "burgers" } }
+  },
+  {
+    "id": "892c7ff5-c36c-4e25-8dad-45163952247c",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "b5f5de17-a8f9-4a98-9384-fa9685154d5e",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "1313d840-1363-4679-b709-f169cf210f42",
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "european" } }
+  },
+  {
+    "id": "5f1867e4-f71f-4001-bfe3-5953c9a52362",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "77ecf015-09a5-4c93-9c5d-46a6b02f0799",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "italian" } }
+  },
+  {
+    "id": "e3a8cfbe-7605-4516-9fd7-dd295c207eb2",
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "vegan" } }
+  },
+  {
+    "id": "1ce26030-e654-44fa-a63a-9de4941eae3a",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "f51ec4be-72db-4aae-a6a7-eb34689daccf",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "sushi" } }
+  },
+  {
+    "id": "127e4923-ca33-4304-9227-1837bb06d1fe",
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "burgers" } }
+  },
+  {
+    "id": "a28124bc-4b84-43bb-8614-83397f5477db",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "4e877d49-3c1f-46ce-b927-332374fff21e",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "asian" } }
+  },
+  {
+    "id": "dcd5a898-87a8-4dae-bff4-dccffdb10eb8",
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "bf4426f2-2f65-4bc5-91a0-0cfd1d71e773",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "italian" } }
+  },
+  {
+    "id": "38e5204f-2789-4ef7-bd5b-6bcf5c415ad7",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "2914c074-f1fb-4182-bd82-968d5917292f",
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "cc2cd4aa-d039-48db-b481-497b832d67ff",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "40564b64-18a9-4251-80c7-ebfab249cb76",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "e9d2826c-7653-467a-a7b8-0b19f9971334",
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "asian" } }
+  },
+  {
+    "id": "dfcb5772-c90a-48d1-8091-caa215accc88",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "sushi" } }
+  },
+  {
+    "id": "5a22e79d-c847-4bb3-a959-1e76e1687fcd",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "ed18bbed-94e0-432b-9bc6-0191c2cf5e1c",
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "e64e58a6-57d0-4929-940b-a0e221028139",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "italian" } }
+  },
+  {
+    "id": "3d015146-4f09-420d-8bae-e61d253d8be3",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "790e9d34-dc70-45bb-b664-f2a2136575fb",
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "burgers" } }
+  },
+  {
+    "id": "691ebc37-9dc6-4acc-9dbe-79ecad8f31b6",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "4f15831a-3e2a-46bc-9a77-b1045ccc10ae",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "sushi" } }
+  },
+  {
+    "id": "29463b2a-1624-4c6c-a551-85ef6c817d75",
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "80acdbfb-0477-409a-a1eb-aee6639c818f",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "vegan" } }
+  },
+  {
+    "id": "c474cf50-d95f-4fa1-a7e2-ee35b49b9c26",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "e69539dd-b0f3-4ae0-a0af-11b8b3ae2d82",
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "3ed24e35-c5e7-472f-b7f7-01c8e64b40a1",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "european" } }
+  },
+  {
+    "id": "ca6e4f87-0150-486f-8fe4-98f528089709",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  },
+  {
+    "id": "359fc9c0-fd18-4d62-88b7-11bc1d723155",
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "97f58d1c-1fca-4d84-80f8-a4828fa85d7e",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "af482eb7-1777-4c12-b415-07ed60ac4afa",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "belarusian" } }
+  },
+  {
+    "id": "49c2694c-f474-4c63-aebe-ee39d4223165",
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "vegan" } }
+  },
+  {
+    "id": "b2cec5ab-f011-49cb-8b64-e6948e736683",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "healthy" } }
+  },
+  {
+    "id": "06bbe20b-0f70-49d4-8f78-802c14465e19",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "sushi" } }
+  },
+  {
+    "id": "c3b8ca31-0006-443b-aaa4-daa8e463b682",
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "vegan" } }
+  },
+  {
+    "id": "3f6f1bdd-bedf-4b91-a97d-75c23de75431",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "asian" } }
+  },
+  {
+    "id": "c496c3c8-51b6-469a-b790-4516862fe7ff",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "dc3e622a-b357-45a6-bfc1-f525cc9bb280",
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "georgian" } }
+  },
+  {
+    "id": "abcfb5a3-c562-4b8d-b9c8-d9480c334334",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "c1c5c195-be16-4fb7-bbe0-27dcf2ef37fb",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "belarusian" } }
+  },
+  {
+    "id": "416f162d-a2c4-4d64-99de-ac2d2b63a8d3",
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "european" } }
+  },
+  {
+    "id": "476a2004-704e-4fc7-9397-2a5609bddc53",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "wok" } }
+  },
+  {
+    "id": "86101f5c-58b5-496b-a213-72d45cc5e1c8",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "pizza" } }
+  },
+  {
+    "id": "1bd582bb-bf7d-4020-8b55-324a71cd3137",
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "kitchen_id": { "type": "Kitchen", "where": { "name": "indian" } }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "role": "administrator",
+    "name": "Frank Kshlerin",
+    "login": "Emmanuel",
+    "password": "EYgZOinKVHmc7RY",
+    "email": "Cecilia_Fay40@gmail.com",
+    "phone_number": "+540977142028",
+    "is_email_verified": false,
+    "is_phone_verified": false,
+    "owner_id": {
+      "type": "Owner"
+    }
+  },
+  {
+    "role": "hostess",
+    "name": "Winston Murazik",
+    "login": "Kristy",
+    "password": "aCX_kZmCqJSQvLP",
+    "email": "Janet19@yahoo.com",
+    "phone_number": "+593657636228",
+    "is_email_verified": true,
+    "is_phone_verified": true,
+    "owner_id": {
+      "type": "Owner"
+    }
+  },
+  {
+    "role": "administrator",
+    "name": "Valerie Sporer",
+    "login": "Russ",
+    "password": "pwV4O8P1QxTDJbi",
+    "email": "Alexys_Feest@yahoo.com",
+    "phone_number": "+118580947633",
+    "is_email_verified": false,
+    "is_phone_verified": true,
+    "owner_id": {
+      "type": "Owner"
+    }
+  },
+  {
+    "role": "hostess",
+    "name": "Lionel Greenfelder",
+    "login": "Bartholome",
+    "password": "48R3mNvAGzqxhlr",
+    "email": "Mckayla55@yahoo.com",
+    "phone_number": "+350056841242",
+    "is_email_verified": true,
+    "is_phone_verified": false,
+    "owner_id": {
+      "type": "Owner"
+    }
+  },
+  {
+    "role": "administrator",
+    "name": "Dr. Kristopher McKenzie",
+    "login": "Jameson",
+    "password": "eL_oqXT2ymwi7gD",
+    "email": "Lelah_Schroeder@yahoo.com",
+    "phone_number": "+008299134954",
+    "is_email_verified": true,
+    "is_phone_verified": true,
+    "owner_id": {
+      "type": "Owner"
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ee82676f-aad8-4090-80ac-6afba6d11e53",
+    "__no_auto": true,
+    "name": "2 этаж",
+    "width": 990,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "2bff637d-5143-46d1-872c-ed83edc29c39",
+    "__no_auto": true,
+    "name": "терраса",
+    "width": 900,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "e21ff2f3-c568-42e9-9a9c-006bc1a262f4" } },
+    "is_summer_terrace": true
+  },
+  {
+    "id": "f8fb1fd5-d164-4a22-bc9f-865c0bb1ae44",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 810,
+    "height": 810,
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "afd0a966-aecb-44e5-9d88-01fa83d3faee",
+    "__no_auto": true,
+    "name": "2 этаж",
+    "width": 810,
+    "height": 990,
+    "place_id": { "type": "Place", "where": { "id": "dbf62013-f2f3-4b55-9718-a332ef8ab585" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "0c9a218c-c743-496a-870c-155fd80f99fd",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 1080,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "b7deeccc-e752-426b-a1e5-6f6f09ab1144",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 810,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "18693dbe-1e9f-4b9e-88b6-50626773f7fc" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "c0a5d5cd-ec24-49d2-883f-1b37b775e753",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 810,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "a2e66b37-2d16-4f3b-98f5-c792d823ca08",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 720,
+    "height": 990,
+    "place_id": { "type": "Place", "where": { "id": "348a2bb0-d1ea-4cb3-909c-eb7c07bac013" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "c03038d8-36ec-43d8-8e3c-8c0515868ad4",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 630,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "639d0bc2-9353-434e-8bda-c16b9a2af977",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 720,
+    "height": 990,
+    "place_id": { "type": "Place", "where": { "id": "79d6ec19-0a76-4772-bdd3-4ae084f47c4c" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "80ca0705-c459-4d5c-95eb-7858e46f09a9",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 810,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "e0a5ebf3-6183-428f-9bfd-f0898e8d09c4",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 900,
+    "height": 630,
+    "place_id": { "type": "Place", "where": { "id": "1bbe914c-8961-4020-9a1a-58a348772229" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "45bbb8de-1acc-4eb0-a401-f0dd7c4cccfc",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 630,
+    "height": 990,
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "06a55093-c3f7-49ae-8df4-1457ccb17c23",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 1080,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "8994510c-72ca-4797-9949-220082e06b21" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "e61c91d9-d664-40c7-ac9e-e6691206260e",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 810,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "21f5af7f-21ef-414a-822d-9b67ca21fa2e",
+    "__no_auto": true,
+    "name": "терраса",
+    "width": 810,
+    "height": 810,
+    "place_id": { "type": "Place", "where": { "id": "71f008c7-fae4-43e6-896f-8de06cf58528" } },
+    "is_summer_terrace": true
+  },
+  {
+    "id": "e55ee579-3c7b-4364-b112-78aee310d07f",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 990,
+    "height": 990,
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "cffecabc-26e7-44f0-afe7-12e63c30c125",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 1170,
+    "height": 630,
+    "place_id": { "type": "Place", "where": { "id": "483b2774-d4b0-4a1b-b02a-2651dc1b0a37" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "2b145ad8-be92-4f0e-a771-b634e79b9933",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 810,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "8fde8784-eb47-4235-a725-0d32a0b22dab",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 630,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "e8d22dfe-42ce-4e15-a11a-a7de31be1842" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "135b1e88-3335-4756-a2c6-9993f85a4c3e",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 900,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "2020152f-7a54-4656-920a-a153f8bbbe48",
+    "__no_auto": true,
+    "name": "2 этаж",
+    "width": 900,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "de4fb073-480e-4e9b-ad52-b49494ec30b6" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "949afa4b-b7f6-44b9-b87a-01237aa4f7fa",
+    "__no_auto": true,
+    "name": "2 этаж",
+    "width": 810,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "9398f9fd-8e52-444e-904d-f46a55ec219f",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 1170,
+    "height": 810,
+    "place_id": { "type": "Place", "where": { "id": "88ce0f6b-acdb-48c5-9186-4dde282dc9c7" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "257ed082-1b19-417f-a170-69c198b72dc9",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 990,
+    "height": 900,
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "da3a0d39-aaab-4f5e-ab38-bf434ea38cf2",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 1170,
+    "height": 630,
+    "place_id": { "type": "Place", "where": { "id": "8a5c7741-1950-4d11-bf00-7919c410aca1" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "65ae54f9-d053-4597-93af-73bdc88a516b",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 810,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "bb1cfc90-6f80-442b-a3a0-7d2638bd4f92",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 630,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "a2600c77-f0f8-4a32-be41-4f373d9f53c6" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "e8a62130-196f-468f-b56b-35725c429a4e",
+    "__no_auto": true,
+    "name": "зал",
+    "width": 1080,
+    "height": 720,
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "8490e12c-78bc-46fa-942a-111ba7a1f64c",
+    "__no_auto": true,
+    "name": "терраса",
+    "width": 990,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "da4d4879-2dac-421a-9b56-7e9ecb6ffd31" } },
+    "is_summer_terrace": true
+  },
+  {
+    "id": "f4278e77-be15-4e68-adb5-e708d159dfc1",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 990,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "51926ba9-5486-46ae-a5f3-831fa3098e98",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 1170,
+    "height": 810,
+    "place_id": { "type": "Place", "where": { "id": "5bcf4196-bdd3-4678-9fb0-1cd9fbe8684c" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "d343dc28-ef97-4888-a70e-ee87bd7fea79",
+    "__no_auto": true,
+    "name": "2 этаж",
+    "width": 720,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "6c1dad71-a0fb-49b7-84aa-563dcbaf16cb",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 990,
+    "height": 810,
+    "place_id": { "type": "Place", "where": { "id": "6644b6fd-7a3e-4f45-b980-bf34ac0a4762" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "b5a2f505-5994-464d-82c5-26b670a27ca2",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 900,
+    "height": 630,
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "5d15d545-970a-4ec0-bee2-96a6d38b54f9",
+    "__no_auto": true,
+    "name": "открытый балкон",
+    "width": 900,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "bfefaf35-3a15-4aac-92ba-c668669cb593" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "a5920aa1-1a22-4ed5-876f-75a4f527b408",
+    "__no_auto": true,
+    "name": "терраса",
+    "width": 1080,
+    "height": 1170,
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "is_summer_terrace": true
+  },
+  {
+    "id": "46240332-1d13-471a-818d-0fa6f3533cf2",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 990,
+    "height": 1080,
+    "place_id": { "type": "Place", "where": { "id": "df2adade-1ee0-4254-83fa-d2777fdf6115" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "38f4d403-bbd0-420c-a71a-9576c39ce274",
+    "__no_auto": true,
+    "name": "зал со сценой",
+    "width": 990,
+    "height": 900,
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "is_summer_terrace": false
+  },
+  {
+    "id": "3a5b4b84-4c10-4581-ae43-43ea5af0e562",
+    "__no_auto": true,
+    "name": "1 этаж",
+    "width": 990,
+    "height": 900,
+    "place_id": { "type": "Place", "where": { "id": "b8151521-5ab5-49d0-a9cb-05bd3b0cc0de" } },
+    "is_summer_terrace": false
+  }
+]

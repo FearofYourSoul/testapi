@@ -1,0 +1,9 @@
+{
+  "bepaid": {
+    "buttonText": "Просмотреть бронирование",
+    "bookingDescription": "Предзаказ в {{place}}",
+    "paymentMessages": {
+      "unsuccess": "Оплата не прошла"
+    }
+  }
+}

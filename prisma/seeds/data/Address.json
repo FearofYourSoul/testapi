@@ -1,0 +1,1082 @@
+[
+  {
+    "address_line1": "40310 Runolfsdottir Spur Apt. 719",
+    "city": "Cristshire",
+    "postal_code": "72883",
+    "country_code": "RU",
+    "region": "North Carolina",
+    "latitude": 53.85432334115755,
+    "longitude": 27.73110100254215
+  },
+  {
+    "address_line1": "3959 Conn Square Suite 621",
+    "city": "Port Nella",
+    "postal_code": "47415",
+    "country_code": "RU",
+    "region": "South Carolina",
+    "latitude": 53.02308262966202,
+    "longitude": 26.83721341355365
+  },
+  {
+    "address_line1": "19207 Earlene Wall Apt. 995",
+    "city": "Lake Teresa",
+    "postal_code": "77835",
+    "country_code": "RU",
+    "region": "New York",
+    "latitude": 54.57157031048669,
+    "longitude": 27.67008433505207
+  },
+  {
+    "address_line1": "860 Dina Course Suite 890",
+    "city": "New Nyahstad",
+    "postal_code": "60352",
+    "country_code": "BY",
+    "region": "Maryland",
+    "latitude": 53.36797326136749,
+    "longitude": 27.60402039943558
+  },
+  {
+    "address_line1": "765 Freeman Valleys Apt. 176",
+    "city": "Murrayside",
+    "postal_code": "94090",
+    "country_code": "BY",
+    "region": "North Carolina",
+    "latitude": 54.3867710657645,
+    "longitude": 28.16774132938595
+  },
+  {
+    "address_line1": "6517 Judd Stravenue Suite 134",
+    "city": "South Cadenville",
+    "postal_code": "49488",
+    "country_code": "BY",
+    "region": "Pennsylvania",
+    "latitude": 53.06489675723245,
+    "longitude": 28.029785537705415
+  },
+  {
+    "address_line1": "4270 Jordi Village Apt. 848",
+    "city": "Jonathoncester",
+    "postal_code": "14159",
+    "country_code": "BY",
+    "region": "Minnesota",
+    "latitude": 53.76883884581,
+    "longitude": 27.185726873339352
+  },
+  {
+    "address_line1": "722 Olson Mall Suite 812",
+    "city": "Boehmfield",
+    "postal_code": "83565",
+    "country_code": "RU",
+    "region": "Oklahoma",
+    "latitude": 53.30448552934981,
+    "longitude": 27.750906738467545
+  },
+  {
+    "address_line1": "04140 Gislason Unions Apt. 023",
+    "city": "Aufderharcester",
+    "postal_code": "57669",
+    "country_code": "RU",
+    "region": "Montana",
+    "latitude": 54.84482432187633,
+    "longitude": 28.33457502552552
+  },
+  {
+    "address_line1": "80379 Vandervort Common Apt. 140",
+    "city": "Kalamazoo",
+    "postal_code": "07491",
+    "country_code": "BY",
+    "region": "Illinois",
+    "latitude": 54.05602032011679,
+    "longitude": 26.677973635237386
+  },
+  {
+    "address_line1": "9067 Blick Passage Suite 389",
+    "city": "Lake Opalfield",
+    "postal_code": "04345",
+    "country_code": "RU",
+    "region": "California",
+    "latitude": 54.501015324562815,
+    "longitude": 26.58648490468748
+  },
+  {
+    "address_line1": "632 Marietta Club Apt. 069",
+    "city": "East Gonzaloshire",
+    "postal_code": "01659",
+    "country_code": "BY",
+    "region": "Tennessee",
+    "latitude": 53.068175694417135,
+    "longitude": 27.488009406141977
+  },
+  {
+    "address_line1": "379 Norene Wall Suite 556",
+    "city": "Osinskiland",
+    "postal_code": "91117",
+    "country_code": "BY",
+    "region": "North Carolina",
+    "latitude": 54.29392722007936,
+    "longitude": 26.8965718202637
+  },
+  {
+    "address_line1": "24155 Lori Ramp Suite 740",
+    "city": "Schenectady",
+    "postal_code": "88113",
+    "country_code": "RU",
+    "region": "Utah",
+    "latitude": 54.09002885715882,
+    "longitude": 27.870611253865725
+  },
+  {
+    "address_line1": "00596 Catherine Ways Apt. 322",
+    "city": "Raulstad",
+    "postal_code": "17592",
+    "country_code": "BY",
+    "region": "Ohio",
+    "latitude": 54.5023689948485,
+    "longitude": 26.60929926423232
+  },
+  {
+    "address_line1": "83807 Gunnar Way Apt. 686",
+    "city": "Levittown",
+    "postal_code": "12165",
+    "country_code": "BY",
+    "region": "Wyoming",
+    "latitude": 53.65461386078911,
+    "longitude": 26.63074159689659
+  },
+  {
+    "address_line1": "101 Waters Burgs Apt. 295",
+    "city": "Grahamberg",
+    "postal_code": "14272",
+    "country_code": "RU",
+    "region": "Arizona",
+    "latitude": 53.85894422705207,
+    "longitude": 28.370400359762222
+  },
+  {
+    "address_line1": "704 Hilbert Courts Suite 307",
+    "city": "Lake Mariancester",
+    "postal_code": "29316",
+    "country_code": "BY",
+    "region": "Indiana",
+    "latitude": 54.82123123003511,
+    "longitude": 27.02617038576186
+  },
+  {
+    "address_line1": "00017 Clyde Brook Apt. 500",
+    "city": "East Heidi",
+    "postal_code": "98374",
+    "country_code": "BY",
+    "region": "North Dakota",
+    "latitude": 53.61945025905517,
+    "longitude": 26.998214031242355
+  },
+  {
+    "address_line1": "447 Purdy Springs Apt. 374",
+    "city": "Josecester",
+    "postal_code": "84084",
+    "country_code": "BY",
+    "region": "North Carolina",
+    "latitude": 53.257268763948026,
+    "longitude": 28.33767953375905
+  },
+  {
+    "address_line1": "01941 Schneider Crossroad Suite 658",
+    "city": "West Sigurd",
+    "postal_code": "63982",
+    "country_code": "RU",
+    "region": "Massachusetts",
+    "latitude": 53.200966428948355,
+    "longitude": 27.524842544423397
+  },
+  {
+    "address_line1": "587 Franey Points Suite 877",
+    "city": "West Sammyville",
+    "postal_code": "90776",
+    "country_code": "RU",
+    "region": "North Dakota",
+    "latitude": 53.92688766809432,
+    "longitude": 28.45854009123546
+  },
+  {
+    "address_line1": "799 Alena Court Apt. 436",
+    "city": "Port Candice",
+    "postal_code": "00193",
+    "country_code": "BY",
+    "region": "Michigan",
+    "latitude": 54.48823345016134,
+    "longitude": 27.831581052983427
+  },
+  {
+    "address_line1": "945 Cremin Wall Suite 965",
+    "city": "New Vladimir",
+    "postal_code": "77646",
+    "country_code": "RU",
+    "region": "Louisiana",
+    "latitude": 53.72807748076071,
+    "longitude": 27.89502018424954
+  },
+  {
+    "address_line1": "140 Delilah Meadow Suite 405",
+    "city": "Wylie",
+    "postal_code": "56844",
+    "country_code": "BY",
+    "region": "Alaska",
+    "latitude": 53.22193546741784,
+    "longitude": 26.637710775810643
+  },
+  {
+    "address_line1": "291 Winston Neck Suite 226",
+    "city": "Caryside",
+    "postal_code": "93627",
+    "country_code": "RU",
+    "region": "Montana",
+    "latitude": 53.68652057496357,
+    "longitude": 27.104235214337297
+  },
+  {
+    "address_line1": "07999 Reilly Rapid Suite 592",
+    "city": "South Alfredafield",
+    "postal_code": "32947",
+    "country_code": "RU",
+    "region": "North Dakota",
+    "latitude": 54.23206631341608,
+    "longitude": 27.99735430364453
+  },
+  {
+    "address_line1": "33850 Schaden Avenue Suite 273",
+    "city": "West Leatha",
+    "postal_code": "59399",
+    "country_code": "RU",
+    "region": "Rhode Island",
+    "latitude": 53.055444572339375,
+    "longitude": 26.968635398402323
+  },
+  {
+    "address_line1": "557 Janice Branch Apt. 065",
+    "city": "Rock Hill",
+    "postal_code": "05252",
+    "country_code": "RU",
+    "region": "Alaska",
+    "latitude": 53.59639976950479,
+    "longitude": 26.98713620453492
+  },
+  {
+    "address_line1": "170 Christiana Flats Apt. 455",
+    "city": "Ryanshire",
+    "postal_code": "39615",
+    "country_code": "BY",
+    "region": "West Virginia",
+    "latitude": 52.957497507850285,
+    "longitude": 26.890742086246274
+  },
+  {
+    "address_line1": "77556 Harley Hollow Suite 014",
+    "city": "Herzogmouth",
+    "postal_code": "70883",
+    "country_code": "RU",
+    "region": "Illinois",
+    "latitude": 53.673363432178974,
+    "longitude": 28.00159282726241
+  },
+  {
+    "address_line1": "479 Baby Streets Suite 757",
+    "city": "North Jazmyn",
+    "postal_code": "02443",
+    "country_code": "RU",
+    "region": "Connecticut",
+    "latitude": 54.26663755383899,
+    "longitude": 26.925035903486197
+  },
+  {
+    "address_line1": "11663 Price Lakes Suite 302",
+    "city": "Selmerberg",
+    "postal_code": "36287",
+    "country_code": "BY",
+    "region": "South Carolina",
+    "latitude": 53.85583438990203,
+    "longitude": 27.655771114307445
+  },
+  {
+    "address_line1": "558 Franey Place Suite 329",
+    "city": "Devonville",
+    "postal_code": "47791",
+    "country_code": "BY",
+    "region": "Colorado",
+    "latitude": 54.00457890138144,
+    "longitude": 27.613716669340405
+  },
+  {
+    "address_line1": "2811 Mollie Mills Suite 385",
+    "city": "Southfield",
+    "postal_code": "86534",
+    "country_code": "BY",
+    "region": "Mississippi",
+    "latitude": 53.42690800611633,
+    "longitude": 27.995490121781
+  },
+  {
+    "address_line1": "84949 Carson Viaduct Apt. 559",
+    "city": "Jovanyland",
+    "postal_code": "98687",
+    "country_code": "RU",
+    "region": "Delaware",
+    "latitude": 53.29626742936543,
+    "longitude": 26.707491988250847
+  },
+  {
+    "address_line1": "3946 King Mountains Apt. 132",
+    "city": "Flatleytown",
+    "postal_code": "83800",
+    "country_code": "BY",
+    "region": "New Jersey",
+    "latitude": 53.67028082078627,
+    "longitude": 27.044213300598557
+  },
+  {
+    "address_line1": "968 Wuckert Lights Apt. 094",
+    "city": "Leotown",
+    "postal_code": "17114",
+    "country_code": "RU",
+    "region": "Indiana",
+    "latitude": 53.43954985881269,
+    "longitude": 28.145113492304823
+  },
+  {
+    "address_line1": "84354 Georgette Parkways Suite 182",
+    "city": "Lake Camilla",
+    "postal_code": "97481",
+    "country_code": "BY",
+    "region": "Georgia",
+    "latitude": 53.05583568333022,
+    "longitude": 28.412112565416507
+  },
+  {
+    "address_line1": "951 Alia Divide Apt. 338",
+    "city": "East Adityaton",
+    "postal_code": "57391",
+    "country_code": "BY",
+    "region": "Wyoming",
+    "latitude": 53.83797460021066,
+    "longitude": 28.11907064285349
+  },
+  {
+    "address_line1": "9313 Jaskolski Heights Suite 486",
+    "city": "Lake Parisside",
+    "postal_code": "38496",
+    "country_code": "BY",
+    "region": "Missouri",
+    "latitude": 53.80135223839055,
+    "longitude": 28.457751809189702
+  },
+  {
+    "address_line1": "44325 Agustin Union Apt. 222",
+    "city": "Marysville",
+    "postal_code": "23543",
+    "country_code": "RU",
+    "region": "Oklahoma",
+    "latitude": 54.39866928766059,
+    "longitude": 28.00586995671235
+  },
+  {
+    "address_line1": "173 Streich Walks Apt. 609",
+    "city": "Atascocita",
+    "postal_code": "56388",
+    "country_code": "RU",
+    "region": "Indiana",
+    "latitude": 54.26966023882842,
+    "longitude": 28.41003471942264
+  },
+  {
+    "address_line1": "47612 Dickens Parkway Suite 149",
+    "city": "Darefurt",
+    "postal_code": "83694",
+    "country_code": "RU",
+    "region": "Wyoming",
+    "latitude": 53.90538363804407,
+    "longitude": 27.961264442136496
+  },
+  {
+    "address_line1": "738 Towne Crest Apt. 906",
+    "city": "Fort Glennastead",
+    "postal_code": "42226",
+    "country_code": "BY",
+    "region": "New Jersey",
+    "latitude": 53.31639458324401,
+    "longitude": 27.8428515017296
+  },
+  {
+    "address_line1": "37325 Legros Burg Apt. 603",
+    "city": "Avisborough",
+    "postal_code": "55436",
+    "country_code": "BY",
+    "region": "South Dakota",
+    "latitude": 53.35567353260025,
+    "longitude": 28.36351385070583
+  },
+  {
+    "address_line1": "9643 Major Extensions Apt. 141",
+    "city": "Monserrateboro",
+    "postal_code": "48210",
+    "country_code": "RU",
+    "region": "Minnesota",
+    "latitude": 53.118941453625425,
+    "longitude": 28.28777027188674
+  },
+  {
+    "address_line1": "761 Lockman Union Apt. 160",
+    "city": "East Josue",
+    "postal_code": "73080",
+    "country_code": "BY",
+    "region": "Kentucky",
+    "latitude": 53.12666840907406,
+    "longitude": 26.89577247365854
+  },
+  {
+    "address_line1": "65273 Arvel Hills Suite 741",
+    "city": "Fort Pierceworth",
+    "postal_code": "77214",
+    "country_code": "RU",
+    "region": "Minnesota",
+    "latitude": 54.39692479750838,
+    "longitude": 28.500190372120088
+  },
+  {
+    "address_line1": "0275 Cole Ways Suite 024",
+    "city": "Jodyhaven",
+    "postal_code": "01683",
+    "country_code": "BY",
+    "region": "Vermont",
+    "latitude": 53.476530295058204,
+    "longitude": 27.384929135477527
+  },
+  {
+    "address_line1": "9387 Margarett Alley Apt. 812",
+    "city": "Bountiful",
+    "postal_code": "33666",
+    "country_code": "RU",
+    "region": "Kentucky",
+    "latitude": 53.692544174988015,
+    "longitude": 26.789879923290805
+  },
+  {
+    "address_line1": "719 Will Coves Suite 386",
+    "city": "Lubowitzton",
+    "postal_code": "24624",
+    "country_code": "RU",
+    "region": "South Carolina",
+    "latitude": 54.63572924515742,
+    "longitude": 26.80267956873753
+  },
+  {
+    "address_line1": "12625 Dickens Crescent Suite 368",
+    "city": "Dimitriboro",
+    "postal_code": "81369",
+    "country_code": "BY",
+    "region": "Pennsylvania",
+    "latitude": 54.33778839076298,
+    "longitude": 27.397734211402195
+  },
+  {
+    "address_line1": "6585 Lysanne Land Suite 826",
+    "city": "Anselport",
+    "postal_code": "59717",
+    "country_code": "RU",
+    "region": "Arizona",
+    "latitude": 54.21977105434831,
+    "longitude": 27.01384183292577
+  },
+  {
+    "address_line1": "34630 Frami Extensions Suite 236",
+    "city": "Schambergerstad",
+    "postal_code": "95671",
+    "country_code": "RU",
+    "region": "Tennessee",
+    "latitude": 54.742891467466755,
+    "longitude": 28.032247915997925
+  },
+  {
+    "address_line1": "2216 Elenora Keys Apt. 769",
+    "city": "Bowie",
+    "postal_code": "54743",
+    "country_code": "BY",
+    "region": "South Carolina",
+    "latitude": 54.50331171756894,
+    "longitude": 28.40460850541526
+  },
+  {
+    "address_line1": "2543 Karl Lane Suite 136",
+    "city": "Lake Shaynemouth",
+    "postal_code": "47602",
+    "country_code": "BY",
+    "region": "North Carolina",
+    "latitude": 53.457436320661046,
+    "longitude": 27.056610037622605
+  },
+  {
+    "address_line1": "42577 Shana Point Apt. 077",
+    "city": "Fort Marcia",
+    "postal_code": "80614",
+    "country_code": "RU",
+    "region": "North Dakota",
+    "latitude": 53.45295328560462,
+    "longitude": 26.57202752324022
+  },
+  {
+    "address_line1": "79660 Kristofer Islands Suite 446",
+    "city": "Santa Rosa",
+    "postal_code": "52840",
+    "country_code": "BY",
+    "region": "Kentucky",
+    "latitude": 53.48524914174864,
+    "longitude": 26.786273198364245
+  },
+  {
+    "address_line1": "3724 Feeney Passage Suite 833",
+    "city": "Lake Cali",
+    "postal_code": "10977",
+    "country_code": "BY",
+    "region": "Wisconsin",
+    "latitude": 54.277549761948535,
+    "longitude": 27.073353092609715
+  },
+  {
+    "address_line1": "829 Darrin Passage Apt. 806",
+    "city": "Collinscester",
+    "postal_code": "58788",
+    "country_code": "RU",
+    "region": "New Hampshire",
+    "latitude": 54.7233771010038,
+    "longitude": 27.08514735235442
+  },
+  {
+    "address_line1": "3942 Schulist Valleys Apt. 916",
+    "city": "Kuhnfort",
+    "postal_code": "64904",
+    "country_code": "BY",
+    "region": "California",
+    "latitude": 54.74269033353676,
+    "longitude": 28.120360366964434
+  },
+  {
+    "address_line1": "182 Vandervort Circle Apt. 280",
+    "city": "North Johanna",
+    "postal_code": "96842",
+    "country_code": "RU",
+    "region": "Arizona",
+    "latitude": 54.45393208053304,
+    "longitude": 27.849777978902722
+  },
+  {
+    "address_line1": "73629 Murphy Pike Apt. 692",
+    "city": "Lake Lonnie",
+    "postal_code": "40366",
+    "country_code": "BY",
+    "region": "Wyoming",
+    "latitude": 54.302406679574574,
+    "longitude": 27.980743146982377
+  },
+  {
+    "address_line1": "5558 Demond Garden Apt. 667",
+    "city": "Skylaton",
+    "postal_code": "92962",
+    "country_code": "RU",
+    "region": "South Carolina",
+    "latitude": 54.0896951614194,
+    "longitude": 26.945236605237923
+  },
+  {
+    "address_line1": "8771 Hilario Cove Suite 255",
+    "city": "Moline",
+    "postal_code": "33376",
+    "country_code": "RU",
+    "region": "Pennsylvania",
+    "latitude": 54.53965437668129,
+    "longitude": 27.424622710280346
+  },
+  {
+    "address_line1": "26517 Janis Hills Suite 820",
+    "city": "West Isobelshire",
+    "postal_code": "41568",
+    "country_code": "RU",
+    "region": "Oregon",
+    "latitude": 53.302504973373615,
+    "longitude": 28.18357845937004
+  },
+  {
+    "address_line1": "9988 Hegmann Garden Apt. 986",
+    "city": "Akeemberg",
+    "postal_code": "23883",
+    "country_code": "RU",
+    "region": "Ohio",
+    "latitude": 53.659221519197125,
+    "longitude": 26.949187138593942
+  },
+  {
+    "address_line1": "3516 Randal Center Apt. 388",
+    "city": "Grand Rapids",
+    "postal_code": "41531",
+    "country_code": "BY",
+    "region": "Nevada",
+    "latitude": 52.92000093320258,
+    "longitude": 27.182086651662182
+  },
+  {
+    "address_line1": "15461 Delta Haven Suite 807",
+    "city": "Ryanworth",
+    "postal_code": "50244",
+    "country_code": "RU",
+    "region": "Mississippi",
+    "latitude": 54.41599407345225,
+    "longitude": 28.21227899394794
+  },
+  {
+    "address_line1": "878 Alek River Suite 143",
+    "city": "Skylachester",
+    "postal_code": "26265",
+    "country_code": "BY",
+    "region": "Illinois",
+    "latitude": 54.702566764815366,
+    "longitude": 27.03964026791664
+  },
+  {
+    "address_line1": "396 Wilburn Street Suite 589",
+    "city": "New Wilfrid",
+    "postal_code": "98890",
+    "country_code": "RU",
+    "region": "Tennessee",
+    "latitude": 53.43554640749204,
+    "longitude": 26.605089557093077
+  },
+  {
+    "address_line1": "80255 Abagail Run Apt. 101",
+    "city": "Tyreekfurt",
+    "postal_code": "59017",
+    "country_code": "BY",
+    "region": "New York",
+    "latitude": 54.62573053040745,
+    "longitude": 26.685984722376997
+  },
+  {
+    "address_line1": "418 Tillman Shores Suite 579",
+    "city": "Kertzmannstead",
+    "postal_code": "44830",
+    "country_code": "RU",
+    "region": "Connecticut",
+    "latitude": 54.017465916008526,
+    "longitude": 27.391820645178225
+  },
+  {
+    "address_line1": "806 Okuneva Flats Apt. 491",
+    "city": "Modesto",
+    "postal_code": "23381",
+    "country_code": "BY",
+    "region": "Wyoming",
+    "latitude": 54.503828231940965,
+    "longitude": 28.285390110634385
+  },
+  {
+    "address_line1": "2944 Merritt Station Suite 031",
+    "city": "Fort Felton",
+    "postal_code": "15871",
+    "country_code": "BY",
+    "region": "Kentucky",
+    "latitude": 53.537978137389,
+    "longitude": 27.68248381739412
+  },
+  {
+    "address_line1": "402 Cecile Station Suite 374",
+    "city": "Veronicaville",
+    "postal_code": "74567",
+    "country_code": "RU",
+    "region": "Ohio",
+    "latitude": 53.12222173238708,
+    "longitude": 27.06422583384348
+  },
+  {
+    "address_line1": "453 Friesen Lane Suite 403",
+    "city": "Purdyport",
+    "postal_code": "13207",
+    "country_code": "RU",
+    "region": "Colorado",
+    "latitude": 54.6224607606134,
+    "longitude": 27.032371296977395
+  },
+  {
+    "address_line1": "83936 Roosevelt Street Suite 582",
+    "city": "East Bradfordport",
+    "postal_code": "61905",
+    "country_code": "BY",
+    "region": "California",
+    "latitude": 53.90298702774904,
+    "longitude": 26.795717815525936
+  },
+  {
+    "address_line1": "42978 Hudson Hills Apt. 900",
+    "city": "Berniermouth",
+    "postal_code": "77089",
+    "country_code": "BY",
+    "region": "West Virginia",
+    "latitude": 54.40238645855761,
+    "longitude": 26.809368027664554
+  },
+  {
+    "address_line1": "441 Kreiger Union Apt. 310",
+    "city": "Isadorechester",
+    "postal_code": "56107",
+    "country_code": "RU",
+    "region": "South Dakota",
+    "latitude": 54.668626477433946,
+    "longitude": 27.554478108788906
+  },
+  {
+    "address_line1": "654 Rippin Underpass Suite 606",
+    "city": "Albertstad",
+    "postal_code": "52965",
+    "country_code": "RU",
+    "region": "Pennsylvania",
+    "latitude": 53.14118932260049,
+    "longitude": 28.07486979147247
+  },
+  {
+    "address_line1": "201 Aufderhar Garden Suite 479",
+    "city": "West Lestershire",
+    "postal_code": "33281",
+    "country_code": "BY",
+    "region": "North Carolina",
+    "latitude": 54.217507924973376,
+    "longitude": 26.9463924090094
+  },
+  {
+    "address_line1": "022 Joe Shoal Suite 851",
+    "city": "Missoula",
+    "postal_code": "88932",
+    "country_code": "RU",
+    "region": "New Jersey",
+    "latitude": 53.43529058083393,
+    "longitude": 28.565195953600174
+  },
+  {
+    "address_line1": "555 Santina Spurs Suite 142",
+    "city": "Wolfffield",
+    "postal_code": "47445",
+    "country_code": "RU",
+    "region": "South Dakota",
+    "latitude": 54.85943651449848,
+    "longitude": 27.71552283596229
+  },
+  {
+    "address_line1": "38854 Dooley Union Apt. 470",
+    "city": "New Gabriellefort",
+    "postal_code": "98241",
+    "country_code": "RU",
+    "region": "Oregon",
+    "latitude": 53.48516265496412,
+    "longitude": 28.439992830499833
+  },
+  {
+    "address_line1": "3892 Kemmer Trail Apt. 176",
+    "city": "Vicentefield",
+    "postal_code": "78453",
+    "country_code": "RU",
+    "region": "Colorado",
+    "latitude": 53.63538869106878,
+    "longitude": 26.866188635671218
+  },
+  {
+    "address_line1": "66300 Darron Views Apt. 880",
+    "city": "Talonburgh",
+    "postal_code": "02203",
+    "country_code": "RU",
+    "region": "New Mexico",
+    "latitude": 53.51610109006575,
+    "longitude": 28.178273186962105
+  },
+  {
+    "address_line1": "9344 Hartmann Radial Apt. 375",
+    "city": "Fort Pansy",
+    "postal_code": "37167",
+    "country_code": "BY",
+    "region": "West Virginia",
+    "latitude": 54.79535279816587,
+    "longitude": 28.153609717451786
+  },
+  {
+    "address_line1": "52239 Shannon Flats Apt. 587",
+    "city": "Waipahu",
+    "postal_code": "11969",
+    "country_code": "RU",
+    "region": "Rhode Island",
+    "latitude": 54.275992135253105,
+    "longitude": 27.489007398819503
+  },
+  {
+    "address_line1": "24539 Lola Lakes Suite 110",
+    "city": "Bowie",
+    "postal_code": "32041",
+    "country_code": "BY",
+    "region": "Hawaii",
+    "latitude": 54.7118041605309,
+    "longitude": 27.644700006365568
+  },
+  {
+    "address_line1": "929 Ashleigh Flat Apt. 664",
+    "city": "Leonardburgh",
+    "postal_code": "18071",
+    "country_code": "BY",
+    "region": "Oklahoma",
+    "latitude": 54.34534542757325,
+    "longitude": 27.84001135395802
+  },
+  {
+    "address_line1": "199 Rosenbaum Lakes Suite 092",
+    "city": "Christiansenberg",
+    "postal_code": "92378",
+    "country_code": "RU",
+    "region": "Texas",
+    "latitude": 53.27892269611726,
+    "longitude": 27.731737389873267
+  },
+  {
+    "address_line1": "61752 Kaia Grove Suite 995",
+    "city": "Luettgenshire",
+    "postal_code": "34786",
+    "country_code": "BY",
+    "region": "Georgia",
+    "latitude": 53.98571430509585,
+    "longitude": 26.87103180245003
+  },
+  {
+    "address_line1": "23211 Greta Inlet Apt. 695",
+    "city": "Fort Dameon",
+    "postal_code": "35673",
+    "country_code": "RU",
+    "region": "Florida",
+    "latitude": 53.44549748581949,
+    "longitude": 27.212188603769167
+  },
+  {
+    "address_line1": "6926 Marlin Ferry Apt. 068",
+    "city": "Fort Eriberto",
+    "postal_code": "35758",
+    "country_code": "BY",
+    "region": "South Dakota",
+    "latitude": 54.113616218273194,
+    "longitude": 28.443312348831352
+  },
+  {
+    "address_line1": "682 Zane Summit Apt. 186",
+    "city": "West Dallasstead",
+    "postal_code": "45861",
+    "country_code": "RU",
+    "region": "Michigan",
+    "latitude": 53.27576905492669,
+    "longitude": 27.87079643162813
+  },
+  {
+    "address_line1": "664 Koss Court Suite 685",
+    "city": "West August",
+    "postal_code": "28956",
+    "country_code": "BY",
+    "region": "Iowa",
+    "latitude": 54.18230947019518,
+    "longitude": 27.1356043936113
+  },
+  {
+    "address_line1": "86845 Rasheed Lane Apt. 950",
+    "city": "Kingbury",
+    "postal_code": "32641",
+    "country_code": "RU",
+    "region": "Georgia",
+    "latitude": 54.40917812936876,
+    "longitude": 27.339981011823205
+  },
+  {
+    "address_line1": "44991 Makenna Harbors Suite 067",
+    "city": "Port Ahmad",
+    "postal_code": "45116",
+    "country_code": "BY",
+    "region": "Vermont",
+    "latitude": 53.53591472687636,
+    "longitude": 28.268069587816527
+  },
+  {
+    "address_line1": "6297 Beier Summit Apt. 378",
+    "city": "Cypress",
+    "postal_code": "45139",
+    "country_code": "RU",
+    "region": "Virginia",
+    "latitude": 53.820268024613256,
+    "longitude": 28.395278855941783
+  },
+  {
+    "address_line1": "3836 Luella Crossing Apt. 928",
+    "city": "Lake Keanubury",
+    "postal_code": "52737",
+    "country_code": "RU",
+    "region": "Maine",
+    "latitude": 54.59060744007648,
+    "longitude": 28.189550741301773
+  },
+  {
+    "address_line1": "13943 Rudolph Corners Apt. 214",
+    "city": "Port Oscar",
+    "postal_code": "82001",
+    "country_code": "BY",
+    "region": "Virginia",
+    "latitude": 53.493795376922584,
+    "longitude": 28.133306346439408
+  },
+  {
+    "address_line1": "56179 Block Roads Suite 404",
+    "city": "East Robbie",
+    "postal_code": "76883",
+    "country_code": "RU",
+    "region": "Arkansas",
+    "latitude": 54.121576751303664,
+    "longitude": 28.477229894840374
+  },
+  {
+    "address_line1": "82213 Lemke Course Apt. 225",
+    "city": "Hellerside",
+    "postal_code": "77062",
+    "country_code": "BY",
+    "region": "Connecticut",
+    "latitude": 53.68438003222762,
+    "longitude": 27.19437996988609
+  },
+  {
+    "address_line1": "485 Frami Alley Suite 403",
+    "city": "North Adonis",
+    "postal_code": "56568",
+    "country_code": "RU",
+    "region": "Michigan",
+    "latitude": 54.17196999750978,
+    "longitude": 27.720566419422138
+  },
+  {
+    "address_line1": "9275 Fae Haven Suite 132",
+    "city": "Mission Viejo",
+    "postal_code": "71145",
+    "country_code": "BY",
+    "region": "Illinois",
+    "latitude": 53.11312105980807,
+    "longitude": 27.018119083918442
+  },
+  {
+    "address_line1": "40119 Rogahn Motorway Apt. 687",
+    "city": "North Vedamouth",
+    "postal_code": "09536",
+    "country_code": "BY",
+    "region": "Pennsylvania",
+    "latitude": 53.85312539241158,
+    "longitude": 26.808161918673814
+  },
+  {
+    "address_line1": "8630 Morar Mission Suite 171",
+    "city": "Lake Freedacester",
+    "postal_code": "35427",
+    "country_code": "RU",
+    "region": "New Jersey",
+    "latitude": 54.803639971130515,
+    "longitude": 28.096332406768774
+  },
+  {
+    "address_line1": "94852 Greg Common Apt. 560",
+    "city": "North Kellybury",
+    "postal_code": "98159",
+    "country_code": "BY",
+    "region": "Kentucky",
+    "latitude": 53.89232753315313,
+    "longitude": 27.72325028140306
+  },
+  {
+    "address_line1": "401 Tate Place Apt. 286",
+    "city": "Wuckertworth",
+    "postal_code": "94956",
+    "country_code": "RU",
+    "region": "Kentucky",
+    "latitude": 53.48512061280791,
+    "longitude": 26.672773161217624
+  },
+  {
+    "address_line1": "779 Hannah Ports Suite 999",
+    "city": "Toms River",
+    "postal_code": "48134",
+    "country_code": "BY",
+    "region": "Mississippi",
+    "latitude": 53.0872464955923,
+    "longitude": 27.962810822538366
+  },
+  {
+    "address_line1": "0891 Polly Track Apt. 864",
+    "city": "Port Darwinworth",
+    "postal_code": "27787",
+    "country_code": "RU",
+    "region": "Minnesota",
+    "latitude": 53.82998450495113,
+    "longitude": 27.34874688154528
+  },
+  {
+    "address_line1": "401 Mercedes Terrace Apt. 042",
+    "city": "Veumview",
+    "postal_code": "83394",
+    "country_code": "RU",
+    "region": "Arizona",
+    "latitude": 52.93952058549517,
+    "longitude": 26.585082650628184
+  },
+  {
+    "address_line1": "886 Rowe Ridges Apt. 913",
+    "city": "North Dixieville",
+    "postal_code": "40944",
+    "country_code": "RU",
+    "region": "Nevada",
+    "latitude": 54.531042225334815,
+    "longitude": 27.73128354288131
+  },
+  {
+    "address_line1": "17412 Geovanni Expressway Suite 808",
+    "city": "Jeraldport",
+    "postal_code": "83439",
+    "country_code": "BY",
+    "region": "New Jersey",
+    "latitude": 54.40357049313569,
+    "longitude": 27.54538788718671
+  },
+  {
+    "address_line1": "52830 Lowe Trail Apt. 108",
+    "city": "West Madalynshire",
+    "postal_code": "57740",
+    "country_code": "RU",
+    "region": "Kentucky",
+    "latitude": 53.19059391724026,
+    "longitude": 26.703495885384648
+  },
+  {
+    "address_line1": "03474 Mikayla Mills Suite 071",
+    "city": "Tallahassee",
+    "postal_code": "86376",
+    "country_code": "BY",
+    "region": "Massachusetts",
+    "latitude": 53.4397254679864,
+    "longitude": 27.011250700580533
+  },
+  {
+    "address_line1": "770 Cloyd Orchard Apt. 572",
+    "city": "South Nova",
+    "postal_code": "88459",
+    "country_code": "RU",
+    "region": "Michigan",
+    "latitude": 54.57010666956434,
+    "longitude": 26.90066386053006
+  },
+  {
+    "address_line1": "51996 Daphney Loop Apt. 373",
+    "city": "Maggioton",
+    "postal_code": "30152",
+    "country_code": "BY",
+    "region": "Washington",
+    "latitude": 53.91791611702153,
+    "longitude": 28.002037503800672
+  }
+]

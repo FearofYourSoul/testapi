@@ -1,0 +1,222 @@
+[
+  {
+    "id": "4a354e54-a225-4679-a0b0-85b387518f0f",
+    "address_line1": "пл. Свободы, 46",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.90226207659907,
+    "longitude": 27.557436647835505
+  },
+  {
+    "id": "0ed3bef6-6ca6-4c31-b313-02327687cbeb",
+    "address_line1": "ул. Авангарская, 3",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.90182716892969,
+    "longitude": 27.553653269412155
+  },
+  {
+    "id": "ca8348f4-c593-4e18-875c-01dfedae4362",
+    "address_line1": "ул. Петруся Бровки, 25",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.904785345837205,
+    "longitude": 27.560090570992816
+  },
+  {
+    "id": "309bcaee-8a0f-45c4-af3f-39d38dbe2551",
+    "address_line1": "просп. Независимости, 9",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.89634008113322,
+    "longitude": 27.55391076206759
+  },
+  {
+    "id": "77fc00aa-c238-4292-9f9c-2e16c713f0ff",
+    "address_line1": "ул. Немига, 1",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.894266431758574,
+    "longitude": 27.566184549862555
+  },
+  {
+    "id": "c666f9f6-af83-4eeb-b527-007257a54f36",
+    "address_line1": "ул. Азовская, 47",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.89636536885186,
+    "longitude": 27.553932219849916
+  },
+  {
+    "id": "ee7dd9a0-370b-4686-a6be-5c26db7325d2",
+    "address_line1": "пл. Якуба Коласа, 49",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.89234442099141,
+    "longitude": 27.55577757953658
+  },
+  {
+    "id": "437bf062-ad84-480b-965f-f18027dc63b3",
+    "address_line1": "ул. Мирошниченко, 37",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.90096216103995,
+    "longitude": 27.574743585108706
+  },
+  {
+    "id": "39fd16e9-166a-481f-8249-7f654b0fbbf7",
+    "address_line1": "ул. Гамарника, 11",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.91510264973061,
+    "longitude": 27.568847623701647
+  },
+  {
+    "id": "ae431c39-2c9b-4515-9241-23d6a8cd1ca3",
+    "address_line1": "ул. Зеленая, 35",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.92818536499163,
+    "longitude": 27.573602900270398
+  },
+  {
+    "id": "d9e2c7b8-6aa2-4d22-b270-192d907ac965",
+    "address_line1": "пл. Свободы, 24",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.92880200538595,
+    "longitude": 27.567099256749195
+  },
+  {
+    "id": "5104d781-d7f8-4b0b-bc2a-1a985808d5b1",
+    "address_line1": "ул. Авангарская, 14",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.940018931188526,
+    "longitude": 27.60201643665164
+  },
+  {
+    "id": "3711ef39-9a85-4bad-8bc9-8b7a8b4c222c",
+    "address_line1": "ул. Петруся Бровки, 11",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.923872164510854,
+    "longitude": 27.606725519075688
+  },
+  {
+    "id": "6d318728-40f4-4679-978b-305bf5c721ff",
+    "address_line1": "просп. Независимости, 12",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.93712613703953,
+    "longitude": 27.59602795471841
+  },
+  {
+    "id": "7b4e97b3-e521-4405-98c6-b2d6fc5db6ea",
+    "address_line1": "ул. Немига, 17",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.95176483688368,
+    "longitude": 27.593303915703316
+  },
+  {
+    "id": "550be128-334d-4aa3-8d32-85793fcd1d94",
+    "address_line1": "ул. Азовская, 38",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.955824423354635,
+    "longitude": 27.601150332871455
+  },
+  {
+    "id": "0b627cee-8ae6-4f43-8168-7df90dff967f",
+    "address_line1": "пл. Якуба Коласа, 0",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.95425734878661,
+    "longitude": 27.619156099800875
+  },
+  {
+    "id": "6d565353-b12e-45d7-be34-2caacf4e1a24",
+    "address_line1": "ул. Мирошниченко, 1",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.95336634790406,
+    "longitude": 27.611585191758845
+  },
+  {
+    "id": "5fe819dc-00d5-4b6b-a29f-6ddc9abf98b5",
+    "address_line1": "ул. Гамарника, 5",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.92269816191235,
+    "longitude": 27.60655264807385
+  },
+  {
+    "id": "a259ddc5-c49b-487f-b667-bbbe0934aa8c",
+    "address_line1": "ул. Зеленая, 1",
+    "city": "Минск",
+    "region": "Минск",
+    "postal_code": "123456",
+    "country": "Беларусь",
+    "country_code": "BY",
+    "latitude": 53.92269816191235,
+    "longitude": 27.60655264807385
+  }
+]

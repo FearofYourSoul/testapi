@@ -1,0 +1,735 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider        = "prisma-client-js"
+  // please don't remove orderByRelation, it won't work without it
+  previewFeatures = ["fullTextSearch", "orderByRelation"]
+  binaryTargets = ["native", "linux-arm64-openssl-1.1.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum EPlaceTableShape {
+  RECTANGLE
+  CIRCLE
+}
+
+enum EPlaceDecorType {
+  RECTANGLE
+}
+
+enum EPlaceExpensiveness {
+  CHEAP
+  MEDIUM
+  EXPENSIVE
+}
+
+enum ESubscriptionStatus {
+  ACTIVE
+  REJECTED
+  EXPIRED
+}
+
+enum ESubscriptionPlan {
+  FREE
+  PLUS
+  PRO
+}
+
+enum ESubscriptionFormat {
+  ANNUAL
+  MONTHLY
+  SEMI_ANNUAL
+}
+
+enum EEmployeeRole {
+  administrator
+  hostess
+  manager
+}
+
+enum EBookingStatus {
+  ACCEPTED
+  CANCELED
+  CLOSED
+  EXPIRED
+  IN_PROGRESS
+  REJECTED
+  WAITING
+}
+
+enum EDayOfWeek {
+  sunday
+  monday
+  tuesday
+  wednesday
+  thursday
+  friday
+  saturday
+}
+
+enum EDepositInteraction {
+  TAKE_MORE
+  SUMMARIZE
+}
+
+enum ETransactionStatus {
+  successful
+  failed
+  incomplete
+  expired
+  pending_payment
+  canceled
+}
+
+enum ECurrencies {
+  BYN
+  CNY
+  EUR
+  PLN
+  RUB
+  UAH
+  USD
+}
+
+model AppSettings {
+  id                      String    @id @default(cuid())
+  created_at              DateTime  @default(now())
+  updated_at              DateTime  @updatedAt
+  deleted_at              DateTime?
+  client_transaction_time Int       @default(300) // seconds
+}
+
+model Client {
+  id                      String                @id @default(cuid())
+  created_at              DateTime              @default(now())
+  updated_at              DateTime              @updatedAt
+  deleted_at              DateTime?
+  date_birth              DateTime?
+  email                   String?               @unique
+  expo_token              String?               @unique
+  expo_token_updated_at   DateTime?
+  is_email_verified       Boolean?
+  has_email_notifications Boolean?
+  first_name              String?
+  last_name               String?
+  verification_code       String?
+  push_notifications      Boolean?
+  language                String?
+  phone_number            String?               @unique
+  CurrentLocation         Address?              @relation(fields: [current_location_id], references: [id], onDelete: Cascade)
+  current_location_id     String?               @unique
+  AverageClientRating     AverageClientRating[]
+  BookingTables           Booking[]
+  DepostitPayments        DepositPayment[]
+  FavoritePlace           FavoritePlace[]
+  PreOrderPayments        PreOrderPayment[]
+  VisitedPlace            VisitedPlace[]
+  ManagerNotifications    ManagerNotification[]
+}
+
+model Admin {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  password      String
+  refresh_token String?
+  created_at    DateTime  @default(now())
+  updated_at    DateTime  @updatedAt
+  deleted_at    DateTime?
+}
+
+model Employee {
+  id                          String                        @id @default(cuid())
+  created_at                  DateTime                      @default(now())
+  updated_at                  DateTime                      @updatedAt
+  deleted_at                  DateTime?
+  role                        EEmployeeRole                 @default(hostess)
+  name                        String
+  login                       String                        @unique
+  password                    String
+  email                       String?                       @unique
+  phone_number                String?                       @unique
+  is_email_verified           Boolean                       @default(false)
+  is_phone_verified           Boolean                       @default(false)
+  Owner                       Owner                         @relation(fields: [owner_id], references: [id])
+  owner_id                    String
+  EmployeePlace               EmployeePlace[]
+  RefreshToken                RefreshToken[]
+  ManagerNotifications        ManagerNotification[]
+  ManagerNotificationViewedBy ManagerNotificationViewedBy[]
+  RefundTransaction           RefundTransaction[]
+}
+
+model Owner {
+  id                          String                        @id @default(cuid())
+  created_at                  DateTime                      @default(now())
+  updated_at                  DateTime                      @updatedAt
+  deleted_at                  DateTime?
+  name                        String
+  email                       String                        @unique
+  login                       String?                       @unique
+  password                    String
+  phone_number                String                        @unique
+  is_email_verified           Boolean                       @default(false)
+  is_phone_verified           Boolean                       @default(false)
+  RefreshToken                RefreshToken[]
+  Place                       Place[]
+  Employee                    Employee[]
+  ManagerNotifications        ManagerNotification[]
+  ManagerNotificationViewedBy ManagerNotificationViewedBy[]
+  RefundTransaction           RefundTransaction[]
+}
+
+model ManagerNotification {
+  id                          String                        @id @default(cuid())
+  created_at                  DateTime                      @default(now())
+  updated_at                  DateTime                      @updatedAt
+  deleted_at                  DateTime?
+  // Notification type
+  BookingNotification         BookingNotification?          @relation(fields: [booking_notification_id], references: [id])
+  booking_notification_id     String?                       @unique
+  // Notification created by
+  Owner                       Owner?                        @relation(fields: [owner_id], references: [id])
+  owner_id                    String?
+  Employee                    Employee?                     @relation(fields: [employee_id], references: [id])
+  employee_id                 String?
+  Client                      Client?                       @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id                   String?
+  // Notification viewed by
+  ManagerNotificationViewedBy ManagerNotificationViewedBy[]
+}
+
+model BookingNotification {
+  id                  String               @id @default(cuid())
+  booking_status      EBookingStatus?
+  Booking             Booking?             @relation(fields: [booking_id], references: [id])
+  booking_id          String?
+  Place               Place?               @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id            String?
+  ManagerNotification ManagerNotification?
+}
+
+model ManagerNotificationViewedBy {
+  id                      String              @id @default(cuid())
+  Owner                   Owner?              @relation(fields: [owner_id], references: [id])
+  owner_id                String?
+  Employee                Employee?           @relation(fields: [employee_id], references: [id])
+  employee_id             String?
+  ManagerNotification     ManagerNotification @relation(fields: [manager_notification_id], references: [id])
+  manager_notification_id String
+}
+
+model RefreshToken {
+  id          String    @id @default(cuid())
+  user_agent  String
+  // ip          String
+  token       String
+  created_at  DateTime  @default(now())
+  updated_at  DateTime  @updatedAt
+  owner_id    String?
+  Owner       Owner?    @relation(fields: [owner_id], references: [id])
+  employee_id String?
+  Employee    Employee? @relation(fields: [employee_id], references: [id])
+  // client_id  String?
+  // Client     Client?  @relation(fields: [client_id], references: [id])
+  // @@unique([user_agent, ip, client_id])
+
+  // TODO: ip
+  @@unique([user_agent, owner_id])
+  @@unique([user_agent, employee_id])
+}
+
+model Address {
+  id            String     @id @default(cuid())
+  created_at    DateTime   @default(now())
+  updated_at    DateTime   @updatedAt
+  deleted_at    DateTime?
+  address_line1 String
+  address_line2 String?
+  city          String
+  postal_code   String?
+  country       String?
+  country_code  String?
+  region        String?
+  latitude      Float?
+  longitude     Float?
+  IikoPlace     IikoPlace? @relation(fields: [iiko_Place_id], references: [id])
+  iiko_Place_id String?
+  Place         Place?
+  Client        Client?
+}
+
+model Place {
+  id                    String                @id @default(cuid())
+  created_at            DateTime              @default(now())
+  updated_at            DateTime              @updatedAt
+  deleted_at            DateTime?
+  description           String?
+  expiration_time       Int                   @default(900000) //ms
+  expensiveness         EPlaceExpensiveness
+  is_published          Boolean               @default(false)
+  logo_url              String?
+  name                  String
+  phone_number          String?
+  BaseImage             Image?                @relation("base")
+  IikoPlace             IikoPlace?            @relation(fields: [iiko_Place_id], references: [id])
+  iiko_Place_id         String?               @unique
+  Owner                 Owner                 @relation(fields: [owner_id], references: [id])
+  owner_id              String
+  ReservesSettings      ReservesSettings      @relation(fields: [reserves_settings_id], references: [id], onDelete: Cascade)
+  reserves_settings_id  String                @unique
+  PlaceSubscription     PlaceSubscription     @relation(fields: [place_subscription_id], references: [id])
+  place_subscription_id String                @unique
+  Address               Address?              @relation(fields: [address_id], references: [id], onDelete: Cascade)
+  address_id            String?               @unique
+  bepaid_id             String?
+  bepaid_secret_key     String?
+  CategoryPlace         CategoryPlace[]
+  ClientRating          ClientRatingField[]
+  Employee              EmployeePlace[]
+  FavoritePlace         FavoritePlace[]
+  Image                 Image[]
+  PlaceKitchen          PlaceKitchen[]
+  PlaceMenuCategory     PlaceMenuCategory[]
+  PlaceMenuItems        PlaceMenuItem[]
+  PlaceSection          PlaceSection[]
+  VisitedPlace          VisitedPlace[]
+  WorkingHours          WorkingHours[]
+  Deposit               Deposit?
+  BookingNotification   BookingNotification[]
+}
+
+model Deposit {
+  id              String              @id @default(cuid())
+  Place           Place               @relation(fields: [place_id], references: [id])
+  place_id        String              @unique
+  person_price    Int?
+  table_price     Int?
+  is_table_price  Boolean             @default(false)
+  is_person_price Boolean             @default(false)
+  interaction     EDepositInteraction @default(TAKE_MORE)
+  Exceptions      DepositException[]
+}
+
+model DepositException {
+  id               String    @id @default(cuid())
+  created_at       DateTime  @default(now())
+  updated_at       DateTime  @updatedAt
+  deleted_at       DateTime?
+  person_price     Int?
+  table_price      Int?
+  is_table_price   Boolean   @default(false)
+  is_person_price  Boolean   @default(false)
+  for_days_of_week Boolean   @default(false)
+  is_all_day       Boolean   @default(false)
+  start_time       DateTime?
+  end_time         DateTime?
+  start_date       DateTime?
+  end_date         DateTime?
+  days             String?
+  Deposit          Deposit   @relation(fields: [deposit_id], references: [id])
+  deposit_id       String
+}
+
+model VisitedPlace {
+  last_visit DateTime @default(now())
+  Place      Place    @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id   String
+  Client     Client   @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id  String
+
+  @@unique([place_id, client_id])
+}
+
+model ReservesSettings {
+  id                    String @id @default(cuid())
+  response_time         Int    @default(300) // seconds
+  unreachable_interval  Int    @default(900)
+  delayed_response_time Int    @default(3600)
+  time_between_reserves Int    @default(0)
+  min_booking_time      Int    @default(1800)
+  max_booking_time      Int    @default(10800)
+  Place                 Place?
+}
+
+model FavoritePlace {
+  Place     Place  @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id  String
+  Client    Client @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id String
+
+  @@unique([place_id, client_id])
+}
+
+model ClientRatingField {
+  id                  String                @id @default(cuid())
+  name                String
+  Place               Place                 @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id            String
+  ClientRating        ClientRating[]
+  AverageClientRating AverageClientRating[]
+}
+
+model ClientRating {
+  id                String            @id @default(cuid())
+  ClientRatingField ClientRatingField @relation(fields: [rating_field_id], references: [id], onDelete: Cascade)
+  rating_field_id   String
+  rating            Int?
+  comment           String?
+  Booking           Booking           @relation(fields: [booking_id], references: [id], onDelete: Cascade)
+  booking_id        String
+}
+
+model AverageClientRating {
+  id                String            @id @default(cuid())
+  rating_name       String
+  average_rating    Float
+  success_bookings  Int               @default(0)
+  ClientRatingField ClientRatingField @relation(fields: [rating_field_id], references: [id], onDelete: Cascade)
+  rating_field_id   String
+  Client            Client            @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id         String
+}
+
+model EmployeePlace {
+  Place       Place    @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id    String
+  Employee    Employee @relation(fields: [employee_id], references: [id], onDelete: Cascade)
+  employee_id String
+
+  @@id([place_id, employee_id])
+}
+
+model Image {
+  id             String         @id @default(cuid())
+  created_at     DateTime       @default(now())
+  updated_at     DateTime       @updatedAt
+  deleted_at     DateTime?
+  base           String?
+  small          String?
+  medium         String?
+  large          String?
+  Place          Place?         @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id       String?
+  PlaceTable     PlaceTable?    @relation(fields: [place_table_id], references: [id], onDelete: Cascade)
+  place_table_id String?
+  BasePlace      Place?         @relation("base", fields: [base_place_id], references: [id], onDelete: Cascade)
+  base_place_id  String?        @unique
+  PlaceMenuItem  PlaceMenuItem?
+}
+
+model PlaceSection {
+  id                String         @id @default(cuid())
+  created_at        DateTime       @default(now())
+  updated_at        DateTime       @updatedAt
+  deleted_at        DateTime?
+  name              String
+  width             Int            @default(0)
+  height            Int            @default(0)
+  is_visible        Boolean        @default(false)
+  is_summer_terrace Boolean        @default(false)
+  external_id       String?
+  WorkingHours      WorkingHours[]
+  is_default        Boolean        @default(false)
+  PlaceTable        PlaceTable[]
+  PlaceDecor        PlaceDecor[]
+  Place             Place          @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id          String
+}
+
+model PlaceDecor {
+  id               String          @id @default(cuid())
+  created_at       DateTime        @default(now())
+  updated_at       DateTime        @updatedAt
+  deleted_at       DateTime?
+  type             EPlaceDecorType
+  x                Decimal
+  y                Decimal
+  angle            Decimal         @default(0)
+  width            Decimal
+  height           Decimal
+  PlaceSection     PlaceSection    @relation(fields: [place_section_id], references: [id], onDelete: Cascade)
+  place_section_id String
+}
+
+model PlaceTable {
+  id                   String           @id @default(cuid())
+  created_at           DateTime         @default(now())
+  updated_at           DateTime         @updatedAt
+  deleted_at           DateTime?
+  name                 String
+  seats                Int
+  external_id          String
+  available_for_online Boolean          @default(true)
+  x                    Decimal
+  y                    Decimal
+  angle                Decimal          @default(0)
+  width                Decimal
+  height               Decimal
+  isActive             Boolean          @default(true)
+  iiko_table_name      String?
+  shape                EPlaceTableShape @default(RECTANGLE)
+  PlaceSection         PlaceSection     @relation(fields: [place_section_id], references: [id], onDelete: Cascade)
+  Image                Image[]
+  BookingTable         Booking[]
+  place_section_id     String
+}
+
+model CategoryPlace {
+  id          String    @id @default(cuid())
+  created_at  DateTime  @default(now())
+  updated_at  DateTime  @updatedAt
+  deleted_at  DateTime?
+  Place       Place?    @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id    String
+  Category    Category? @relation(fields: [category_id], references: [id])
+  category_id String?
+}
+
+model Category {
+  id            String          @id @default(cuid())
+  created_at    DateTime        @default(now())
+  updated_at    DateTime        @updatedAt
+  deleted_at    DateTime?
+  name          String
+  PlaceCategory CategoryPlace[]
+}
+
+model PlaceKitchen {
+  id         String    @id @default(cuid())
+  created_at DateTime  @default(now())
+  updated_at DateTime  @updatedAt
+  deleted_at DateTime?
+  Place      Place?    @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id   String?
+  Kitchen    Kitchen?  @relation(fields: [kitchen_id], references: [id])
+  kitchen_id String?
+}
+
+model Kitchen {
+  id           String         @id @default(cuid())
+  created_at   DateTime       @default(now())
+  updated_at   DateTime       @updatedAt
+  deleted_at   DateTime?
+  name         String
+  PlaceKitchen PlaceKitchen[]
+}
+
+model Booking {
+  id                   String                @id @default(cuid())
+  created_at           DateTime              @default(now())
+  updated_at           DateTime              @updatedAt
+  deleted_at           DateTime?
+  booking_number       Int
+  status               EBookingStatus        @default(WAITING)
+  payment_status       ETransactionStatus?
+  start_time           DateTime
+  end_time             DateTime
+  number_persons       Int
+  comment              String?
+  manager_comment      String?
+  Client               Client                @relation(fields: [client_id], references: [id])
+  client_id            String
+  PlaceTable           PlaceTable            @relation(fields: [place_table_id], references: [id], onDelete: Cascade)
+  place_table_id       String
+  DepositPayment       DepositPayment?       @relation(fields: [deposit_payment_id], references: [id], onDelete: Cascade)
+  deposit_payment_id   String?               @unique
+  PreOrderPayment      PreOrderPayment?      @relation(fields: [pre_order_payment_id], references: [id], onDelete: Cascade)
+  pre_order_payment_id String?               @unique
+  Payment              Payment?              @relation(fields: [payment_id], references: [id])
+  payment_id           String?               @unique
+  ClientRating         ClientRating[]
+  PreOrderMenuItem     PreOrderMenuItem[]
+  BookingNotification  BookingNotification[]
+  RefundTransaction    RefundTransaction[]
+}
+
+model RefundTransaction {
+  id                 String             @id @default(cuid())
+  created_at         DateTime           @default(now())
+  updated_at         DateTime           @updatedAt
+  deleted_at         DateTime?
+  amount             Int
+  bepaid_uid         String?            @unique
+  status             ETransactionStatus
+  DepositPayment     DepositPayment?    @relation(fields: [deposit_payment_id], references: [id])
+  deposit_payment_id String?
+  Booking            Booking?           @relation(fields: [booking_id], references: [id])
+  booking_id         String?
+  Employee           Employee?          @relation(fields: [employee_id], references: [id])
+  employee_id        String?
+  Owner              Owner?             @relation(fields: [owner_id], references: [id])
+  owner_id           String?
+  CanceledMenuItem   CanceledMenuItem[]
+}
+
+model CanceledMenuItem {
+  id                    String             @id @default(cuid())
+  created_at            DateTime           @default(now())
+  count                 Int
+  PreOrderMenuItem      PreOrderMenuItem   @relation(fields: [preorder_menu_item_id], references: [id])
+  preorder_menu_item_id String
+  RefundTransaction     RefundTransaction? @relation(fields: [refund_transaction_id], references: [id])
+  refund_transaction_id String?
+}
+
+model Payment {
+  id                 String             @id @default(cuid())
+  created_at         DateTime           @default(now())
+  updated_at         DateTime           @updatedAt
+  deleted_at         DateTime?
+  debited_at         DateTime?
+  canceled_at        DateTime?
+  amount             Int
+  currency           ECurrencies
+  bepaid_uid         String?            @unique
+  bepaid_cancel_id   String?            @unique
+  bepaid_captures_id String?            @unique
+  status             ETransactionStatus
+  checkout_token     String
+  Booking            Booking?
+}
+
+model DepositPayment {
+  id                String              @id @default(cuid())
+  amount            Int
+  fee               Int?
+  created_at        DateTime            @default(now())
+  updated_at        DateTime            @updatedAt
+  deleted_at        DateTime?
+  Booking           Booking?
+  Client            Client              @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id         String
+  RefundTransaction RefundTransaction[]
+}
+
+model PreOrderPayment {
+  id               String             @id @default(cuid())
+  amount           Int
+  fee              Int?
+  created_at       DateTime           @default(now())
+  updated_at       DateTime           @updatedAt
+  deleted_at       DateTime?
+  Booking          Booking?
+  Client           Client             @relation(fields: [client_id], references: [id], onDelete: Cascade)
+  client_id        String
+  PreOrderMenuItem PreOrderMenuItem[]
+}
+
+model PreOrderMenuItem {
+  id                 String             @id @default(cuid())
+  count              Int
+  PlaceMenuItem      PlaceMenuItem      @relation(fields: [place_menu_item_id], references: [id])
+  place_menu_item_id String
+  PreOrderPayment    PreOrderPayment?   @relation(fields: [preOrderPaymentId], references: [id])
+  preOrderPaymentId  String?
+  Booking            Booking?           @relation(fields: [bookingId], references: [id])
+  bookingId          String?
+  CanceledMenuItem   CanceledMenuItem[]
+}
+
+model IikoPlace {
+  id                String    @id @default(cuid())
+  created_at        DateTime  @default(now())
+  updated_at        DateTime  @updatedAt
+  deleted_at        DateTime?
+  Address           Address[]
+  address_id        String?
+  name              String?
+  phone             String?
+  organization_id   String?
+  terminal_group_id String?
+  api_login         String?
+  Place             Place?
+
+  @@unique([organization_id, terminal_group_id])
+}
+
+model WorkingHours {
+  id                 String        @id @default(cuid())
+  created_at         DateTime      @default(now())
+  updated_at         DateTime      @updatedAt
+  deleted_at         DateTime?
+  day                EDayOfWeek
+  start_time         DateTime
+  end_time           DateTime
+  is_working_all_day Boolean       @default(false)
+  is_day_off         Boolean       @default(false)
+  Place              Place?        @relation(fields: [place_id], references: [id], onDelete: Cascade)
+  place_id           String?
+  PlaceSection       PlaceSection? @relation(fields: [place_section_id], references: [id])
+  place_section_id   String?
+
+  @@unique([day, place_id])
+}
+
+model PlaceSubscription {
+  id                     String                @id @default(cuid())
+  created_at             DateTime              @default(now())
+  start_time             DateTime
+  end_time               DateTime
+  status                 ESubscriptionStatus   @default(ACTIVE)
+  SubscriptionPlan       SubscriptionPlan      @relation(fields: [subscription_plan_id], references: [id])
+  subscription_plan_id   String
+  Place                  Place?
+  place_id               String?
+  SubscriptionDiscount   SubscriptionDiscount? @relation(fields: [subscriptionDiscountId], references: [id])
+  subscriptionDiscountId String?
+}
+
+model SubscriptionDiscount {
+  id                String              @id @default(cuid())
+  discount          Int // 0 - 100 %
+  start             DateTime
+  end               DateTime
+  label             String?
+  promotion_code    String?
+  amount            Int?
+  PlaceSubscription PlaceSubscription[]
+}
+
+model SubscriptionPlan {
+  id                 String               @id @default(cuid())
+  name               ESubscriptionPlan    @default(FREE)
+  price              Int                  @default(0)
+  format             ESubscriptionFormat  @default(MONTHLY)
+  month_count        Int                  @default(1)
+  discount           Int                  @default(0) //%
+  PlaceSubscription  PlaceSubscription[]
+  SubscriptionOption SubscriptionOption[]
+}
+
+model SubscriptionOption {
+  id               String             @id @default(cuid())
+  label            String
+  description      String?
+  SubscriptionPlan SubscriptionPlan[]
+}
+
+model PlaceMenuCategory {
+  id            String          @id @default(cuid())
+  name          String
+  Place         Place           @relation(fields: [place_id], references: [id])
+  place_id      String
+  PlaceMenuItem PlaceMenuItem[]
+}
+
+model PlaceMenuItem {
+  id                     String             @id @default(cuid())
+  name                   String
+  price                  Int
+  weight                 Int
+  available_preorder     Boolean?
+  calories               Float?
+  PlaceMenuCategory      PlaceMenuCategory  @relation(fields: [place_menu_category_id], references: [id])
+  place_menu_category_id String
+  Place                  Place              @relation(fields: [place_id], references: [id])
+  place_id               String
+  Image                  Image?             @relation(fields: [image_id], references: [id])
+  image_id               String?            @unique
+  PreOrderMenuItems      PreOrderMenuItem[]
+}

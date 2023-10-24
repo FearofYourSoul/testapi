@@ -1,0 +1,652 @@
+[
+  {
+    "person_price": 279,
+    "table_price": 7512,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 6261,
+    "table_price": 3944,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-15T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3576,
+    "table_price": 5865,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-15T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7648,
+    "table_price": 4736,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 8399,
+    "table_price": 5383,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 5056,
+    "table_price": 6726,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3561,
+    "table_price": 8696,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 2887,
+    "table_price": 3662,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 5933,
+    "table_price": 5619,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-15T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4850,
+    "table_price": 522,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 5599,
+    "table_price": 3475,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7636,
+    "table_price": 2318,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4652,
+    "table_price": 6645,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-15T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4498,
+    "table_price": 1233,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9555,
+    "table_price": 7632,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4346,
+    "table_price": 1086,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9945,
+    "table_price": 5283,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3118,
+    "table_price": 9032,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7816,
+    "table_price": 9595,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 2105,
+    "table_price": 4377,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4249,
+    "table_price": 2829,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7314,
+    "table_price": 6766,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3810,
+    "table_price": 7192,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 1362,
+    "table_price": 1119,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9539,
+    "table_price": 1918,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 25,
+    "table_price": 5148,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 408,
+    "table_price": 7635,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 5866,
+    "table_price": 7134,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 2007,
+    "table_price": 5362,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 8703,
+    "table_price": 8266,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 8544,
+    "table_price": 6195,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3663,
+    "table_price": 118,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3689,
+    "table_price": 529,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-16T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9099,
+    "table_price": 4027,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 8968,
+    "table_price": 7447,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9294,
+    "table_price": 1957,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-16T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 851,
+    "table_price": 7048,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9070,
+    "table_price": 1475,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-15T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 1676,
+    "table_price": 497,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 3459,
+    "table_price": 7206,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7226,
+    "table_price": 9923,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 4267,
+    "table_price": 9871,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 5945,
+    "table_price": 8268,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 787,
+    "table_price": 8586,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 1380,
+    "table_price": 1340,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 7158,
+    "table_price": 3918,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-12T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 630,
+    "table_price": 8419,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 2973,
+    "table_price": 9886,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-11T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 541,
+    "table_price": 5750,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-13T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  },
+  {
+    "person_price": 9677,
+    "table_price": 6250,
+    "is_table_price": true,
+    "is_person_price": true,
+    "for_days_of_week": false,
+    "is_all_day": true,
+    "start_date": "2023-07-11T21:00:00.000Z",
+    "end_date": "2023-07-14T21:00:00.000Z",
+    "deposit_id": {
+      "type": "Deposit"
+    }
+  }
+]

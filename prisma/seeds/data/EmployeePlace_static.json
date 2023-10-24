@@ -1,0 +1,44 @@
+[
+  {
+    "place_id": {
+      "type": "Place",
+      "where": {
+        "name": "Mojo Mediterrasian"
+      }
+    },
+    "employee_id": {
+      "type": "Employee",
+      "where": {
+        "email": "van.boycov@yahoo.com"
+      }
+    }
+  },
+  {
+    "place_id": {
+      "type": "Place",
+      "where": {
+        "name": "Mojo Mediterrasian"
+      }
+    },
+    "employee_id": {
+      "type": "Employee",
+      "where": {
+        "email": "dominika.a23@yahoo.com"
+      }
+    }
+  },
+  {
+    "place_id": {
+      "type": "Place",
+      "where": {
+        "name": "Mojo Mediterrasian"
+      }
+    },
+    "employee_id": {
+      "type": "Employee",
+      "where": {
+        "email": "kudryavceva56@gmail.com"
+      }
+    }
+  }
+]

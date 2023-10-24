@@ -1,0 +1,602 @@
+[
+  {
+    "booking_number": 37,
+    "start_time": "2023-04-06T16:22:34.132Z",
+    "end_time": "2023-04-07T00:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 4,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 12,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 20,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 9,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 34,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T19:22:34.133Z",
+    "number_persons": 4,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 18,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 3,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 14,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 25,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 32,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T22:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 44,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 12,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 37,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 43,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 5,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 43,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 8,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 48,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 49,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T00:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 37,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 30,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 3,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 11,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 3,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T00:22:34.133Z",
+    "number_persons": 3,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 17,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T19:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 1,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T19:22:34.133Z",
+    "number_persons": 4,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 7,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T22:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 42,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 26,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 5,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 26,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 4,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 31,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 3,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 1,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 39,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T22:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 16,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 4,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 37,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 25,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 17,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T17:22:34.133Z",
+    "number_persons": 5,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 45,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 17,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T19:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 36,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 33,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 6,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T19:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 15,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 4,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 50,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 8,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 42,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T23:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 38,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 6,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 7,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 13,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T18:22:34.133Z",
+    "number_persons": 1,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 37,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-07T01:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 29,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 9,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 38,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T21:22:34.133Z",
+    "number_persons": 2,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  },
+  {
+    "booking_number": 19,
+    "start_time": "2023-04-06T16:22:34.133Z",
+    "end_time": "2023-04-06T20:22:34.133Z",
+    "number_persons": 7,
+    "client_id": {
+      "type": "Client"
+    },
+    "place_table_id": {
+      "type": "PlaceTable"
+    }
+  }
+]

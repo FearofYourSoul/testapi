@@ -1,0 +1,50 @@
+[
+  {
+    "role": "hostess",
+    "name": "Иван Бойцов",
+    "login": "vanya.boy",
+    "password": "$2a$12$IKk/0KK6Wdc2spMtZ2WEZ.9QZ8XKx2qWDcVP.POngyQhw3Gql6gFO",
+    "email": "van.boycov@yahoo.com",
+    "phone_number": "+375(44)835-49-38",
+    "is_email_verified": true,
+    "is_phone_verified": false,
+    "owner_id": {
+      "type": "Owner",
+      "where": {
+        "email": "alex.big@yahoo.com"
+      }
+    }
+  },
+  {
+    "role": "hostess",
+    "name": "Доминика Археева",
+    "login": "domar",
+    "password": "$2a$12$IKk/0KK6Wdc2spMtZ2WEZ.9QZ8XKx2qWDcVP.POngyQhw3Gql6gFO",
+    "email": "dominika.a23@yahoo.com",
+    "phone_number": "+375(29)227-45-46",
+    "is_email_verified": true,
+    "is_phone_verified": false,
+    "owner_id": {
+      "type": "Owner",
+      "where": {
+        "email": "alex.big@yahoo.com"
+      }
+    }
+  },
+  {
+    "role": "administrator",
+    "name": "Елизавета Кудрявцева",
+    "login": "Kudr",
+    "password": "$2a$12$IKk/0KK6Wdc2spMtZ2WEZ.9QZ8XKx2qWDcVP.POngyQhw3Gql6gFO",
+    "email": "kudryavceva56@gmail.com",
+    "phone_number": "+375(44)706-39-72",
+    "is_email_verified": true,
+    "is_phone_verified": true,
+    "owner_id": {
+      "type": "Owner",
+      "where": {
+        "email": "alex.big@yahoo.com"
+      }
+    }
+  }
+]

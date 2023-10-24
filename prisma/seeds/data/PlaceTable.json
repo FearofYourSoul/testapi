@@ -1,0 +1,7802 @@
+[
+  {
+    "name": "Tesla",
+    "seats": 3,
+    "external_id": "2547pi29i3sdr47di0quvcys7x8bdz66",
+    "x": 0.623,
+    "y": 0.03,
+    "width": 0.158,
+    "height": 0.113,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "fuchsia",
+    "seats": 3,
+    "external_id": "e0enbeswdqm1pm2dsgxpuq2thfunfzkx",
+    "x": 0.749,
+    "y": 0.332,
+    "width": 0.2,
+    "height": 0.162,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Marshall",
+    "seats": 3,
+    "external_id": "gr77tofny72lel4a3axi3zpjlk2ur88c",
+    "x": 0.197,
+    "y": 0.691,
+    "width": 0.137,
+    "height": 0.155,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Dynamic",
+    "seats": 8,
+    "external_id": "mkl5blv72iwmppnooktaovtj6m87j7iu",
+    "x": 0.359,
+    "y": 0.677,
+    "width": 0.15,
+    "height": 0.119,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gloves",
+    "seats": 2,
+    "external_id": "5u426d35g40khipfr9d6py29k1hs6w33",
+    "x": 0.468,
+    "y": 0.113,
+    "width": 0.199,
+    "height": 0.218,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "exculpate",
+    "seats": 6,
+    "external_id": "e4uekcu9xse6cn8zjnhgsld7zxi9b70k",
+    "x": 0.451,
+    "y": 0.712,
+    "width": 0.132,
+    "height": 0.189,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Quality",
+    "seats": 1,
+    "external_id": "tx5qu8emspyjmp6yoc7027y8aaqn4wvh",
+    "x": 0.18,
+    "y": 0.226,
+    "width": 0.148,
+    "height": 0.159,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "lime",
+    "seats": 5,
+    "external_id": "ixbkndzwop5p0d3udk06szux58m33f2o",
+    "x": 0.103,
+    "y": 0.016,
+    "width": 0.103,
+    "height": 0.154,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "uniform",
+    "seats": 7,
+    "external_id": "yk11vy9h7fflcxymvhgjb7qbwzlmc3s8",
+    "x": 0.483,
+    "y": 0.172,
+    "width": 0.204,
+    "height": 0.173,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hop",
+    "seats": 5,
+    "external_id": "9vso1olpl2ym6ab9rkfh7xv8w2li2qtq",
+    "x": 0.189,
+    "y": 0.167,
+    "width": 0.114,
+    "height": 0.247,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Grocery",
+    "seats": 6,
+    "external_id": "704n3wbu01hi5tyozfe2ejgik0jlct39",
+    "x": 0.297,
+    "y": 0.088,
+    "width": 0.06,
+    "height": 0.144,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "systems",
+    "seats": 9,
+    "external_id": "ge8d27dep6snm7mmnagj311pkhr8zv0b",
+    "x": 0.314,
+    "y": 0.388,
+    "width": 0.174,
+    "height": 0.189,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "invoice",
+    "seats": 5,
+    "external_id": "u3ig35kho24xtimvdlblpu4teoxz4f9r",
+    "x": 0.537,
+    "y": 0.657,
+    "width": 0.149,
+    "height": 0.2,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "repellendus",
+    "seats": 3,
+    "external_id": "powqs3lbdfun6cw946j13qnwjoct51nv",
+    "x": 0.135,
+    "y": 0.43,
+    "width": 0.144,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Handmade",
+    "seats": 6,
+    "external_id": "3wzktylnuablyjo68ylvkz4zmal1yt8f",
+    "x": 0.575,
+    "y": 0.488,
+    "width": 0.135,
+    "height": 0.119,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "API",
+    "seats": 5,
+    "external_id": "9uvr1d8te8f6gqvlf4w6z7in8uhj6dzo",
+    "x": 0.514,
+    "y": 0.288,
+    "width": 0.21,
+    "height": 0.162,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cis",
+    "seats": 6,
+    "external_id": "uoqkqm251jw50kxr23sy7885meyzlaht",
+    "x": 0.086,
+    "y": 0.203,
+    "width": 0.209,
+    "height": 0.127,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Salad",
+    "seats": 3,
+    "external_id": "44mkuu2h1cl1q718vbeqqtuz7dumml8k",
+    "x": 0.374,
+    "y": 0.046,
+    "width": 0.25,
+    "height": 0.122,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Infrastructure",
+    "seats": 7,
+    "external_id": "f5wanyswghmy6ecyziceznhedcmzxxx7",
+    "x": 0.448,
+    "y": 0.217,
+    "width": 0.085,
+    "height": 0.184,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mockingly",
+    "seats": 6,
+    "external_id": "uq3d8kdb5uotmh562u70fr7qqzs9u9z3",
+    "x": 0.306,
+    "y": 0.548,
+    "width": 0.166,
+    "height": 0.129,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "orchestra",
+    "seats": 3,
+    "external_id": "gu24ogjftrty102tuox3jopl3qkxu1c6",
+    "x": 0.129,
+    "y": 0.159,
+    "width": 0.078,
+    "height": 0.186,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bandwidth",
+    "seats": 8,
+    "external_id": "0902lyn5ru8sjapmq4njjllkugek7x4s",
+    "x": 0.382,
+    "y": 0.317,
+    "width": 0.079,
+    "height": 0.065,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bedfordshire",
+    "seats": 1,
+    "external_id": "7zikevqr20d7ywoih5f9nf93fx5udxja",
+    "x": 0.164,
+    "y": 0.087,
+    "width": 0.223,
+    "height": 0.181,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "redundant",
+    "seats": 8,
+    "external_id": "h4v5z5uf3msu0fu8ddbo3z7gppjmdy4t",
+    "x": 0.294,
+    "y": 0.276,
+    "width": 0.221,
+    "height": 0.209,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cyclocross",
+    "seats": 3,
+    "external_id": "5unpuv73xwvzfwqufpmo4alj80o8v3sn",
+    "x": 0.362,
+    "y": 0.334,
+    "width": 0.134,
+    "height": 0.21,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Queenie",
+    "seats": 7,
+    "external_id": "rxbvouoa1cgbur76m630o358ts9ib9y7",
+    "x": 0.577,
+    "y": 0.289,
+    "width": 0.093,
+    "height": 0.095,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Van",
+    "seats": 1,
+    "external_id": "9xv9j6r75jls4g8q4livrnhvpbdsmk0e",
+    "x": 0.24,
+    "y": 0.159,
+    "width": 0.115,
+    "height": 0.085,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "East",
+    "seats": 3,
+    "external_id": "0wpo20sighh6ar5km1q4krcuw4t6551b",
+    "x": 0.087,
+    "y": 0.122,
+    "width": 0.16,
+    "height": 0.2,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "global",
+    "seats": 3,
+    "external_id": "dcbi8hnzl0wjq22zu4iyr56vydawlcg0",
+    "x": 0.241,
+    "y": 0.573,
+    "width": 0.208,
+    "height": 0.129,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "East",
+    "seats": 9,
+    "external_id": "ca822ynh2w7448v9gc0z8hiupyseaflb",
+    "x": 0.535,
+    "y": 0.301,
+    "width": 0.092,
+    "height": 0.13,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southeast",
+    "seats": 9,
+    "external_id": "m6iv5wi7os99vxkbwu66m5rgbrvmseg1",
+    "x": 0.373,
+    "y": 0.262,
+    "width": 0.098,
+    "height": 0.24,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "unless",
+    "seats": 2,
+    "external_id": "zlz6n4vx8b9n1msrfzps2ehpgy2fkbw6",
+    "x": 0.719,
+    "y": 0.112,
+    "width": 0.09,
+    "height": 0.135,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Guyana",
+    "seats": 2,
+    "external_id": "ffik99e5dpqhqp4wvht4wlj1zw4nitx2",
+    "x": 0.367,
+    "y": 0.402,
+    "width": 0.14,
+    "height": 0.179,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "program",
+    "seats": 2,
+    "external_id": "v3wlzylu5ys4y4e8dw5h7miqkz5veelq",
+    "x": 0.215,
+    "y": 0.69,
+    "width": 0.237,
+    "height": 0.217,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ad",
+    "seats": 9,
+    "external_id": "g7t7vl5e9ekliw6qgt3uip6sj54f1un7",
+    "x": 0.371,
+    "y": 0.002,
+    "width": 0.199,
+    "height": 0.18,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Markets",
+    "seats": 6,
+    "external_id": "5osq058shm6jtuwleyjdvjnwosdkzx6k",
+    "x": 0.294,
+    "y": 0.717,
+    "width": 0.05,
+    "height": 0.091,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Orchestrator",
+    "seats": 1,
+    "external_id": "r2m9tda7m56pm76s6zkwxwq1xvps0sdf",
+    "x": 0.623,
+    "y": 0.296,
+    "width": 0.187,
+    "height": 0.075,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "HEX",
+    "seats": 3,
+    "external_id": "7is5b86hc0yh5kif9m7la5u7867sx1st",
+    "x": 0.093,
+    "y": 0.566,
+    "width": 0.103,
+    "height": 0.078,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tacoma",
+    "seats": 4,
+    "external_id": "aj65keyif9hwvfp6ychab0e44i2jvwrw",
+    "x": 0.021,
+    "y": 0.424,
+    "width": 0.117,
+    "height": 0.235,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "JSON",
+    "seats": 1,
+    "external_id": "v6dtoqmjbf2b0l93jhhuvqe9lje2o13l",
+    "x": 0.625,
+    "y": 0.159,
+    "width": 0.144,
+    "height": 0.238,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Lanthanum",
+    "seats": 6,
+    "external_id": "rze3cs6f9akzzi0555c803pp3kv50stq",
+    "x": 0.186,
+    "y": 0.201,
+    "width": 0.124,
+    "height": 0.076,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "seats": 5,
+    "external_id": "0ysjyd5lk35mu2rvyps6cxbf6l1nz2zs",
+    "x": 0.359,
+    "y": 0.405,
+    "width": 0.053,
+    "height": 0.137,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "olive",
+    "seats": 1,
+    "external_id": "bhst1g8ufagq0sullg6xanyoxl5kev4o",
+    "x": 0.221,
+    "y": 0.085,
+    "width": 0.182,
+    "height": 0.177,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Venezuela",
+    "seats": 3,
+    "external_id": "uhxnj4zvlk4tqrtngih92xi7v1tdnkb2",
+    "x": 0.15,
+    "y": 0.394,
+    "width": 0.063,
+    "height": 0.075,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "payment",
+    "seats": 7,
+    "external_id": "r7z81upmx6vwrw0o9izq9p0vhu18ldfv",
+    "x": 0.304,
+    "y": 0.451,
+    "width": 0.166,
+    "height": 0.091,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "technologies",
+    "seats": 1,
+    "external_id": "n3pruq5fwjk6qc72gsios8gqcvyxjuwz",
+    "x": 0.269,
+    "y": 0.316,
+    "width": 0.13,
+    "height": 0.061,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "violet",
+    "seats": 4,
+    "external_id": "ud12h2gax7vxlapqwgj14j7nbjg03scb",
+    "x": 0.129,
+    "y": 0.505,
+    "width": 0.175,
+    "height": 0.221,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Ytterbium",
+    "seats": 9,
+    "external_id": "5x2pwplq5a1ukromskew5wxapr7q66kg",
+    "x": 0.606,
+    "y": 0.556,
+    "width": 0.087,
+    "height": 0.105,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Practical",
+    "seats": 2,
+    "external_id": "0g5k512fc4rerugctl6ulplpqdk3ktgm",
+    "x": 0.2,
+    "y": 0.61,
+    "width": 0.151,
+    "height": 0.172,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "conglomeration",
+    "seats": 8,
+    "external_id": "sncggmvn6lo5ndwff7agn54ul0o94i3a",
+    "x": 0.293,
+    "y": 0.402,
+    "width": 0.243,
+    "height": 0.076,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northeast",
+    "seats": 2,
+    "external_id": "oixjgx6l06a1kj2me6wcwakcuijbrjvq",
+    "x": 0.622,
+    "y": 0.036,
+    "width": 0.126,
+    "height": 0.235,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Car",
+    "seats": 5,
+    "external_id": "pd4uinbnst3kfehqfdipu0xj1hclq9wn",
+    "x": 0.138,
+    "y": 0.387,
+    "width": 0.155,
+    "height": 0.237,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Road",
+    "seats": 9,
+    "external_id": "q151356mh7lbz799rz1a1ykig80wyh9t",
+    "x": 0.378,
+    "y": 0.632,
+    "width": 0.078,
+    "height": 0.052,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Chief",
+    "seats": 9,
+    "external_id": "lk5er1r5l4u53nqzlzu7bnnv6thnzask",
+    "x": 0.04,
+    "y": 0.47,
+    "width": 0.165,
+    "height": 0.059,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Beauty",
+    "seats": 7,
+    "external_id": "u9nom5t564mv5ybrtysdydxp153vs7wt",
+    "x": 0.561,
+    "y": 0.591,
+    "width": 0.219,
+    "height": 0.246,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "purple",
+    "seats": 2,
+    "external_id": "zfshlfdidun2j0ds3303wkh1fmdgoi5y",
+    "x": 0.387,
+    "y": 0.105,
+    "width": 0.197,
+    "height": 0.174,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Recycled",
+    "seats": 2,
+    "external_id": "stkvhyxyce17askdil323ptt7h6dn7dv",
+    "x": 0.707,
+    "y": 0.442,
+    "width": 0.067,
+    "height": 0.075,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "payment",
+    "seats": 4,
+    "external_id": "ylyhj1v6huyo2quocsaovtp5ba55ezz9",
+    "x": 0.457,
+    "y": 0.606,
+    "width": 0.193,
+    "height": 0.19,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Plano",
+    "seats": 7,
+    "external_id": "vij66igh61yfemui4qpc0g153zbnjxy0",
+    "x": 0.643,
+    "y": 0.384,
+    "width": 0.214,
+    "height": 0.158,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "orchid",
+    "seats": 1,
+    "external_id": "nhl7wu4z17n1lb6efdhzr4yufwnqqpyc",
+    "x": 0.694,
+    "y": 0.58,
+    "width": 0.129,
+    "height": 0.127,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Electronic",
+    "seats": 5,
+    "external_id": "uw65nskxx99cpre5s0kije2xettprbb2",
+    "x": 0.475,
+    "y": 0.633,
+    "width": 0.066,
+    "height": 0.249,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "female",
+    "seats": 9,
+    "external_id": "bdt3k9oti00p4hdjd3djqcv4ybkqe3w1",
+    "x": 0.704,
+    "y": 0.484,
+    "width": 0.077,
+    "height": 0.208,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Oklahoma",
+    "seats": 1,
+    "external_id": "474fo8rcuqogb7jg7hcdrw3qwcfjor8k",
+    "x": 0.572,
+    "y": 0.379,
+    "width": 0.112,
+    "height": 0.192,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "grey",
+    "seats": 8,
+    "external_id": "88jokgom7fnn5xgbpixnsddstisuhldt",
+    "x": 0.011,
+    "y": 0.482,
+    "width": 0.204,
+    "height": 0.186,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northeast",
+    "seats": 7,
+    "external_id": "g2ull6bqhiy1j6ln01zezeklj5cp7b2a",
+    "x": 0.138,
+    "y": 0.309,
+    "width": 0.247,
+    "height": 0.216,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "invoice",
+    "seats": 3,
+    "external_id": "mt9mcwron3zfmabykemoy4o39kq6j0lt",
+    "x": 0.047,
+    "y": 0.009,
+    "width": 0.068,
+    "height": 0.115,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "overriding",
+    "seats": 8,
+    "external_id": "dzhnbjisf7hrl6sdlisg2of3hinqekrj",
+    "x": 0.273,
+    "y": 0.479,
+    "width": 0.07,
+    "height": 0.133,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "approach",
+    "seats": 3,
+    "external_id": "5pxg3vlaiahksa4iezrkyg10c372gspw",
+    "x": 0.478,
+    "y": 0.561,
+    "width": 0.093,
+    "height": 0.107,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "between",
+    "seats": 7,
+    "external_id": "w0iqocmk0k3ovzb9y0hp39haet38d081",
+    "x": 0.257,
+    "y": 0.188,
+    "width": 0.112,
+    "height": 0.223,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Home",
+    "seats": 6,
+    "external_id": "20uidstzldw433q33bw8fc3xp8m6g4wc",
+    "x": 0.056,
+    "y": 0.615,
+    "width": 0.133,
+    "height": 0.194,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "strategic",
+    "seats": 8,
+    "external_id": "nzh3d7fbyghabpf1xou5aiudlrgw5c3e",
+    "x": 0.617,
+    "y": 0.709,
+    "width": 0.131,
+    "height": 0.051,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "EXE",
+    "seats": 1,
+    "external_id": "9fsydf78sd608ns1mclqiyxn7g5ov4gs",
+    "x": 0.638,
+    "y": 0.577,
+    "width": 0.112,
+    "height": 0.077,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cotton",
+    "seats": 1,
+    "external_id": "mqawkyrxp7dz4j36ehndhhg6y2vupnav",
+    "x": 0.528,
+    "y": 0.698,
+    "width": 0.242,
+    "height": 0.166,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "optical",
+    "seats": 7,
+    "external_id": "kpb6olce4uf644ao6jidthufdpjzeedn",
+    "x": 0.172,
+    "y": 0.428,
+    "width": 0.109,
+    "height": 0.174,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "till",
+    "seats": 5,
+    "external_id": "ilbbsp5wtye4l2n4vb0co1l6qxdx0ny2",
+    "x": 0.335,
+    "y": 0.718,
+    "width": 0.061,
+    "height": 0.1,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 8,
+    "external_id": "rhacp1cxcpcjisvpix3kivr1qd4tvv19",
+    "x": 0.001,
+    "y": 0.194,
+    "width": 0.11,
+    "height": 0.111,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "SQL",
+    "seats": 4,
+    "external_id": "634u7hk0he4wi17fyobyn90z8ub78pd2",
+    "x": 0.416,
+    "y": 0.204,
+    "width": 0.157,
+    "height": 0.099,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "smuggle",
+    "seats": 8,
+    "external_id": "3fdnkud4hsdp3vkow1z3o9y06j4dqw5d",
+    "x": 0.556,
+    "y": 0.068,
+    "width": 0.075,
+    "height": 0.141,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mazda",
+    "seats": 4,
+    "external_id": "ehh1kv1n2nxr54rrvr2mhr1boyk3wd2c",
+    "x": 0.637,
+    "y": 0.263,
+    "width": 0.204,
+    "height": 0.131,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northwest",
+    "seats": 1,
+    "external_id": "ljisr3kc8yv3aubymamtlqtk2aizjp08",
+    "x": 0.597,
+    "y": 0.504,
+    "width": 0.135,
+    "height": 0.209,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 1,
+    "external_id": "4nao7lru7qruhzx142x7ktfywcvg8mto",
+    "x": 0.358,
+    "y": 0.402,
+    "width": 0.115,
+    "height": 0.093,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "amet",
+    "seats": 2,
+    "external_id": "osgrjo26snt8re5cj1vgemqknku24lql",
+    "x": 0.202,
+    "y": 0.687,
+    "width": 0.219,
+    "height": 0.206,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "violet",
+    "seats": 8,
+    "external_id": "kk6p1di7qgx8mn4coppblrynydmounca",
+    "x": 0.365,
+    "y": 0.608,
+    "width": 0.248,
+    "height": 0.068,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Corporate",
+    "seats": 2,
+    "external_id": "ckg9flrdkrtij3nlw1co0ob2vbiv46ah",
+    "x": 0.318,
+    "y": 0.58,
+    "width": 0.102,
+    "height": 0.246,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "sage",
+    "seats": 9,
+    "external_id": "xtu620hd3hsv46s9yyzjesxqw7usc6y3",
+    "x": 0.672,
+    "y": 0.134,
+    "width": 0.244,
+    "height": 0.109,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Minnesota",
+    "seats": 4,
+    "external_id": "w1iifqfjiv9pvc9bsw27ojar0k12ibul",
+    "x": 0.088,
+    "y": 0.468,
+    "width": 0.169,
+    "height": 0.065,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "dimly",
+    "seats": 8,
+    "external_id": "fyklws49re1akzu230tfcswbdvg87iiu",
+    "x": 0.175,
+    "y": 0.277,
+    "width": 0.074,
+    "height": 0.205,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deliverables",
+    "seats": 1,
+    "external_id": "ismotr4e8dz5yxl021o4fiqyazagxboh",
+    "x": 0.15,
+    "y": 0.007,
+    "width": 0.132,
+    "height": 0.162,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "generation",
+    "seats": 6,
+    "external_id": "07arrfuknkvhd1obsmmsd90f13cvnjlv",
+    "x": 0.287,
+    "y": 0.708,
+    "width": 0.168,
+    "height": 0.19,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "voluptates",
+    "seats": 7,
+    "external_id": "in50xfkun3o1mp6flof9corzaq6jvugo",
+    "x": 0.71,
+    "y": 0.703,
+    "width": 0.112,
+    "height": 0.241,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "commodi",
+    "seats": 7,
+    "external_id": "ft5y33bvkp0m8gmaz8mw4gebj2ho95l1",
+    "x": 0.008,
+    "y": 0.186,
+    "width": 0.213,
+    "height": 0.153,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Row",
+    "seats": 1,
+    "external_id": "v6krc1p8vt7v9u99d6loih2cm0k45puv",
+    "x": 0.061,
+    "y": 0.104,
+    "width": 0.19,
+    "height": 0.075,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Male",
+    "seats": 9,
+    "external_id": "puatove30z3tn14wzpk1z2efsknkm7oo",
+    "x": 0.191,
+    "y": 0.533,
+    "width": 0.228,
+    "height": 0.069,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Folk",
+    "seats": 4,
+    "external_id": "c0nov8luag1c0705h2oe1yibkpa7ju64",
+    "x": 0.176,
+    "y": 0.639,
+    "width": 0.074,
+    "height": 0.234,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 4,
+    "external_id": "4d393het2kk2uyuvqmwkgkoo7z6sht8p",
+    "x": 0.532,
+    "y": 0.343,
+    "width": 0.139,
+    "height": 0.186,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "approach",
+    "seats": 9,
+    "external_id": "k8sql5w2wq8uu21yka4v6k3hd3kidzjb",
+    "x": 0.292,
+    "y": 0.74,
+    "width": 0.091,
+    "height": 0.247,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Developer",
+    "seats": 5,
+    "external_id": "19h58nf4kz8vmpqkh0au0pmq6pra6za5",
+    "x": 0.277,
+    "y": 0.454,
+    "width": 0.097,
+    "height": 0.164,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Chicken",
+    "seats": 6,
+    "external_id": "nan5d8olqwtsks0v93wcwr0kqwfhnwwt",
+    "x": 0.228,
+    "y": 0.411,
+    "width": 0.17,
+    "height": 0.065,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Buckinghamshire",
+    "seats": 5,
+    "external_id": "9yfisfb5nkli0bi05x24gdfr8pwq2coq",
+    "x": 0.531,
+    "y": 0.216,
+    "width": 0.235,
+    "height": 0.211,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Awesome",
+    "seats": 2,
+    "external_id": "tk2m7ijitg0552vfyte3o8cz1s3lp0d2",
+    "x": 0.612,
+    "y": 0.673,
+    "width": 0.115,
+    "height": 0.211,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Computers",
+    "seats": 2,
+    "external_id": "5lnbqb7prk73gn1y78qabn853re39s4b",
+    "x": 0.349,
+    "y": 0.664,
+    "width": 0.183,
+    "height": 0.081,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sports",
+    "seats": 3,
+    "external_id": "5jon1a1nfyr0a6jx75k147qk76riphv5",
+    "x": 0.693,
+    "y": 0.577,
+    "width": 0.221,
+    "height": 0.162,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "manhunt",
+    "seats": 2,
+    "external_id": "rnx5039t8hzjl45b3993f43aauud13wn",
+    "x": 0.548,
+    "y": 0.049,
+    "width": 0.129,
+    "height": 0.131,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "salmon",
+    "seats": 9,
+    "external_id": "t8uiy910sadq0np09irwn0k8qzs1gkc9",
+    "x": 0.289,
+    "y": 0.523,
+    "width": 0.102,
+    "height": 0.113,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "calculate",
+    "seats": 6,
+    "external_id": "it8kgr7bghrpwkfes8v2giqcxvoomh4t",
+    "x": 0.465,
+    "y": 0.205,
+    "width": 0.084,
+    "height": 0.24,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "favorite",
+    "seats": 1,
+    "external_id": "c4zk2j73avh7m4iohuiixs5nns1vtlog",
+    "x": 0.462,
+    "y": 0.322,
+    "width": 0.094,
+    "height": 0.145,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 7,
+    "external_id": "bff1hgbb0pi9uazfkhfypn56xnbpw2hi",
+    "x": 0.545,
+    "y": 0.356,
+    "width": 0.2,
+    "height": 0.109,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hampshire",
+    "seats": 4,
+    "external_id": "0199sca4a676qml1k6p59caxa8ivl95i",
+    "x": 0.607,
+    "y": 0.177,
+    "width": 0.234,
+    "height": 0.118,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "capacitor",
+    "seats": 5,
+    "external_id": "ia2v86xt6e3jop74292hakwkf56j3csr",
+    "x": 0.294,
+    "y": 0.345,
+    "width": 0.234,
+    "height": 0.064,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Towels",
+    "seats": 5,
+    "external_id": "xwo1tbjnaixzzkm8y9ea09trzesr4rie",
+    "x": 0.028,
+    "y": 0.226,
+    "width": 0.08,
+    "height": 0.224,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Strategist",
+    "seats": 5,
+    "external_id": "d1zzeot9fa2c850e8fd9b87z60xffjkz",
+    "x": 0.407,
+    "y": 0.349,
+    "width": 0.053,
+    "height": 0.242,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hacking",
+    "seats": 1,
+    "external_id": "f3h1hwh2maxg2q2vn1j8z92juup7qs7j",
+    "x": 0.135,
+    "y": 0.69,
+    "width": 0.097,
+    "height": 0.116,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Martin",
+    "seats": 1,
+    "external_id": "r4ad14mml6ujdzkoepz8a7qxaarbmdk6",
+    "x": 0.298,
+    "y": 0.204,
+    "width": 0.2,
+    "height": 0.217,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "algorithm",
+    "seats": 3,
+    "external_id": "7x7sy70e10a822529kbngykrwehah1x4",
+    "x": 0.357,
+    "y": 0.34,
+    "width": 0.194,
+    "height": 0.209,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "transmitter",
+    "seats": 2,
+    "external_id": "yih5ufba0gwdvwvw6i37iuhbgd957xxo",
+    "x": 0.609,
+    "y": 0.148,
+    "width": 0.082,
+    "height": 0.125,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "laboriosam",
+    "seats": 8,
+    "external_id": "h1w538sqzqghb1bcjs0qsq19t51qrdev",
+    "x": 0.686,
+    "y": 0.729,
+    "width": 0.23,
+    "height": 0.134,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Funk",
+    "seats": 2,
+    "external_id": "kahfl7x5g8k7licvfkxn996kf0qi0bet",
+    "x": 0.512,
+    "y": 0.601,
+    "width": 0.07,
+    "height": 0.053,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "likewise",
+    "seats": 6,
+    "external_id": "1ok5umglvat00487kiasxfc444syadq8",
+    "x": 0.714,
+    "y": 0.591,
+    "width": 0.234,
+    "height": 0.054,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Recycled",
+    "seats": 8,
+    "external_id": "zbb1mbymbp40w81ibbtfhzkildnk6396",
+    "x": 0.359,
+    "y": 0.709,
+    "width": 0.1,
+    "height": 0.115,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "unimportant",
+    "seats": 6,
+    "external_id": "w7w98ao1sh5jmi894e376gsmnmkpck03",
+    "x": 0.552,
+    "y": 0.032,
+    "width": 0.19,
+    "height": 0.239,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "lavender",
+    "seats": 6,
+    "external_id": "cl1z3lp2r6m7f3r5eiqu1ohhmzg366xy",
+    "x": 0.426,
+    "y": 0.36,
+    "width": 0.148,
+    "height": 0.158,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Branding",
+    "seats": 2,
+    "external_id": "shcpp0jbx579dasykrn2kcblby3yjglj",
+    "x": 0.496,
+    "y": 0.724,
+    "width": 0.07,
+    "height": 0.122,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "adventurously",
+    "seats": 6,
+    "external_id": "vvryz53n3817udbuharqsnpxbc2uwfwy",
+    "x": 0.532,
+    "y": 0.255,
+    "width": 0.095,
+    "height": 0.14,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "system",
+    "seats": 7,
+    "external_id": "f8r0xtic9d6547i830m69sv05miwmi22",
+    "x": 0.339,
+    "y": 0.471,
+    "width": 0.22,
+    "height": 0.072,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "North",
+    "seats": 3,
+    "external_id": "olhoo5tvo7l6f7im3q6xa4et7vww7fp0",
+    "x": 0.57,
+    "y": 0.732,
+    "width": 0.095,
+    "height": 0.128,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "circuit",
+    "seats": 2,
+    "external_id": "3t5mgt9wyr1ql9zkhfgsm2ajsgimh6rf",
+    "x": 0.175,
+    "y": 0.556,
+    "width": 0.168,
+    "height": 0.147,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "navigating",
+    "seats": 9,
+    "external_id": "vo43t5mv55pnspzi9ys3xxzh03dajvit",
+    "x": 0.123,
+    "y": 0.536,
+    "width": 0.203,
+    "height": 0.121,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "North",
+    "seats": 3,
+    "external_id": "6lcijunucxr1k79cjn9978ec8amgtry2",
+    "x": 0.31,
+    "y": 0.084,
+    "width": 0.13,
+    "height": 0.174,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Marketing",
+    "seats": 1,
+    "external_id": "zs54ljbza8r5wyqu6m4spnn60kv184jy",
+    "x": 0.147,
+    "y": 0.018,
+    "width": 0.096,
+    "height": 0.205,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Minnesota",
+    "seats": 4,
+    "external_id": "gvqwwo6wl57nffvtrwc70hbu1ixrvjrs",
+    "x": 0.126,
+    "y": 0.713,
+    "width": 0.147,
+    "height": 0.199,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 2,
+    "external_id": "7qvw8nvhcftcretodzobj8pppxcyym9s",
+    "x": 0.607,
+    "y": 0.043,
+    "width": 0.184,
+    "height": 0.139,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Orchestrator",
+    "seats": 7,
+    "external_id": "3abo4xc5imyj551xgrgs0g56g4i9ll5r",
+    "x": 0.192,
+    "y": 0.54,
+    "width": 0.245,
+    "height": 0.137,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "dual",
+    "seats": 5,
+    "external_id": "y2mxm3tnptwlrbww185kwzrecx3m3qzf",
+    "x": 0.085,
+    "y": 0.389,
+    "width": 0.178,
+    "height": 0.219,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "black",
+    "seats": 9,
+    "external_id": "yy7r6nkl3wb9t377e5a39jmjbhstahhg",
+    "x": 0.675,
+    "y": 0.06,
+    "width": 0.234,
+    "height": 0.065,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bashfully",
+    "seats": 8,
+    "external_id": "wdekq1ba5sh3xeic43eyag4ihe5ps2ci",
+    "x": 0.132,
+    "y": 0.314,
+    "width": 0.249,
+    "height": 0.051,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "woman",
+    "seats": 5,
+    "external_id": "0n41kymjgo0wlq7z58mweedmkc6ismi1",
+    "x": 0.485,
+    "y": 0.744,
+    "width": 0.182,
+    "height": 0.205,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "since",
+    "seats": 4,
+    "external_id": "ws36ho6tosus3q2vjw9x6gozrvs0j2lz",
+    "x": 0.255,
+    "y": 0.205,
+    "width": 0.176,
+    "height": 0.207,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Androgyne",
+    "seats": 4,
+    "external_id": "zv0kff5utvbgkdjqkbibu9z2y119vxom",
+    "x": 0.247,
+    "y": 0.197,
+    "width": 0.119,
+    "height": 0.087,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Rap",
+    "seats": 6,
+    "external_id": "d57wrbbtwpmivazj8bqi79hgw51zdx6f",
+    "x": 0.676,
+    "y": 0.612,
+    "width": 0.205,
+    "height": 0.19,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "pfft",
+    "seats": 1,
+    "external_id": "how0pv7naninbilxwrygxofl4uusvwvk",
+    "x": 0.389,
+    "y": 0.432,
+    "width": 0.09,
+    "height": 0.174,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "seats": 4,
+    "external_id": "tg6scypckoloz483rmbd5rbq0vtxwozn",
+    "x": 0.462,
+    "y": 0.16,
+    "width": 0.058,
+    "height": 0.155,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "withdrawal",
+    "seats": 1,
+    "external_id": "egiml6ev8fc7dahs0f6xifqf8awasjj2",
+    "x": 0.705,
+    "y": 0.45,
+    "width": 0.164,
+    "height": 0.15,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "North",
+    "seats": 5,
+    "external_id": "a92qnup6qdwirn6x1mksk9ln5ivhsg6f",
+    "x": 0.436,
+    "y": 0.452,
+    "width": 0.161,
+    "height": 0.156,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bicycle",
+    "seats": 9,
+    "external_id": "g9g38d520533bh7hrw13u4v33luo30c2",
+    "x": 0.326,
+    "y": 0.4,
+    "width": 0.101,
+    "height": 0.203,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Non",
+    "seats": 3,
+    "external_id": "zq13favb281ur1dyssx3guwmb02s1e3m",
+    "x": 0.318,
+    "y": 0.38,
+    "width": 0.235,
+    "height": 0.142,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mindshare",
+    "seats": 1,
+    "external_id": "ue3rvneyjlsfnn06v1203sqvgfk5nw58",
+    "x": 0.23,
+    "y": 0.63,
+    "width": 0.107,
+    "height": 0.098,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Extended",
+    "seats": 8,
+    "external_id": "brbqfg8ktoj7ssv9qaeh9baiwfmihaz8",
+    "x": 0.485,
+    "y": 0.629,
+    "width": 0.103,
+    "height": 0.144,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "authentic",
+    "seats": 5,
+    "external_id": "44t40ldu3hme2wztv7ibm4abizvl3f4l",
+    "x": 0.076,
+    "y": 0.201,
+    "width": 0.188,
+    "height": 0.187,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "enterprise",
+    "seats": 7,
+    "external_id": "orhd8yjaf186nk4pz9yu55p23yc0mt0n",
+    "x": 0.743,
+    "y": 0.698,
+    "width": 0.194,
+    "height": 0.096,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Concrete",
+    "seats": 2,
+    "external_id": "agfxj5rgq31fofzm5p4wb8vem2sx61sr",
+    "x": 0.657,
+    "y": 0.534,
+    "width": 0.107,
+    "height": 0.154,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Director",
+    "seats": 2,
+    "external_id": "nqpwgid1b26esups3cdi5y974rtnv2u3",
+    "x": 0.71,
+    "y": 0.436,
+    "width": 0.223,
+    "height": 0.14,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hack",
+    "seats": 8,
+    "external_id": "xxelrqw0k3qg02fp1fojgi5ey5j8fbk1",
+    "x": 0.339,
+    "y": 0.537,
+    "width": 0.125,
+    "height": 0.135,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "rectangular",
+    "seats": 8,
+    "external_id": "qsbv4882emyo5o5rc5nuqokecwqwciyp",
+    "x": 0.569,
+    "y": 0.166,
+    "width": 0.232,
+    "height": 0.224,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Ergonomic",
+    "seats": 6,
+    "external_id": "blrsnnz7qsmn1cqt0jnhw3064mm3jwfg",
+    "x": 0.727,
+    "y": 0.121,
+    "width": 0.074,
+    "height": 0.235,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "female",
+    "seats": 7,
+    "external_id": "g3wyg2kobhanqveqrs0qocwuepcgvy6y",
+    "x": 0.731,
+    "y": 0.246,
+    "width": 0.127,
+    "height": 0.125,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "orchestrate",
+    "seats": 2,
+    "external_id": "fsirjkcdcvdvtaw2cwb148wx1z7yczwt",
+    "x": 0.252,
+    "y": 0.436,
+    "width": 0.117,
+    "height": 0.181,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "East",
+    "seats": 5,
+    "external_id": "6zh7ib6hszdl73ca685nrbt153hiyfmj",
+    "x": 0.326,
+    "y": 0.418,
+    "width": 0.135,
+    "height": 0.136,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Handcrafted",
+    "seats": 7,
+    "external_id": "1bsiu4qwqqmao8bjhnr34nm6tftrvh3m",
+    "x": 0.745,
+    "y": 0.37,
+    "width": 0.213,
+    "height": 0.232,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Supervisor",
+    "seats": 3,
+    "external_id": "ejtsc2l9oqpa8vyrz45iu4girshm12xf",
+    "x": 0.168,
+    "y": 0.543,
+    "width": 0.195,
+    "height": 0.192,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Vineland",
+    "seats": 8,
+    "external_id": "r1q6rvfsg3ken7p63ygtyiqutwomyul1",
+    "x": 0.435,
+    "y": 0.58,
+    "width": 0.058,
+    "height": 0.211,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tuna",
+    "seats": 9,
+    "external_id": "wssxbeaknr8iiauf9vfr3ksan9936an3",
+    "x": 0.066,
+    "y": 0.699,
+    "width": 0.18,
+    "height": 0.123,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sleek",
+    "seats": 4,
+    "external_id": "u6w8fvrv2n1b1f9gw0zrrkcxgn2sz72a",
+    "x": 0.257,
+    "y": 0.177,
+    "width": 0.19,
+    "height": 0.114,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "curl",
+    "seats": 6,
+    "external_id": "i7bsjq9assrgb01r1jtyv1z07hh28sz6",
+    "x": 0.133,
+    "y": 0.193,
+    "width": 0.129,
+    "height": 0.071,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 9,
+    "external_id": "859le3xsjiufwopez1tu3ip56uc2ohpu",
+    "x": 0.347,
+    "y": 0.088,
+    "width": 0.215,
+    "height": 0.131,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Darryl",
+    "seats": 1,
+    "external_id": "4vms9jwpn24hvw085rvokk5c2ldsi1tw",
+    "x": 0.238,
+    "y": 0.284,
+    "width": 0.208,
+    "height": 0.072,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ashamed",
+    "seats": 1,
+    "external_id": "d69j9jo9xnh2skptlucjrvu6ve9gcqvq",
+    "x": 0.236,
+    "y": 0.693,
+    "width": 0.083,
+    "height": 0.139,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Loaf",
+    "seats": 8,
+    "external_id": "gseuwtvveuhgfn0iqu83s5q5uqwiclcj",
+    "x": 0.562,
+    "y": 0.182,
+    "width": 0.073,
+    "height": 0.212,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Waldorf",
+    "seats": 6,
+    "external_id": "g9yos9yqhqghjrwoswob8myfecjp6a3z",
+    "x": 0.277,
+    "y": 0.169,
+    "width": 0.22,
+    "height": 0.201,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Markets",
+    "seats": 5,
+    "external_id": "u5bkizr2hpmm17g2tvqjpma2mu198akq",
+    "x": 0.463,
+    "y": 0.331,
+    "width": 0.097,
+    "height": 0.213,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "24",
+    "seats": 1,
+    "external_id": "uahczavulmc98zmrnln88v7rq53xpolk",
+    "x": 0.417,
+    "y": 0.651,
+    "width": 0.234,
+    "height": 0.248,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "female",
+    "seats": 2,
+    "external_id": "y1qedb114zcrkj7o1ssr2o4oryzwxk6x",
+    "x": 0.514,
+    "y": 0.397,
+    "width": 0.134,
+    "height": 0.25,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "harden",
+    "seats": 9,
+    "external_id": "91qjhvjorcajlc6bsjjzwhihvgtzov4a",
+    "x": 0.409,
+    "y": 0.241,
+    "width": 0.114,
+    "height": 0.106,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cuban",
+    "seats": 1,
+    "external_id": "4ngcn5z364f65rsymziaxhk170gntmp4",
+    "x": 0.745,
+    "y": 0.496,
+    "width": 0.113,
+    "height": 0.218,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "withdrawal",
+    "seats": 5,
+    "external_id": "kr3stsh7ng7hv8n5udsoej3h1wowjwke",
+    "x": 0.245,
+    "y": 0.249,
+    "width": 0.12,
+    "height": 0.191,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "interface",
+    "seats": 8,
+    "external_id": "ibadoozx9dey99v1lav0dajcewmijppy",
+    "x": 0.67,
+    "y": 0.254,
+    "width": 0.177,
+    "height": 0.08,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Oriental",
+    "seats": 8,
+    "external_id": "g5cketb1znlajm5ip8xnhrbax87d2b6z",
+    "x": 0.617,
+    "y": 0.712,
+    "width": 0.246,
+    "height": 0.217,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bifurcated",
+    "seats": 3,
+    "external_id": "jj6dvv4axvyl05762im763oyr8rx9xbt",
+    "x": 0.188,
+    "y": 0.309,
+    "width": 0.122,
+    "height": 0.067,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bedfordshire",
+    "seats": 9,
+    "external_id": "kpk6ck6fai80mjumwcloo1grsyqrkc01",
+    "x": 0.588,
+    "y": 0.187,
+    "width": 0.169,
+    "height": 0.188,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "seats": 5,
+    "external_id": "3efguf4lrhz6f49ay6z7waxh2n4qo9i6",
+    "x": 0.247,
+    "y": 0.185,
+    "width": 0.083,
+    "height": 0.081,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Product",
+    "seats": 4,
+    "external_id": "cm4mzegwgbg8gwjl61xt2hrw0yeh05tp",
+    "x": 0.68,
+    "y": 0.439,
+    "width": 0.166,
+    "height": 0.104,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Arcadia",
+    "seats": 7,
+    "external_id": "7y13xzqkj9k967bisif3qi5qlt2k9pma",
+    "x": 0.387,
+    "y": 0.463,
+    "width": 0.219,
+    "height": 0.125,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Functionality",
+    "seats": 4,
+    "external_id": "7emayanlmunocy0e6qjxbmf7hcqzfj1u",
+    "x": 0.422,
+    "y": 0.408,
+    "width": 0.09,
+    "height": 0.177,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Orlando",
+    "seats": 4,
+    "external_id": "81he7yyhlg5uuopr7wom6xtf0r7yhh58",
+    "x": 0.628,
+    "y": 0.406,
+    "width": 0.093,
+    "height": 0.09,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "generate",
+    "seats": 8,
+    "external_id": "ugvd0mwojloidyao032aoaam0i7gnkom",
+    "x": 0.625,
+    "y": 0.655,
+    "width": 0.095,
+    "height": 0.215,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "scale",
+    "seats": 8,
+    "external_id": "yjfa2pen1dkojri2hnwmfyc6euscaus1",
+    "x": 0.167,
+    "y": 0.309,
+    "width": 0.165,
+    "height": 0.058,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Diesel",
+    "seats": 9,
+    "external_id": "jss1pdr3ovmemuqq9j1ai93iry380hj7",
+    "x": 0.521,
+    "y": 0.398,
+    "width": 0.212,
+    "height": 0.213,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Diesel",
+    "seats": 8,
+    "external_id": "z1jevofi6x56bedyb8lsog4me4s2u0ci",
+    "x": 0.608,
+    "y": 0.062,
+    "width": 0.171,
+    "height": 0.165,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "male",
+    "seats": 7,
+    "external_id": "1kacoprkuvo5o0gw5hqvlcmq5pyc5lxw",
+    "x": 0.712,
+    "y": 0.672,
+    "width": 0.175,
+    "height": 0.132,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Interactions",
+    "seats": 4,
+    "external_id": "1o7djm9sgf3hmde8exx3waob1le14mx4",
+    "x": 0.282,
+    "y": 0.405,
+    "width": 0.144,
+    "height": 0.196,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cotton",
+    "seats": 6,
+    "external_id": "3587f8eifv16r47obs6fkcmpbu6jbd5s",
+    "x": 0.458,
+    "y": 0.551,
+    "width": 0.095,
+    "height": 0.164,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hack",
+    "seats": 2,
+    "external_id": "7yjzrdqk1vb61wro5ssf72p8wyuz60y8",
+    "x": 0.563,
+    "y": 0.438,
+    "width": 0.167,
+    "height": 0.165,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "BMX",
+    "seats": 6,
+    "external_id": "rfrf14ci6iyfmvl8f1pd5326b8oc0dov",
+    "x": 0.141,
+    "y": 0.427,
+    "width": 0.204,
+    "height": 0.061,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northeast",
+    "seats": 4,
+    "external_id": "2xh3rtwcdr6jnww4juerzpxt5sctyzwl",
+    "x": 0.577,
+    "y": 0.186,
+    "width": 0.241,
+    "height": 0.103,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "newton",
+    "seats": 1,
+    "external_id": "793clnk63sv1fyue4l4cupurln3ldo4y",
+    "x": 0.604,
+    "y": 0.165,
+    "width": 0.059,
+    "height": 0.147,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hassium",
+    "seats": 6,
+    "external_id": "n0vy3qno80xv4twmibxa8lou6wjdkbfq",
+    "x": 0.639,
+    "y": 0.699,
+    "width": 0.165,
+    "height": 0.2,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "exuding",
+    "seats": 8,
+    "external_id": "oi8u0cn3ex9lf1wg1jngm28lyy6o86ke",
+    "x": 0.639,
+    "y": 0.079,
+    "width": 0.058,
+    "height": 0.244,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Licensed",
+    "seats": 8,
+    "external_id": "sllsrcv5nxsjoq0ftepaw05znl6gfook",
+    "x": 0.285,
+    "y": 0.035,
+    "width": 0.214,
+    "height": 0.068,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Dynamic",
+    "seats": 9,
+    "external_id": "6yaqa5lx00owpw1km09wo28cu1teygtp",
+    "x": 0.086,
+    "y": 0.211,
+    "width": 0.189,
+    "height": 0.226,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deposit",
+    "seats": 2,
+    "external_id": "xhb6y2x5aunksaaezon7innritbznfkc",
+    "x": 0.015,
+    "y": 0.652,
+    "width": 0.239,
+    "height": 0.137,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "between",
+    "seats": 3,
+    "external_id": "swg1x859n4tiwzih636fln3ds4ra0n2k",
+    "x": 0.054,
+    "y": 0.067,
+    "width": 0.177,
+    "height": 0.194,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Agent",
+    "seats": 6,
+    "external_id": "l1gg99j007ctp8ligk7lzb97nj9qpk6u",
+    "x": 0.556,
+    "y": 0.039,
+    "width": 0.128,
+    "height": 0.212,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "rarely",
+    "seats": 3,
+    "external_id": "0pxq1yr4gc1vjtre1x4wirbh69hh9uc9",
+    "x": 0.486,
+    "y": 0.433,
+    "width": 0.155,
+    "height": 0.178,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Shoes",
+    "seats": 3,
+    "external_id": "glnlmt2tri4fj2cb5cmnfsg9fkwjdtn4",
+    "x": 0.379,
+    "y": 0.332,
+    "width": 0.174,
+    "height": 0.212,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "firewall",
+    "seats": 9,
+    "external_id": "3qy75l3cywl34b3iq8o65lstkbfc0j4h",
+    "x": 0.176,
+    "y": 0.658,
+    "width": 0.158,
+    "height": 0.072,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ivory",
+    "seats": 5,
+    "external_id": "8voi1jgu7ukf81n4psu98schw10wv0nq",
+    "x": 0.61,
+    "y": 0.705,
+    "width": 0.196,
+    "height": 0.112,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mistreat",
+    "seats": 2,
+    "external_id": "xq5k6isl7uaa0vmimhuncceyga18p4vp",
+    "x": 0.658,
+    "y": 0.081,
+    "width": 0.059,
+    "height": 0.093,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Classical",
+    "seats": 7,
+    "external_id": "6oy30q1jco74u3t08jrrly6rou9nqxc0",
+    "x": 0.047,
+    "y": 0.529,
+    "width": 0.097,
+    "height": 0.116,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Executive",
+    "seats": 1,
+    "external_id": "shb7hjl92vbevp3sz08timks01c8kkhg",
+    "x": 0.342,
+    "y": 0.485,
+    "width": 0.214,
+    "height": 0.24,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "gold",
+    "seats": 3,
+    "external_id": "4bevaify8lg9bv91708r172g7l4lo4ue",
+    "x": 0.486,
+    "y": 0.724,
+    "width": 0.08,
+    "height": 0.103,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Markets",
+    "seats": 7,
+    "external_id": "svc7laib8maiaauis4svozcqytvutyhs",
+    "x": 0.311,
+    "y": 0.18,
+    "width": 0.087,
+    "height": 0.217,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Pizza",
+    "seats": 3,
+    "external_id": "no21ces93b9tmru2wexk8qty59o8kpcc",
+    "x": 0.672,
+    "y": 0.702,
+    "width": 0.105,
+    "height": 0.197,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 3,
+    "external_id": "uf5hlb4ijkcit6jke5iehmrsasji01ik",
+    "x": 0.748,
+    "y": 0.187,
+    "width": 0.159,
+    "height": 0.19,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "index",
+    "seats": 4,
+    "external_id": "myh73gc36opyj9pmmm3guj75tnp0njbb",
+    "x": 0.708,
+    "y": 0.14,
+    "width": 0.133,
+    "height": 0.127,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deposit",
+    "seats": 5,
+    "external_id": "dxc4p3k91kfp2pqgbtkvt0ryrb0k6z9r",
+    "x": 0.171,
+    "y": 0.359,
+    "width": 0.192,
+    "height": 0.201,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "embrace",
+    "seats": 5,
+    "external_id": "3ri7vxphsvnn8ququ9nkhz85sugvvw9u",
+    "x": 0.427,
+    "y": 0.195,
+    "width": 0.065,
+    "height": 0.123,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Personal",
+    "seats": 4,
+    "external_id": "vldw37gkrwrjl0dugufalyj6fisrj9w2",
+    "x": 0.722,
+    "y": 0.036,
+    "width": 0.169,
+    "height": 0.213,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Kids",
+    "seats": 5,
+    "external_id": "oikcr8fvgxb632jbgrwtj72wrae5tvk2",
+    "x": 0.401,
+    "y": 0.481,
+    "width": 0.083,
+    "height": 0.246,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "adapter",
+    "seats": 4,
+    "external_id": "6sa4qmttiwhshi9czsyv68kpzkwf8ppu",
+    "x": 0.717,
+    "y": 0.465,
+    "width": 0.202,
+    "height": 0.177,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Salad",
+    "seats": 3,
+    "external_id": "ateiyokidfgi2pr5taebrdpgz4flv01n",
+    "x": 0.486,
+    "y": 0.462,
+    "width": 0.094,
+    "height": 0.051,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Fish",
+    "seats": 3,
+    "external_id": "vkqb6nyg65l92eozl4057wx4htqoxml3",
+    "x": 0.55,
+    "y": 0.102,
+    "width": 0.069,
+    "height": 0.209,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "B2C",
+    "seats": 3,
+    "external_id": "w2lhyhdbng9ygzjan7nlio1ilia44q2x",
+    "x": 0.26,
+    "y": 0.04,
+    "width": 0.073,
+    "height": 0.197,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southwest",
+    "seats": 1,
+    "external_id": "6ghe94fkwyge69p8g1w70un4wx0f23hi",
+    "x": 0.146,
+    "y": 0.017,
+    "width": 0.157,
+    "height": 0.104,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "male",
+    "seats": 7,
+    "external_id": "8s6giqem2pnr9in2robegbf8i9ewwojx",
+    "x": 0.583,
+    "y": 0.303,
+    "width": 0.223,
+    "height": 0.185,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "productize",
+    "seats": 2,
+    "external_id": "cfldfxhg2owghd9qkxqeavzsvyxku84u",
+    "x": 0.24,
+    "y": 0.301,
+    "width": 0.09,
+    "height": 0.084,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mountain",
+    "seats": 7,
+    "external_id": "dmxpomx749t4fdca607rsr2nox6e9vra",
+    "x": 0.19,
+    "y": 0.711,
+    "width": 0.132,
+    "height": 0.226,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Nebraska",
+    "seats": 9,
+    "external_id": "z1hr63paa1if80n0tkzawgt64juk3iov",
+    "x": 0.572,
+    "y": 0.519,
+    "width": 0.126,
+    "height": 0.231,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "minus",
+    "seats": 7,
+    "external_id": "rf4r6mh3aa0b1yxra7u6e42esyiwznnv",
+    "x": 0.372,
+    "y": 0.682,
+    "width": 0.232,
+    "height": 0.248,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Facilitator",
+    "seats": 4,
+    "external_id": "ete0izaq0pk80x3zhfz7z4mlbhgemyzr",
+    "x": 0.536,
+    "y": 0.243,
+    "width": 0.117,
+    "height": 0.214,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "loyalty",
+    "seats": 3,
+    "external_id": "ttvt322ouoc5zq6qyok6schnxnjfjnsl",
+    "x": 0.069,
+    "y": 0.183,
+    "width": 0.161,
+    "height": 0.074,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "compelling",
+    "seats": 3,
+    "external_id": "pwlbw8fpepnlo3csvykeybia1vj0b3n0",
+    "x": 0.738,
+    "y": 0.544,
+    "width": 0.118,
+    "height": 0.209,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "patty",
+    "seats": 5,
+    "external_id": "thxwz5ow3a7g2lkcg8y9xmjsfjat1o3q",
+    "x": 0.662,
+    "y": 0.424,
+    "width": 0.158,
+    "height": 0.224,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gender",
+    "seats": 9,
+    "external_id": "0ralf2se8kytgmrnses4kp6cztg1ws0d",
+    "x": 0.486,
+    "y": 0.526,
+    "width": 0.203,
+    "height": 0.218,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "North",
+    "seats": 7,
+    "external_id": "59erh53voa4qx7gby76q914prf4zth0d",
+    "x": 0.469,
+    "y": 0.07,
+    "width": 0.178,
+    "height": 0.196,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "gold",
+    "seats": 4,
+    "external_id": "io8bxj22kiys2lo4q3r6c3kckd94jxrz",
+    "x": 0.276,
+    "y": 0.491,
+    "width": 0.155,
+    "height": 0.05,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "visualize",
+    "seats": 6,
+    "external_id": "n87j26gh1nnmi7ehhttl8e8oh7ljhuhf",
+    "x": 0.472,
+    "y": 0.735,
+    "width": 0.244,
+    "height": 0.128,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 3,
+    "external_id": "5snc34pw3lxmz7un2bfz1ohzs6zhthea",
+    "x": 0.491,
+    "y": 0.16,
+    "width": 0.078,
+    "height": 0.056,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mission",
+    "seats": 7,
+    "external_id": "0ebv4gw6vmp3o5yhm4eqsdgqqp9hdul6",
+    "x": 0.275,
+    "y": 0.384,
+    "width": 0.103,
+    "height": 0.165,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bah",
+    "seats": 6,
+    "external_id": "i4noy7afph77gwjhyu67hmm559zki1jl",
+    "x": 0.304,
+    "y": 0.329,
+    "width": 0.191,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "kelvin",
+    "seats": 7,
+    "external_id": "8r5pjtggw1d75xqttpl60cwg5mmxwemm",
+    "x": 0.01,
+    "y": 0.66,
+    "width": 0.103,
+    "height": 0.192,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "recontextualize",
+    "seats": 3,
+    "external_id": "1gsh2fegbtz9ryot2zzn0ut4xb755sqt",
+    "x": 0.707,
+    "y": 0.401,
+    "width": 0.205,
+    "height": 0.187,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 9,
+    "external_id": "wg7pofqo19354icz7kpj85hkvudtjfzh",
+    "x": 0.326,
+    "y": 0.154,
+    "width": 0.111,
+    "height": 0.142,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cronin",
+    "seats": 5,
+    "external_id": "moqe3dahh81jboqny3yrgljmlpdo08cp",
+    "x": 0.716,
+    "y": 0.253,
+    "width": 0.052,
+    "height": 0.083,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Samoa",
+    "seats": 1,
+    "external_id": "dxjmpfsogcem4u6zz43j3y5lvkba1r93",
+    "x": 0.182,
+    "y": 0.191,
+    "width": 0.082,
+    "height": 0.05,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Virtual",
+    "seats": 1,
+    "external_id": "915zxk628rd1h7zmh1h1w1yzq7fd0a9i",
+    "x": 0.384,
+    "y": 0.166,
+    "width": 0.127,
+    "height": 0.236,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 2,
+    "external_id": "6aajp78fxplwwzznkkxakb0qwqkrtryy",
+    "x": 0.624,
+    "y": 0.068,
+    "width": 0.184,
+    "height": 0.13,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Wagon",
+    "seats": 4,
+    "external_id": "eyuovksfa9gi3yf35o0j6rdz1j0dc6xu",
+    "x": 0.319,
+    "y": 0.548,
+    "width": 0.069,
+    "height": 0.23,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "panel",
+    "seats": 7,
+    "external_id": "tv9vhh7r4kui0z3521l5cdv2i0juj78u",
+    "x": 0.513,
+    "y": 0.23,
+    "width": 0.143,
+    "height": 0.194,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "tan",
+    "seats": 5,
+    "external_id": "4z5c7gldouhmgamfppfnoklz4n85sscp",
+    "x": 0.582,
+    "y": 0.745,
+    "width": 0.144,
+    "height": 0.206,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "libero",
+    "seats": 5,
+    "external_id": "n86f6vbbage3q8age4wgyrggwfat43qx",
+    "x": 0.109,
+    "y": 0.548,
+    "width": 0.14,
+    "height": 0.115,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "quarry",
+    "seats": 7,
+    "external_id": "69jti4bgprxirawh9gyoef1go8js9fvy",
+    "x": 0.457,
+    "y": 0.141,
+    "width": 0.062,
+    "height": 0.135,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hassium",
+    "seats": 8,
+    "external_id": "z1oxbz1jbfiifrqv4qluhssuew3ijrm0",
+    "x": 0.458,
+    "y": 0.143,
+    "width": 0.05,
+    "height": 0.202,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "queerly",
+    "seats": 2,
+    "external_id": "atp049u4oe3m0xaronxcugod04pewtj8",
+    "x": 0.277,
+    "y": 0.293,
+    "width": 0.083,
+    "height": 0.172,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "aha",
+    "seats": 2,
+    "external_id": "or3z69jvyygac71bv78hvuf23c7r7u68",
+    "x": 0.107,
+    "y": 0.053,
+    "width": 0.211,
+    "height": 0.136,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Innovative",
+    "seats": 8,
+    "external_id": "4vzv639o6p9f7w0owgu2wjhvq1l6gzrz",
+    "x": 0.384,
+    "y": 0.014,
+    "width": 0.161,
+    "height": 0.215,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 3,
+    "external_id": "l6zcawunaurgbj87rstx9oqumzbfcqfc",
+    "x": 0.071,
+    "y": 0.08,
+    "width": 0.197,
+    "height": 0.112,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Malagasy",
+    "seats": 4,
+    "external_id": "7o5ao7mxlzvdnuahj05nik1l84ptppax",
+    "x": 0.549,
+    "y": 0.573,
+    "width": 0.165,
+    "height": 0.059,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Krypton",
+    "seats": 8,
+    "external_id": "h3ix0hdrvbx6fbaj5uki4v5exmcq2snp",
+    "x": 0.364,
+    "y": 0.095,
+    "width": 0.166,
+    "height": 0.066,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Clothing",
+    "seats": 8,
+    "external_id": "gzoeywl1ti7ze02qh2w4u4u4yjyamk61",
+    "x": 0.591,
+    "y": 0.74,
+    "width": 0.079,
+    "height": 0.059,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "systems",
+    "seats": 4,
+    "external_id": "cr6qzy4bn0g0cmbcqxuwwq2vkwvfco1p",
+    "x": 0.475,
+    "y": 0.391,
+    "width": 0.144,
+    "height": 0.151,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Jazz",
+    "seats": 5,
+    "external_id": "zq6vpxtoja15ynxo6ybcrhtxvd2wvza7",
+    "x": 0.685,
+    "y": 0.075,
+    "width": 0.051,
+    "height": 0.242,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 4,
+    "external_id": "o11f3z1g5xdi1juxn0phx0l415eyvgbl",
+    "x": 0.075,
+    "y": 0.463,
+    "width": 0.081,
+    "height": 0.123,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 8,
+    "external_id": "u1i751khqcczq25hsrqz5crlhvl1mh7v",
+    "x": 0.644,
+    "y": 0.391,
+    "width": 0.209,
+    "height": 0.243,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "parsing",
+    "seats": 9,
+    "external_id": "0tv6qg0g0k39rh2f1xlubpy59dckk0tg",
+    "x": 0.028,
+    "y": 0.449,
+    "width": 0.212,
+    "height": 0.059,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "East",
+    "seats": 4,
+    "external_id": "hae6qun9dunhunj27lws24i0zw36ryhd",
+    "x": 0.195,
+    "y": 0.713,
+    "width": 0.063,
+    "height": 0.15,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mini",
+    "seats": 6,
+    "external_id": "nasp9caqw1rkn7zv6x0t6c2l4swxsav9",
+    "x": 0.553,
+    "y": 0.557,
+    "width": 0.2,
+    "height": 0.057,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "billion",
+    "seats": 4,
+    "external_id": "t4itnn9bkgil6orrlgnfywr845u28hn3",
+    "x": 0.279,
+    "y": 0.007,
+    "width": 0.237,
+    "height": 0.077,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "supposing",
+    "seats": 6,
+    "external_id": "yoqh6qp1sa5oft7xhn00qer8z6xw79cg",
+    "x": 0.414,
+    "y": 0.543,
+    "width": 0.167,
+    "height": 0.128,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bentley",
+    "seats": 8,
+    "external_id": "dbdxxodzbxscayftjbwsfn57k25ob573",
+    "x": 0.589,
+    "y": 0.414,
+    "width": 0.214,
+    "height": 0.105,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "annually",
+    "seats": 6,
+    "external_id": "wwacq5iiw89bi6bgk6bke19yi3mtv4jh",
+    "x": 0.623,
+    "y": 0.329,
+    "width": 0.222,
+    "height": 0.106,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Research",
+    "seats": 9,
+    "external_id": "od0xvmvtjxhzl8smwqa3cg3b06l17w41",
+    "x": 0.681,
+    "y": 0.508,
+    "width": 0.074,
+    "height": 0.097,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "copying",
+    "seats": 8,
+    "external_id": "0o4mhlb76gr4ozx47bf2ultodlqwtuxp",
+    "x": 0.318,
+    "y": 0.334,
+    "width": 0.129,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "imbalance",
+    "seats": 6,
+    "external_id": "cqy8almqgdicirtnl23znio2egdfhu0f",
+    "x": 0.173,
+    "y": 0.275,
+    "width": 0.205,
+    "height": 0.225,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "rem",
+    "seats": 2,
+    "external_id": "feifq8ziiy57jg7vc1zqfiyd99ogs0y9",
+    "x": 0.204,
+    "y": 0.603,
+    "width": 0.055,
+    "height": 0.238,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "optical",
+    "seats": 9,
+    "external_id": "kajzh1bj06vzsbqbt79ud00c0skmgpnn",
+    "x": 0.576,
+    "y": 0.457,
+    "width": 0.088,
+    "height": 0.052,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Metal",
+    "seats": 4,
+    "external_id": "p9n82h5hrs0inp4fd3gd7t9bfhneysjj",
+    "x": 0.742,
+    "y": 0.334,
+    "width": 0.189,
+    "height": 0.199,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "candela",
+    "seats": 5,
+    "external_id": "y18lmmsionoyr2d0yuhcnkdv6qv24owa",
+    "x": 0.098,
+    "y": 0.567,
+    "width": 0.126,
+    "height": 0.166,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cab",
+    "seats": 1,
+    "external_id": "48jrko0wjkdni9vov0u36ejywtvz4we3",
+    "x": 0.694,
+    "y": 0.156,
+    "width": 0.152,
+    "height": 0.158,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "salmon",
+    "seats": 1,
+    "external_id": "yw6lxurf9a9aud7ozo3srm87gbxwmf2p",
+    "x": 0.155,
+    "y": 0.749,
+    "width": 0.217,
+    "height": 0.079,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "override",
+    "seats": 2,
+    "external_id": "0c2cu4wn618upmyo68qejw2q44h2lsg7",
+    "x": 0.2,
+    "y": 0.16,
+    "width": 0.237,
+    "height": 0.09,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "because",
+    "seats": 2,
+    "external_id": "pogydgrd7bz9jt19qdoic2hdd0apexrq",
+    "x": 0.182,
+    "y": 0.57,
+    "width": 0.244,
+    "height": 0.105,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "male",
+    "seats": 5,
+    "external_id": "berpq7pl619lc9hun3jj9zreesza6ooh",
+    "x": 0.54,
+    "y": 0.16,
+    "width": 0.058,
+    "height": 0.247,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Towels",
+    "seats": 8,
+    "external_id": "wwfjf5558dngawyekdqqomdmnzm1la7q",
+    "x": 0.523,
+    "y": 0.512,
+    "width": 0.241,
+    "height": 0.121,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sausages",
+    "seats": 9,
+    "external_id": "lgin6m0l84takekg1r3fkl4yq1zlcau7",
+    "x": 0.299,
+    "y": 0.053,
+    "width": 0.109,
+    "height": 0.157,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Intersex",
+    "seats": 6,
+    "external_id": "82fkdrbc6z4svrasbjvybfemn1ocsrim",
+    "x": 0.495,
+    "y": 0.274,
+    "width": 0.065,
+    "height": 0.094,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Shoes",
+    "seats": 4,
+    "external_id": "vahmefogxo6oln6dccbcovheskd5uzcn",
+    "x": 0.742,
+    "y": 0.199,
+    "width": 0.141,
+    "height": 0.178,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mindshare",
+    "seats": 3,
+    "external_id": "grljyiz1gm1idkt633izjbjuqebao44k",
+    "x": 0.687,
+    "y": 0.611,
+    "width": 0.097,
+    "height": 0.057,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Antigua",
+    "seats": 2,
+    "external_id": "mdr4v0fdzje446n2kgfl71s3d8um6azw",
+    "x": 0.067,
+    "y": 0.68,
+    "width": 0.221,
+    "height": 0.084,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mouse",
+    "seats": 4,
+    "external_id": "5xlsadmuw4sx92goco5ptv7fq1nwwmwi",
+    "x": 0.464,
+    "y": 0.044,
+    "width": 0.161,
+    "height": 0.106,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "connect",
+    "seats": 5,
+    "external_id": "3tj939lvz1wbt9jdbnquxsbc0odjj8vz",
+    "x": 0.72,
+    "y": 0.387,
+    "width": 0.124,
+    "height": 0.129,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 5,
+    "external_id": "ohzx63ubgj3axxlltcbxavtct4xx26yf",
+    "x": 0.324,
+    "y": 0.465,
+    "width": 0.241,
+    "height": 0.191,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "up",
+    "seats": 2,
+    "external_id": "g6ds4c84zh49c2tzvylqsy9j64znlvkd",
+    "x": 0.629,
+    "y": 0.198,
+    "width": 0.157,
+    "height": 0.06,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tricycle",
+    "seats": 6,
+    "external_id": "nnfvtrlga420s8k5opg7s4ifrt0se8uz",
+    "x": 0.143,
+    "y": 0.547,
+    "width": 0.125,
+    "height": 0.165,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "platforms",
+    "seats": 2,
+    "external_id": "pj6tj7penoksz1q1vb8zxxqk2n740w65",
+    "x": 0.195,
+    "y": 0.411,
+    "width": 0.242,
+    "height": 0.075,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "MTF",
+    "seats": 8,
+    "external_id": "uoley9g2nclmg4tezqwih139tt8vgkgr",
+    "x": 0.088,
+    "y": 0.155,
+    "width": 0.095,
+    "height": 0.131,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northeast",
+    "seats": 9,
+    "external_id": "gqxwys1zmqnoqx8fh419a0zn9e5amei7",
+    "x": 0.157,
+    "y": 0.372,
+    "width": 0.143,
+    "height": 0.073,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mansion",
+    "seats": 7,
+    "external_id": "fv7an306e0gjwbr7unx7fhorwdjryzmo",
+    "x": 0.505,
+    "y": 0.715,
+    "width": 0.065,
+    "height": 0.151,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Licensed",
+    "seats": 7,
+    "external_id": "zoatna7sbay7oir5rh44sbjaqeur6w38",
+    "x": 0.55,
+    "y": 0.379,
+    "width": 0.072,
+    "height": 0.05,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cheese",
+    "seats": 8,
+    "external_id": "zbfala8llijo6yrqiqxmj6xrzyeqn7c0",
+    "x": 0.164,
+    "y": 0.447,
+    "width": 0.24,
+    "height": 0.178,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Strategist",
+    "seats": 2,
+    "external_id": "chwykybcbj21osfkk04ecj75bhj1xln0",
+    "x": 0.311,
+    "y": 0.098,
+    "width": 0.248,
+    "height": 0.083,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Legacy",
+    "seats": 7,
+    "external_id": "mzp01xkbfirbsb86f0mdundnp933wno5",
+    "x": 0.196,
+    "y": 0.264,
+    "width": 0.106,
+    "height": 0.089,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "radian",
+    "seats": 4,
+    "external_id": "p1k6q7asq18u8xh1c44icm9tq3tuo74d",
+    "x": 0.515,
+    "y": 0.102,
+    "width": 0.069,
+    "height": 0.222,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Generic",
+    "seats": 8,
+    "external_id": "3gn9ongbltmrquuxu6xlas4n5qjgdznx",
+    "x": 0.731,
+    "y": 0.057,
+    "width": 0.204,
+    "height": 0.207,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "portals",
+    "seats": 1,
+    "external_id": "d13jocp5cggh0h9wr76cd3rypp7ckmng",
+    "x": 0.478,
+    "y": 0.554,
+    "width": 0.146,
+    "height": 0.111,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Central",
+    "seats": 7,
+    "external_id": "zwbjih4cohgq0xq378tlgx19nlmh3crc",
+    "x": 0.525,
+    "y": 0.287,
+    "width": 0.132,
+    "height": 0.123,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "West",
+    "seats": 6,
+    "external_id": "y72503ndd0bcww7sibfxcppcmt9vrmyv",
+    "x": 0.382,
+    "y": 0.352,
+    "width": 0.152,
+    "height": 0.157,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Director",
+    "seats": 8,
+    "external_id": "lfswcu7d500lcqvr3vxks6upsx8tf2t4",
+    "x": 0.637,
+    "y": 0.549,
+    "width": 0.107,
+    "height": 0.069,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "alarm",
+    "seats": 6,
+    "external_id": "dbx4kdyy0dldco7b2uq9map5rrsggp30",
+    "x": 0.13,
+    "y": 0.026,
+    "width": 0.129,
+    "height": 0.066,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "transparent",
+    "seats": 1,
+    "external_id": "vt5j5tlqgiirz8lw4oybnvjnp2m7u5hm",
+    "x": 0.284,
+    "y": 0.699,
+    "width": 0.219,
+    "height": 0.194,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "BMW",
+    "seats": 4,
+    "external_id": "vql8m8p6js4upwh4tjdeqyb6lo01vifm",
+    "x": 0.624,
+    "y": 0.688,
+    "width": 0.155,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 3,
+    "external_id": "4726i69g9crqtvdqwk22mqptuqc2zkc7",
+    "x": 0.618,
+    "y": 0.029,
+    "width": 0.13,
+    "height": 0.126,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ivory",
+    "seats": 8,
+    "external_id": "hubcyvfrrrv7wrsmrcdn0bnkcm5pjch8",
+    "x": 0.087,
+    "y": 0.701,
+    "width": 0.089,
+    "height": 0.066,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "generation",
+    "seats": 4,
+    "external_id": "n9qu7kh6r6g4i0m5f8n6b4ln86yxsjmt",
+    "x": 0.536,
+    "y": 0.047,
+    "width": 0.214,
+    "height": 0.105,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "asymmetric",
+    "seats": 7,
+    "external_id": "u10dsy3c0wvbzvujl7nyvjij15nltq6d",
+    "x": 0.087,
+    "y": 0.186,
+    "width": 0.233,
+    "height": 0.05,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tad",
+    "seats": 3,
+    "external_id": "srsh02pexd4w3b4mo05u5ct5rbqn6d2j",
+    "x": 0.099,
+    "y": 0.067,
+    "width": 0.239,
+    "height": 0.061,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Identity",
+    "seats": 2,
+    "external_id": "fpg2afvyuor4h7a5qnalwnox93dclyn1",
+    "x": 0.469,
+    "y": 0.293,
+    "width": 0.116,
+    "height": 0.167,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "gutter",
+    "seats": 1,
+    "external_id": "b10rmbzp5w8pcg89zcv3m0md2d2rnqpv",
+    "x": 0.741,
+    "y": 0.128,
+    "width": 0.229,
+    "height": 0.099,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Danbury",
+    "seats": 9,
+    "external_id": "tougbpk7mqlsvq3w26i3g4v1w9lhevwh",
+    "x": 0.342,
+    "y": 0.051,
+    "width": 0.073,
+    "height": 0.158,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "SMS",
+    "seats": 4,
+    "external_id": "0ht4lmgtgfegkfu0gapb8kl8z6d5r9oi",
+    "x": 0.614,
+    "y": 0.255,
+    "width": 0.086,
+    "height": 0.128,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Blues",
+    "seats": 9,
+    "external_id": "okjv6jqadpmwccwkeizn4p4peudqpvuq",
+    "x": 0.037,
+    "y": 0.465,
+    "width": 0.109,
+    "height": 0.132,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Streamlined",
+    "seats": 1,
+    "external_id": "rjgijmsose14qi1wdddh2c9li73xbzj2",
+    "x": 0.551,
+    "y": 0.44,
+    "width": 0.14,
+    "height": 0.146,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northwest",
+    "seats": 2,
+    "external_id": "ggvr3xfqnoiuwqjtsb2b9t9c1ystxngb",
+    "x": 0.243,
+    "y": 0.218,
+    "width": 0.071,
+    "height": 0.199,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "the",
+    "seats": 5,
+    "external_id": "wg7mwfpz626gws3di0as3in91g46683b",
+    "x": 0.321,
+    "y": 0.027,
+    "width": 0.053,
+    "height": 0.226,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "West",
+    "seats": 3,
+    "external_id": "fpsio0rmuqxdzwmn79tovbro8i4ex80x",
+    "x": 0.425,
+    "y": 0.743,
+    "width": 0.197,
+    "height": 0.215,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "silver",
+    "seats": 6,
+    "external_id": "mqvi5c9ekoab5v0if091m043uqflsgsz",
+    "x": 0.523,
+    "y": 0.353,
+    "width": 0.064,
+    "height": 0.245,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "salmon",
+    "seats": 9,
+    "external_id": "995de1sxw49270aq374i7v1evdibb7wk",
+    "x": 0.033,
+    "y": 0.432,
+    "width": 0.228,
+    "height": 0.172,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "lumen",
+    "seats": 5,
+    "external_id": "425u5aqnbjx3sq1tuxnsdlpaepaufm3l",
+    "x": 0.621,
+    "y": 0.115,
+    "width": 0.174,
+    "height": 0.083,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "indigo",
+    "seats": 8,
+    "external_id": "5fepe5co82fcend0804yj8ebpgjci6kw",
+    "x": 0.485,
+    "y": 0.234,
+    "width": 0.228,
+    "height": 0.137,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Drives",
+    "seats": 6,
+    "external_id": "2ta37yn4l44gdn1y31pkpk47quutwwdg",
+    "x": 0.061,
+    "y": 0.151,
+    "width": 0.058,
+    "height": 0.15,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bacon",
+    "seats": 5,
+    "external_id": "5bx4pqs2piw8l6x5ofeez8g8ajoqk0b2",
+    "x": 0.397,
+    "y": 0.59,
+    "width": 0.174,
+    "height": 0.053,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Planner",
+    "seats": 4,
+    "external_id": "qs0n9ad9sym5pv3p6r783h117uzkysqk",
+    "x": 0.572,
+    "y": 0.116,
+    "width": 0.074,
+    "height": 0.227,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Ball",
+    "seats": 8,
+    "external_id": "tthiwn94igzuonh57ecw0wy3036ei26n",
+    "x": 0.726,
+    "y": 0.691,
+    "width": 0.187,
+    "height": 0.226,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bicycle",
+    "seats": 5,
+    "external_id": "kir5c08kwpcyuml8eineshurfs3m3gmp",
+    "x": 0.541,
+    "y": 0.612,
+    "width": 0.081,
+    "height": 0.116,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bleakly",
+    "seats": 7,
+    "external_id": "zxacn77xcb9nli3c9e81yoc1zsrxwzzm",
+    "x": 0.511,
+    "y": 0.701,
+    "width": 0.129,
+    "height": 0.091,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Functionality",
+    "seats": 2,
+    "external_id": "pkwigywo04k2tn3l8nl82tg8x4owgvx9",
+    "x": 0.637,
+    "y": 0.59,
+    "width": 0.212,
+    "height": 0.212,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Senior",
+    "seats": 6,
+    "external_id": "i0chwnmz5f4cwtfo24d85lzbahkuam7y",
+    "x": 0.327,
+    "y": 0.714,
+    "width": 0.147,
+    "height": 0.169,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Borders",
+    "seats": 6,
+    "external_id": "7e0nsx9kxj7dm2z85g33vn0m4q3xve26",
+    "x": 0.528,
+    "y": 0.231,
+    "width": 0.054,
+    "height": 0.188,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "darken",
+    "seats": 9,
+    "external_id": "y1x1mjrf2082a5hohvoktq99wwt89rwu",
+    "x": 0.389,
+    "y": 0.619,
+    "width": 0.225,
+    "height": 0.123,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 3,
+    "external_id": "4y68ccv8xajevx919y7k7ou7nh9mjvlo",
+    "x": 0.709,
+    "y": 0.025,
+    "width": 0.095,
+    "height": 0.244,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "online",
+    "seats": 7,
+    "external_id": "vpsyxgbkcf7cu3oyocq9ctt46rwenr9h",
+    "x": 0.53,
+    "y": 0.063,
+    "width": 0.248,
+    "height": 0.131,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hertz",
+    "seats": 5,
+    "external_id": "obqdfop7tsh79i4u7dyozxxe1g65tix5",
+    "x": 0.278,
+    "y": 0.722,
+    "width": 0.12,
+    "height": 0.19,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Forward",
+    "seats": 2,
+    "external_id": "ted2djcpv6fz1bsx99iivah02ti42oqj",
+    "x": 0.656,
+    "y": 0.042,
+    "width": 0.101,
+    "height": 0.205,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "IP",
+    "seats": 2,
+    "external_id": "yc20lt053ci5liin8cal9syiwz91xki2",
+    "x": 0.263,
+    "y": 0.704,
+    "width": 0.059,
+    "height": 0.05,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Iron",
+    "seats": 3,
+    "external_id": "gj1suc2t87r14t58mjw6agjnewngonnv",
+    "x": 0.126,
+    "y": 0.121,
+    "width": 0.164,
+    "height": 0.103,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "TCP",
+    "seats": 4,
+    "external_id": "yfrfbewap8lmdn26t1cv5ch6nr1rkg6l",
+    "x": 0.394,
+    "y": 0.542,
+    "width": 0.079,
+    "height": 0.233,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bismuth",
+    "seats": 2,
+    "external_id": "adzl4hb199smsesfuw8h53o1tetaoqvy",
+    "x": 0.358,
+    "y": 0.629,
+    "width": 0.158,
+    "height": 0.106,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "siemens",
+    "seats": 7,
+    "external_id": "iny1cdoh7qnad1t2k5lz8xe5zn9szjq7",
+    "x": 0.422,
+    "y": 0.029,
+    "width": 0.113,
+    "height": 0.053,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tasty",
+    "seats": 4,
+    "external_id": "g3w5voeaeq6pb6cz1dp0sytyz3dq9g2e",
+    "x": 0.18,
+    "y": 0.507,
+    "width": 0.204,
+    "height": 0.077,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northwest",
+    "seats": 5,
+    "external_id": "flm4popwwrqrh9emzvg08b7zw8nk9vly",
+    "x": 0.222,
+    "y": 0.144,
+    "width": 0.112,
+    "height": 0.128,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Infrastructure",
+    "seats": 7,
+    "external_id": "vy4tbze4f5a26upjn8134efzrhoq0l02",
+    "x": 0.407,
+    "y": 0.418,
+    "width": 0.215,
+    "height": 0.056,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Solutions",
+    "seats": 7,
+    "external_id": "fzixce138u12n9h25v1uqdpn82ecbvq5",
+    "x": 0.16,
+    "y": 0.617,
+    "width": 0.109,
+    "height": 0.209,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "matrix",
+    "seats": 8,
+    "external_id": "i1ogzu5v1xyf3vl462vxkqfcc6rbkqgi",
+    "x": 0.417,
+    "y": 0.12,
+    "width": 0.099,
+    "height": 0.24,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "labore",
+    "seats": 4,
+    "external_id": "8bqgk01mjw5rq4dm8xqerxcas91430iw",
+    "x": 0.459,
+    "y": 0.616,
+    "width": 0.167,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mississippi",
+    "seats": 2,
+    "external_id": "cegamdcv3g1uwr1roz2qsmgdkjh8kmqq",
+    "x": 0.418,
+    "y": 0.223,
+    "width": 0.153,
+    "height": 0.106,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "a",
+    "seats": 8,
+    "external_id": "5bn67kml4dwm4wrew9fhl7ocbt5cxoz1",
+    "x": 0.46,
+    "y": 0.094,
+    "width": 0.084,
+    "height": 0.2,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "though",
+    "seats": 4,
+    "external_id": "w3kkth1mggk2esybtcq1v9m8kqy4aasc",
+    "x": 0.02,
+    "y": 0.046,
+    "width": 0.141,
+    "height": 0.158,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "farewell",
+    "seats": 1,
+    "external_id": "kowfetjfqgthj2ptl8q9i5du17yd45we",
+    "x": 0.465,
+    "y": 0.138,
+    "width": 0.058,
+    "height": 0.214,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "plum",
+    "seats": 6,
+    "external_id": "9lezpz9ydsylz58rpmee8foopypyfice",
+    "x": 0.249,
+    "y": 0.362,
+    "width": 0.164,
+    "height": 0.171,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 6,
+    "external_id": "r5y62phzewf64y0k5lpxjt981f8g2wkz",
+    "x": 0.519,
+    "y": 0.416,
+    "width": 0.148,
+    "height": 0.218,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "green",
+    "seats": 8,
+    "external_id": "d62pkezxei6zwvg3twtonrpbv53grsje",
+    "x": 0.015,
+    "y": 0.617,
+    "width": 0.21,
+    "height": 0.108,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Chevrolet",
+    "seats": 5,
+    "external_id": "mxvkgn701yuk7hnynjzrpzdq16bwsvi5",
+    "x": 0.421,
+    "y": 0.232,
+    "width": 0.075,
+    "height": 0.203,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deposit",
+    "seats": 2,
+    "external_id": "s8ztxq2isb3sdkb45xfpfaov5a29yng5",
+    "x": 0.161,
+    "y": 0.512,
+    "width": 0.127,
+    "height": 0.25,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "24/7",
+    "seats": 1,
+    "external_id": "937wp754gy27okip0uvdw1hoaqtyfw00",
+    "x": 0.076,
+    "y": 0.334,
+    "width": 0.136,
+    "height": 0.052,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "alarm",
+    "seats": 7,
+    "external_id": "e26fixrizkjcx1d3msxxw0dvfy85fqmr",
+    "x": 0.267,
+    "y": 0,
+    "width": 0.238,
+    "height": 0.095,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Lebsack",
+    "seats": 1,
+    "external_id": "bglve9xtb5ltfyg9u9vykuuv989ir8lo",
+    "x": 0.44,
+    "y": 0.331,
+    "width": 0.213,
+    "height": 0.219,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Caldwell",
+    "seats": 8,
+    "external_id": "z1z69qe4rllxgkknvg5eqrm0qrtbtnrr",
+    "x": 0.438,
+    "y": 0.044,
+    "width": 0.115,
+    "height": 0.146,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mouse",
+    "seats": 3,
+    "external_id": "gt1bqv6bci9qw6hfd9r99e3zq493rs9v",
+    "x": 0.534,
+    "y": 0.213,
+    "width": 0.113,
+    "height": 0.15,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Soft",
+    "seats": 9,
+    "external_id": "fzbpk2vifrjqp1aay06udvgh7dc7nfa3",
+    "x": 0.2,
+    "y": 0.065,
+    "width": 0.235,
+    "height": 0.074,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "strategize",
+    "seats": 7,
+    "external_id": "5gn4f9ozb6a1cgr7q4yjaclye42opts9",
+    "x": 0.197,
+    "y": 0.222,
+    "width": 0.08,
+    "height": 0.115,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "maroon",
+    "seats": 1,
+    "external_id": "g7lo5g915adpvt6ir86601yfiljynru3",
+    "x": 0.462,
+    "y": 0.044,
+    "width": 0.084,
+    "height": 0.233,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Adventure",
+    "seats": 3,
+    "external_id": "sai2brxuhjehjb52znkg85aib7gbpnvr",
+    "x": 0.551,
+    "y": 0.74,
+    "width": 0.081,
+    "height": 0.134,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "synthesize",
+    "seats": 8,
+    "external_id": "ffxa2imzama5huxkewaw6v5ewl8xokqm",
+    "x": 0.08,
+    "y": 0.001,
+    "width": 0.067,
+    "height": 0.096,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Groves",
+    "seats": 2,
+    "external_id": "qd5tzu51mp69n5axallrvbgwrk82kfw5",
+    "x": 0.325,
+    "y": 0.271,
+    "width": 0.113,
+    "height": 0.161,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Functionality",
+    "seats": 2,
+    "external_id": "yfsjvr0mipdb4k896vptkhnef42f0ydv",
+    "x": 0.335,
+    "y": 0.668,
+    "width": 0.241,
+    "height": 0.236,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "purple",
+    "seats": 7,
+    "external_id": "e1372bbk9qwkgb46uvehzoyzl0mq5fjs",
+    "x": 0.681,
+    "y": 0.319,
+    "width": 0.092,
+    "height": 0.202,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Trial",
+    "seats": 1,
+    "external_id": "6ctp86sfof01ris5r917i8g6yhsgbmaf",
+    "x": 0.303,
+    "y": 0.533,
+    "width": 0.166,
+    "height": 0.161,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "nor",
+    "seats": 7,
+    "external_id": "tr9mmwdc8sdefe5hz0zke2agax6pwfal",
+    "x": 0.291,
+    "y": 0.595,
+    "width": 0.177,
+    "height": 0.124,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "counter",
+    "seats": 2,
+    "external_id": "3av2pb26tlabcb19knpaiewnrdrkorg4",
+    "x": 0.293,
+    "y": 0.661,
+    "width": 0.24,
+    "height": 0.135,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deadline",
+    "seats": 4,
+    "external_id": "3z3qtl0chi9e0jvlbiuh7awsq3m5esku",
+    "x": 0.739,
+    "y": 0.643,
+    "width": 0.121,
+    "height": 0.138,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "vixen",
+    "seats": 3,
+    "external_id": "xuqutv5lwj45wjx7lbugjle04j8qsv4a",
+    "x": 0.424,
+    "y": 0.146,
+    "width": 0.167,
+    "height": 0.078,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hat",
+    "seats": 5,
+    "external_id": "c6u00jwas9e3eedv9utm7jppeyg93sky",
+    "x": 0.353,
+    "y": 0.664,
+    "width": 0.093,
+    "height": 0.137,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Fish",
+    "seats": 1,
+    "external_id": "0xfkiz97oz14r1hlsuettllc9b7cms6f",
+    "x": 0.037,
+    "y": 0.197,
+    "width": 0.153,
+    "height": 0.224,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "SQL",
+    "seats": 7,
+    "external_id": "0tpk68k9ir6zkt65ycmuuwvzh86hjaa8",
+    "x": 0.327,
+    "y": 0.275,
+    "width": 0.098,
+    "height": 0.211,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "carefully",
+    "seats": 2,
+    "external_id": "0ynus0ljsdxyn15k1yyj3ggculjkz78c",
+    "x": 0.724,
+    "y": 0.11,
+    "width": 0.237,
+    "height": 0.222,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Millcreek",
+    "seats": 9,
+    "external_id": "myigyaxlaikuje0ikaq4wn7370163fx7",
+    "x": 0.552,
+    "y": 0.231,
+    "width": 0.191,
+    "height": 0.187,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cuba",
+    "seats": 3,
+    "external_id": "q80jr34gayex0hat0hee93irmresb9oj",
+    "x": 0.444,
+    "y": 0.618,
+    "width": 0.196,
+    "height": 0.108,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "SQL",
+    "seats": 2,
+    "external_id": "xngedodrlfl7p5wd4jo3bv8x0m9hbvdl",
+    "x": 0.498,
+    "y": 0.199,
+    "width": 0.117,
+    "height": 0.227,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "than",
+    "seats": 6,
+    "external_id": "9rlfwvf7fadp3laqhl6pa04cd1bpkwll",
+    "x": 0.096,
+    "y": 0.358,
+    "width": 0.075,
+    "height": 0.052,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Unbranded",
+    "seats": 3,
+    "external_id": "dramug5n65qf2shjts0qliu6bp1yt4ho",
+    "x": 0.172,
+    "y": 0.381,
+    "width": 0.185,
+    "height": 0.227,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "majestic",
+    "seats": 8,
+    "external_id": "na1zh68aolezbdthlf7n6avcduyg0hl2",
+    "x": 0.373,
+    "y": 0.693,
+    "width": 0.185,
+    "height": 0.219,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "synthesizing",
+    "seats": 3,
+    "external_id": "n6rtu66z1mgbwksjpjxugw0baw714i8p",
+    "x": 0.278,
+    "y": 0.036,
+    "width": 0.228,
+    "height": 0.119,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sandy",
+    "seats": 7,
+    "external_id": "d3gjqn5ypke7h10u34fxghk2fsrd8thk",
+    "x": 0.108,
+    "y": 0.089,
+    "width": 0.244,
+    "height": 0.134,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "portals",
+    "seats": 1,
+    "external_id": "7frcuf98vj1cwzhk5an5ylc0bsbxr5u4",
+    "x": 0.667,
+    "y": 0.53,
+    "width": 0.108,
+    "height": 0.059,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Liaison",
+    "seats": 5,
+    "external_id": "1oaa4eyni20rmsfelyvc9u5js2z7zz99",
+    "x": 0.672,
+    "y": 0.681,
+    "width": 0.184,
+    "height": 0.053,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "optical",
+    "seats": 6,
+    "external_id": "i17bn7gvwg397j9t1um5zs4ow7r7wrnl",
+    "x": 0.319,
+    "y": 0.632,
+    "width": 0.148,
+    "height": 0.117,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "radian",
+    "seats": 3,
+    "external_id": "t6gko273n9bw0kemmzea1gn7ou9ri5i5",
+    "x": 0.704,
+    "y": 0.411,
+    "width": 0.086,
+    "height": 0.238,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "orchid",
+    "seats": 5,
+    "external_id": "lxrsq8azedy5d421kldf0gr3b6qwbaoy",
+    "x": 0.461,
+    "y": 0.346,
+    "width": 0.213,
+    "height": 0.093,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Ergonomic",
+    "seats": 4,
+    "external_id": "1qmnfvrrr2tge8jgia02psudjmj6v0jh",
+    "x": 0.442,
+    "y": 0.494,
+    "width": 0.091,
+    "height": 0.085,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "infrastructure",
+    "seats": 8,
+    "external_id": "ikdq2xoba13sdrpweobl1di2651oaiv0",
+    "x": 0.652,
+    "y": 0.321,
+    "width": 0.093,
+    "height": 0.222,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Key",
+    "seats": 8,
+    "external_id": "c30svqcvnk4puzdjavig8qsa2g2c5gg7",
+    "x": 0.303,
+    "y": 0.681,
+    "width": 0.084,
+    "height": 0.211,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cis",
+    "seats": 8,
+    "external_id": "4g56hyy8h74qbl97ckb3ka92hx5k1iih",
+    "x": 0.508,
+    "y": 0.112,
+    "width": 0.068,
+    "height": 0.186,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Electric",
+    "seats": 2,
+    "external_id": "6cwu33xgc51csn8rmmatu6i7lbqshu0g",
+    "x": 0.364,
+    "y": 0.158,
+    "width": 0.151,
+    "height": 0.076,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Chrysler",
+    "seats": 3,
+    "external_id": "9trqto2r64lwgb6o84n6dycehzp3696p",
+    "x": 0.589,
+    "y": 0.036,
+    "width": 0.172,
+    "height": 0.199,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Pizza",
+    "seats": 5,
+    "external_id": "2gz1xesa0jt93pun90nblduqskbkzjb6",
+    "x": 0.202,
+    "y": 0.638,
+    "width": 0.21,
+    "height": 0.223,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "monetize",
+    "seats": 5,
+    "external_id": "po0dhjk0twreiotunj1yuran1ma85zlk",
+    "x": 0.483,
+    "y": 0.071,
+    "width": 0.203,
+    "height": 0.113,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Borders",
+    "seats": 9,
+    "external_id": "e1h3in67fq4xi6i8rz29wjmbxo6sglcj",
+    "x": 0.11,
+    "y": 0.08,
+    "width": 0.114,
+    "height": 0.075,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Direct",
+    "seats": 7,
+    "external_id": "s1km5t1oir218cyruzmrenfni5o2fu63",
+    "x": 0.704,
+    "y": 0.123,
+    "width": 0.052,
+    "height": 0.106,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "FTM",
+    "seats": 4,
+    "external_id": "bzh9mjuxdo7kk1lprv3omkul326n8tl9",
+    "x": 0.276,
+    "y": 0.679,
+    "width": 0.187,
+    "height": 0.233,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 8,
+    "external_id": "wz7jyodu27cyklurch86u13j7y0pwn9f",
+    "x": 0.055,
+    "y": 0.671,
+    "width": 0.248,
+    "height": 0.081,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southwest",
+    "seats": 4,
+    "external_id": "w1rbihqurmh4p4bhlvle7nqygiy8c8yb",
+    "x": 0.579,
+    "y": 0.442,
+    "width": 0.052,
+    "height": 0.242,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Corporate",
+    "seats": 4,
+    "external_id": "auu1d8xy0csgxubc0pv8axp9uzbq3qiv",
+    "x": 0.235,
+    "y": 0.717,
+    "width": 0.148,
+    "height": 0.074,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "recontextualize",
+    "seats": 5,
+    "external_id": "8xq0s0r8itw6fzsqam0wf6ct36oebcmd",
+    "x": 0.224,
+    "y": 0.112,
+    "width": 0.196,
+    "height": 0.226,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Oganesson",
+    "seats": 7,
+    "external_id": "qxki2cyutk7z66tq5dsqcyvb8hkyv624",
+    "x": 0.512,
+    "y": 0.547,
+    "width": 0.224,
+    "height": 0.114,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deposit",
+    "seats": 3,
+    "external_id": "k6aapfhrzo5osgde414y4lwbz0hd5qpo",
+    "x": 0.558,
+    "y": 0.172,
+    "width": 0.208,
+    "height": 0.15,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Soap",
+    "seats": 6,
+    "external_id": "ykmchxzph97w68q8y2z3gj2t0u5swruq",
+    "x": 0.249,
+    "y": 0.545,
+    "width": 0.101,
+    "height": 0.23,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mobile",
+    "seats": 9,
+    "external_id": "j843pa3t5yrx7djgvmickzto8kg2zuzy",
+    "x": 0.456,
+    "y": 0.344,
+    "width": 0.069,
+    "height": 0.195,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "who",
+    "seats": 9,
+    "external_id": "nqwy0weqahrobakmq8hj4cgydf6wes7s",
+    "x": 0.081,
+    "y": 0.11,
+    "width": 0.069,
+    "height": 0.076,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "niches",
+    "seats": 2,
+    "external_id": "oqiivxb0t8exy0mvkbewhctwix8zjpl3",
+    "x": 0.473,
+    "y": 0.44,
+    "width": 0.193,
+    "height": 0.066,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "rival",
+    "seats": 9,
+    "external_id": "x47y2id62k6i35aoeff4rxx4poge5g8r",
+    "x": 0.056,
+    "y": 0.714,
+    "width": 0.06,
+    "height": 0.142,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "broadly",
+    "seats": 9,
+    "external_id": "vrb1x6ffkhv8iw08odsmqf5t104seo14",
+    "x": 0.47,
+    "y": 0.296,
+    "width": 0.149,
+    "height": 0.127,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Martinique",
+    "seats": 9,
+    "external_id": "n6xe85l0nm0qyuasw15gfh0v3rvtu1mj",
+    "x": 0.457,
+    "y": 0.479,
+    "width": 0.124,
+    "height": 0.248,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "maroon",
+    "seats": 5,
+    "external_id": "v913z5ypbnfulibho4ipg2n5wb9a2eas",
+    "x": 0.239,
+    "y": 0.425,
+    "width": 0.056,
+    "height": 0.101,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sayreville",
+    "seats": 6,
+    "external_id": "rhji1ea6xcf10pg1jx4x08gwag388u76",
+    "x": 0.546,
+    "y": 0.442,
+    "width": 0.129,
+    "height": 0.236,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "application",
+    "seats": 8,
+    "external_id": "f6p8zgahtxi1hj6p95uy0x5lo5nnc3lo",
+    "x": 0.26,
+    "y": 0.622,
+    "width": 0.075,
+    "height": 0.092,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "monitor",
+    "seats": 5,
+    "external_id": "tkjjq5ct4dpokiarn70xul1uzfs63g8i",
+    "x": 0.664,
+    "y": 0.579,
+    "width": 0.189,
+    "height": 0.117,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Optimization",
+    "seats": 6,
+    "external_id": "w5xw04fzxkrev2puuui1ordjxownwbde",
+    "x": 0.149,
+    "y": 0.304,
+    "width": 0.091,
+    "height": 0.229,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Denton",
+    "seats": 6,
+    "external_id": "r6obo9wnm5bt918rm2o1njt2rziy3qi4",
+    "x": 0.561,
+    "y": 0.132,
+    "width": 0.177,
+    "height": 0.176,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Regional",
+    "seats": 3,
+    "external_id": "2yqzsir9but0r4s35ph2i21wxups508n",
+    "x": 0.49,
+    "y": 0.116,
+    "width": 0.133,
+    "height": 0.22,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hertz",
+    "seats": 1,
+    "external_id": "5nes546jid1q4vesztlidoo5mqiv4cyl",
+    "x": 0.073,
+    "y": 0.095,
+    "width": 0.066,
+    "height": 0.076,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Computers",
+    "seats": 7,
+    "external_id": "bqt23q04b61o6qyo1vd38ilg4fdkzf61",
+    "x": 0.079,
+    "y": 0.005,
+    "width": 0.125,
+    "height": 0.133,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "calculate",
+    "seats": 6,
+    "external_id": "ept8d8zgsoqgnnrlzroye7hi1yuonc0n",
+    "x": 0.443,
+    "y": 0.747,
+    "width": 0.136,
+    "height": 0.089,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "easily",
+    "seats": 8,
+    "external_id": "982q890saw0mtvvp1kr6bnxry0k7hbd1",
+    "x": 0.385,
+    "y": 0.243,
+    "width": 0.205,
+    "height": 0.249,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mini",
+    "seats": 4,
+    "external_id": "x33kysu78y6y5ebnq7fmh2lb0pxg4k0z",
+    "x": 0.393,
+    "y": 0.255,
+    "width": 0.248,
+    "height": 0.171,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "upliftingly",
+    "seats": 5,
+    "external_id": "pckcmbwy59w5yqqttsfd9k3qyi5x59gc",
+    "x": 0.208,
+    "y": 0.722,
+    "width": 0.143,
+    "height": 0.179,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Coordinator",
+    "seats": 9,
+    "external_id": "y5fzadyfm97pnftj9fl85686mtac4n6k",
+    "x": 0.076,
+    "y": 0.34,
+    "width": 0.154,
+    "height": 0.165,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "bow",
+    "seats": 9,
+    "external_id": "d4pa09v7f0ie9ul8pqc6a89brc4672hf",
+    "x": 0.054,
+    "y": 0.425,
+    "width": 0.085,
+    "height": 0.093,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Innovative",
+    "seats": 4,
+    "external_id": "efvufnn7le9afpr1mm8wqg7slonhnak8",
+    "x": 0.717,
+    "y": 0.245,
+    "width": 0.059,
+    "height": 0.224,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Road",
+    "seats": 9,
+    "external_id": "fgo9j6o4qevif4nclju8pnk8ot1300y0",
+    "x": 0.109,
+    "y": 0.663,
+    "width": 0.178,
+    "height": 0.078,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "incidentally",
+    "seats": 3,
+    "external_id": "3pkbmdnf4am4xn2lkut5k4kz7o4te40k",
+    "x": 0.203,
+    "y": 0.329,
+    "width": 0.106,
+    "height": 0.144,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "scalable",
+    "seats": 8,
+    "external_id": "aa5mggghq6bpvum5mceccns8nimj8g44",
+    "x": 0.367,
+    "y": 0.72,
+    "width": 0.176,
+    "height": 0.107,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Producer",
+    "seats": 8,
+    "external_id": "b36w90kw67ln9m38nscjrow4ofbobiwj",
+    "x": 0.614,
+    "y": 0.217,
+    "width": 0.107,
+    "height": 0.203,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "neutral",
+    "seats": 4,
+    "external_id": "r803l68015omy45oibq5txarf8ndue6f",
+    "x": 0.06,
+    "y": 0.235,
+    "width": 0.147,
+    "height": 0.165,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "productive",
+    "seats": 7,
+    "external_id": "lnumoo4ryxdhevclltkf1usru7spv1w6",
+    "x": 0.371,
+    "y": 0.341,
+    "width": 0.245,
+    "height": 0.188,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bacon",
+    "seats": 3,
+    "external_id": "hcn3xn5ee0ljum6jl6bj6w9mb83f2eut",
+    "x": 0.481,
+    "y": 0.338,
+    "width": 0.093,
+    "height": 0.127,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cotton",
+    "seats": 3,
+    "external_id": "c99z8rlmbm01n5g138gxsyd9bc2wwhmu",
+    "x": 0.566,
+    "y": 0.412,
+    "width": 0.082,
+    "height": 0.24,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "turquoise",
+    "seats": 7,
+    "external_id": "v8inwocw1gbfxpf1tzgx2t7bcijnm9ic",
+    "x": 0.455,
+    "y": 0.576,
+    "width": 0.065,
+    "height": 0.137,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "yet",
+    "seats": 3,
+    "external_id": "0p0k1wm7ftna2shc4fi37td75fts8yb7",
+    "x": 0.61,
+    "y": 0.587,
+    "width": 0.194,
+    "height": 0.116,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Woman",
+    "seats": 2,
+    "external_id": "f858s1b6dpghcdz3ibkrf7hkw0l8vqkn",
+    "x": 0.471,
+    "y": 0.06,
+    "width": 0.179,
+    "height": 0.208,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 8,
+    "external_id": "h8jnwui1n913u1mpyhn5fam6cja577mq",
+    "x": 0.108,
+    "y": 0.046,
+    "width": 0.167,
+    "height": 0.205,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "International",
+    "seats": 9,
+    "external_id": "h7gqbu7l9x15yqbcx5ce05m5f490y7hd",
+    "x": 0.117,
+    "y": 0.593,
+    "width": 0.162,
+    "height": 0.189,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Computer",
+    "seats": 4,
+    "external_id": "rjbrfl20r6gk7qwjef7y8g29jyvpfd46",
+    "x": 0.451,
+    "y": 0.515,
+    "width": 0.17,
+    "height": 0.052,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Berkelium",
+    "seats": 9,
+    "external_id": "qfll7vf8oix2fdgya71m38ueglilmg14",
+    "x": 0.297,
+    "y": 0.276,
+    "width": 0.156,
+    "height": 0.078,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Tokelau",
+    "seats": 9,
+    "external_id": "y264mf1qidymhb0pf03r9opbk0v04ra8",
+    "x": 0.256,
+    "y": 0.73,
+    "width": 0.11,
+    "height": 0.064,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Accountability",
+    "seats": 6,
+    "external_id": "q7tu7db0zibuz96xn4wnvxqi4rqec4ua",
+    "x": 0.081,
+    "y": 0.32,
+    "width": 0.062,
+    "height": 0.1,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "methodical",
+    "seats": 5,
+    "external_id": "oef7869hjc5rv692j9es9o3yyroge4jc",
+    "x": 0.562,
+    "y": 0.389,
+    "width": 0.05,
+    "height": 0.159,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "paradigm",
+    "seats": 2,
+    "external_id": "sgqpt1rhegivr7vufke4qm9lg1j4wdpf",
+    "x": 0.029,
+    "y": 0.702,
+    "width": 0.074,
+    "height": 0.056,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "compress",
+    "seats": 1,
+    "external_id": "qqynuk9uvwhbw1xviac0o26v3bp0y1u7",
+    "x": 0.243,
+    "y": 0.135,
+    "width": 0.079,
+    "height": 0.231,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "harness",
+    "seats": 1,
+    "external_id": "0vdyl4jbvafygiaryddb10y5khdcf91l",
+    "x": 0.543,
+    "y": 0.748,
+    "width": 0.217,
+    "height": 0.062,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Woman",
+    "seats": 6,
+    "external_id": "3338et2yujjmkevxjvnnat94w14ihcq1",
+    "x": 0.022,
+    "y": 0.662,
+    "width": 0.133,
+    "height": 0.166,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "adapter",
+    "seats": 4,
+    "external_id": "nw379q3zia03bim2wnal585gb7lizmlk",
+    "x": 0.305,
+    "y": 0.066,
+    "width": 0.107,
+    "height": 0.248,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "inventore",
+    "seats": 2,
+    "external_id": "kdupi66zey6427yn7hldigxuifh62tyv",
+    "x": 0.649,
+    "y": 0.502,
+    "width": 0.122,
+    "height": 0.101,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Buckinghamshire",
+    "seats": 7,
+    "external_id": "bj1par2pqfcxf0hflwmzoff2jrvx9dah",
+    "x": 0.075,
+    "y": 0.05,
+    "width": 0.14,
+    "height": 0.214,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "deposit",
+    "seats": 2,
+    "external_id": "2bztvfadvjawvbz2o61gpxrrtatvk28i",
+    "x": 0.188,
+    "y": 0.369,
+    "width": 0.225,
+    "height": 0.227,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ampere",
+    "seats": 4,
+    "external_id": "q306747yls8if7qijsrgq1mcig9c75tq",
+    "x": 0.558,
+    "y": 0.668,
+    "width": 0.247,
+    "height": 0.195,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "communities",
+    "seats": 3,
+    "external_id": "ss6agx6z1ijw2va2r087fog5s8nd34n7",
+    "x": 0.448,
+    "y": 0.411,
+    "width": 0.112,
+    "height": 0.232,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "mesh",
+    "seats": 5,
+    "external_id": "upz4f3qm8q5siu523ra531jiebjht33s",
+    "x": 0.431,
+    "y": 0.151,
+    "width": 0.238,
+    "height": 0.182,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "infrastructures",
+    "seats": 4,
+    "external_id": "e85t3tejkkls6fj7r5py84bp92xaxqom",
+    "x": 0.262,
+    "y": 0.237,
+    "width": 0.138,
+    "height": 0.088,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Classical",
+    "seats": 1,
+    "external_id": "j2hddx5kwd9svn9d818ulj03hcbhpg12",
+    "x": 0.306,
+    "y": 0.068,
+    "width": 0.165,
+    "height": 0.237,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "radian",
+    "seats": 6,
+    "external_id": "nn86uzck1nvrw23ycstj20pjmhy2ooh7",
+    "x": 0.062,
+    "y": 0.141,
+    "width": 0.083,
+    "height": 0.2,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "visionary",
+    "seats": 5,
+    "external_id": "9rd56fpv04tugku2bu2bpaik5zfne0xy",
+    "x": 0.249,
+    "y": 0.574,
+    "width": 0.233,
+    "height": 0.242,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Borders",
+    "seats": 2,
+    "external_id": "nqafvbjn4hw3bul37azmob82uhjxlc7m",
+    "x": 0.042,
+    "y": 0.169,
+    "width": 0.087,
+    "height": 0.108,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sedan",
+    "seats": 2,
+    "external_id": "7al6ozaj30dk7h2imfr7bq8q1fx9x9mo",
+    "x": 0.29,
+    "y": 0.385,
+    "width": 0.185,
+    "height": 0.243,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "BMX",
+    "seats": 6,
+    "external_id": "t0nzzcsi1ppqad4ezq5ccpsc4ji1za86",
+    "x": 0.322,
+    "y": 0.732,
+    "width": 0.08,
+    "height": 0.242,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "withdrawal",
+    "seats": 6,
+    "external_id": "7lsdhpgfsj5pb2tg7xtb73nuwzf3ddzr",
+    "x": 0.521,
+    "y": 0.52,
+    "width": 0.11,
+    "height": 0.08,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "fuchsia",
+    "seats": 1,
+    "external_id": "f6z5o49s6qc2izki9wmscgt60a5nb2x6",
+    "x": 0.438,
+    "y": 0.125,
+    "width": 0.142,
+    "height": 0.074,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Representative",
+    "seats": 7,
+    "external_id": "6ipaq6yox65bx9g3wxx7t9tqualn1koh",
+    "x": 0.306,
+    "y": 0.74,
+    "width": 0.12,
+    "height": 0.071,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Frozen",
+    "seats": 5,
+    "external_id": "1in3kqarlauqbjb22xk1i59kuexuk54n",
+    "x": 0.271,
+    "y": 0.186,
+    "width": 0.208,
+    "height": 0.164,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "East",
+    "seats": 8,
+    "external_id": "4ov91mohpmtlskpu8h1rynjna3i9bi1t",
+    "x": 0.041,
+    "y": 0.161,
+    "width": 0.139,
+    "height": 0.175,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "pascal",
+    "seats": 5,
+    "external_id": "syjfbd880skhsyv46yjjv61td4yyodcg",
+    "x": 0.072,
+    "y": 0.076,
+    "width": 0.236,
+    "height": 0.118,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "system",
+    "seats": 9,
+    "external_id": "kbmaao3gpbdy56upq2woni6k5zvn4r1d",
+    "x": 0.613,
+    "y": 0.225,
+    "width": 0.245,
+    "height": 0.131,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "eaves",
+    "seats": 5,
+    "external_id": "zgigvwng2dhtv1s0qybwkwcscxbqw8dc",
+    "x": 0.481,
+    "y": 0.355,
+    "width": 0.082,
+    "height": 0.21,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Consultant",
+    "seats": 9,
+    "external_id": "m63915hfwleo3zevkyeknox0cmab7vw3",
+    "x": 0.038,
+    "y": 0.127,
+    "width": 0.168,
+    "height": 0.164,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Centralized",
+    "seats": 7,
+    "external_id": "1yx8gfomexute8p8fyuljjugq0hmr5f5",
+    "x": 0.175,
+    "y": 0.618,
+    "width": 0.163,
+    "height": 0.069,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "interfaces",
+    "seats": 2,
+    "external_id": "8av4mw60e1shne15wtpqkj7kxqszy541",
+    "x": 0.431,
+    "y": 0.384,
+    "width": 0.075,
+    "height": 0.076,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Research",
+    "seats": 4,
+    "external_id": "z6fw4jf0gl8vg0w98hlx6zi4tmm8zqgd",
+    "x": 0.739,
+    "y": 0.308,
+    "width": 0.079,
+    "height": 0.209,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southwest",
+    "seats": 6,
+    "external_id": "iswbtwn79n82e276enmoj50hhuf6gavh",
+    "x": 0.511,
+    "y": 0.534,
+    "width": 0.245,
+    "height": 0.204,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "white",
+    "seats": 3,
+    "external_id": "w5rl768bi1xi1mzaf9fwzas2frrt7b5k",
+    "x": 0.72,
+    "y": 0.32,
+    "width": 0.202,
+    "height": 0.104,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hatchback",
+    "seats": 2,
+    "external_id": "9qanzqghs3x5g3eamrs6yp87cw9390rm",
+    "x": 0.228,
+    "y": 0.033,
+    "width": 0.155,
+    "height": 0.114,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "XSS",
+    "seats": 3,
+    "external_id": "jpyrmwgl2qtixc83aetasl3s4ezk5qjl",
+    "x": 0.665,
+    "y": 0.495,
+    "width": 0.128,
+    "height": 0.211,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bronze",
+    "seats": 6,
+    "external_id": "uh27p5va6h1qlvvy7f43zp762vjfh65v",
+    "x": 0.061,
+    "y": 0.021,
+    "width": 0.195,
+    "height": 0.235,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Synchronised",
+    "seats": 4,
+    "external_id": "qyft9vqi078s2tw24pju8t0ht548j2ee",
+    "x": 0.271,
+    "y": 0.209,
+    "width": 0.246,
+    "height": 0.207,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Loan",
+    "seats": 2,
+    "external_id": "coxonjegbos0s84017vyyaw78us2p1h0",
+    "x": 0.271,
+    "y": 0.291,
+    "width": 0.25,
+    "height": 0.181,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "compelling",
+    "seats": 9,
+    "external_id": "an0iilr9mun4f4dbhvkphes8v2egr1wx",
+    "x": 0.291,
+    "y": 0.506,
+    "width": 0.169,
+    "height": 0.108,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "services",
+    "seats": 5,
+    "external_id": "3hoq7qng5hoe8that6sdrusrfquwhchl",
+    "x": 0.046,
+    "y": 0.484,
+    "width": 0.075,
+    "height": 0.2,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "turbocharge",
+    "seats": 2,
+    "external_id": "xnq6glp763fz2pcc8n9ttp61bzy4wqst",
+    "x": 0.227,
+    "y": 0.106,
+    "width": 0.154,
+    "height": 0.241,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Dynamic",
+    "seats": 1,
+    "external_id": "jvb44cs2o2hxgokclwxikg2uw4il8o54",
+    "x": 0.045,
+    "y": 0.154,
+    "width": 0.224,
+    "height": 0.229,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "shyly",
+    "seats": 9,
+    "external_id": "i2x410jerwgcmbmpszmn25ppcxu2pqin",
+    "x": 0.269,
+    "y": 0.507,
+    "width": 0.231,
+    "height": 0.167,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "yieldingly",
+    "seats": 8,
+    "external_id": "2yflyakjeurnb8vuu4hu1vgrwsqz40km",
+    "x": 0.029,
+    "y": 0.638,
+    "width": 0.203,
+    "height": 0.151,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "SSD",
+    "seats": 8,
+    "external_id": "ypgwjqcj6nemgs7tfh218vzc7z9cm1wo",
+    "x": 0.513,
+    "y": 0.367,
+    "width": 0.137,
+    "height": 0.082,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "inquisitively",
+    "seats": 9,
+    "external_id": "3gnyhf1lsfxqzzuvb9rhxmq69u8xixnf",
+    "x": 0.379,
+    "y": 0.305,
+    "width": 0.079,
+    "height": 0.169,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Computer",
+    "seats": 2,
+    "external_id": "v9xv96ygpgmove5t4tu6mz8f767u5z8v",
+    "x": 0.589,
+    "y": 0.562,
+    "width": 0.186,
+    "height": 0.126,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Pataca",
+    "seats": 7,
+    "external_id": "vhcreg4nlr6qcrwlzop3enqd04d5d5ty",
+    "x": 0.411,
+    "y": 0.293,
+    "width": 0.21,
+    "height": 0.108,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "optical",
+    "seats": 7,
+    "external_id": "zg4br1hpcl0t4tpc51q8hejsx6joykkm",
+    "x": 0.361,
+    "y": 0.059,
+    "width": 0.073,
+    "height": 0.178,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "orange",
+    "seats": 7,
+    "external_id": "h9u8d61109hscwel8xhcd1y60dmoh9j2",
+    "x": 0.68,
+    "y": 0.51,
+    "width": 0.212,
+    "height": 0.136,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northwest",
+    "seats": 3,
+    "external_id": "6uv5ujr396t6x7z59km9u6lqbgrvwf1z",
+    "x": 0.104,
+    "y": 0.043,
+    "width": 0.137,
+    "height": 0.072,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Strategist",
+    "seats": 5,
+    "external_id": "pg4ms6355sco4utji6319c0l47apztji",
+    "x": 0.499,
+    "y": 0.442,
+    "width": 0.054,
+    "height": 0.078,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "South",
+    "seats": 1,
+    "external_id": "n0syrv6vzudsie1hk0ircdnq4t8b5z5o",
+    "x": 0.701,
+    "y": 0.269,
+    "width": 0.18,
+    "height": 0.14,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "District",
+    "seats": 7,
+    "external_id": "x46p5sjs8kgtrkxbpv5315ttx9fu4k4g",
+    "x": 0.007,
+    "y": 0.175,
+    "width": 0.131,
+    "height": 0.145,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Brand",
+    "seats": 1,
+    "external_id": "bgvgs8mt5k2zio5fmrq17zuxbh6qaqwe",
+    "x": 0.69,
+    "y": 0.523,
+    "width": 0.226,
+    "height": 0.101,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "lime",
+    "seats": 7,
+    "external_id": "cm5q32at1zxx9zsh05pe6c5to5awa5s1",
+    "x": 0.378,
+    "y": 0.712,
+    "width": 0.076,
+    "height": 0.109,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "blue",
+    "seats": 1,
+    "external_id": "axhukvnl5lc4tjkd8sybtv6dt0jm8thp",
+    "x": 0.485,
+    "y": 0.466,
+    "width": 0.209,
+    "height": 0.064,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southeast",
+    "seats": 8,
+    "external_id": "5senhoh5651bfw6jdhlipz6fl3g5fbke",
+    "x": 0.125,
+    "y": 0.397,
+    "width": 0.223,
+    "height": 0.125,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Blues",
+    "seats": 8,
+    "external_id": "pw3bcdl25kqmgju75y01cx6l3oy7c9lq",
+    "x": 0.403,
+    "y": 0.476,
+    "width": 0.215,
+    "height": 0.064,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Metal",
+    "seats": 7,
+    "external_id": "un2yq6hov0kgulc7mgmnl3l0zyui7gfa",
+    "x": 0.64,
+    "y": 0.397,
+    "width": 0.124,
+    "height": 0.234,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "second",
+    "seats": 5,
+    "external_id": "l9bykjwi2d2of31iqyfi5zsli2e53l15",
+    "x": 0.272,
+    "y": 0.335,
+    "width": 0.21,
+    "height": 0.109,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "around",
+    "seats": 1,
+    "external_id": "6wnkjvzteokpccaj3yslbwjbg7uxn0r5",
+    "x": 0.204,
+    "y": 0.351,
+    "width": 0.156,
+    "height": 0.086,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Investor",
+    "seats": 6,
+    "external_id": "06b8tq6llr6rlyseweczsyh9si70qyyw",
+    "x": 0.119,
+    "y": 0.131,
+    "width": 0.104,
+    "height": 0.204,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "kissingly",
+    "seats": 4,
+    "external_id": "wo27bauyv1gr4lr8e3jeqcjp1lu6lt8u",
+    "x": 0.281,
+    "y": 0.075,
+    "width": 0.14,
+    "height": 0.129,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "copying",
+    "seats": 2,
+    "external_id": "0igjqvi3evz6w430noeu9xlfaka3yzn6",
+    "x": 0.224,
+    "y": 0.727,
+    "width": 0.157,
+    "height": 0.103,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "infant",
+    "seats": 3,
+    "external_id": "4e12bb9bsgekj8gbmw1mopapdnlx1ex7",
+    "x": 0.549,
+    "y": 0.368,
+    "width": 0.179,
+    "height": 0.192,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cotton",
+    "seats": 2,
+    "external_id": "lype0la0wzujvgw3o20letld483piv1o",
+    "x": 0.279,
+    "y": 0.314,
+    "width": 0.119,
+    "height": 0.072,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Borders",
+    "seats": 5,
+    "external_id": "u7lyas7l367yzqwrknc59p61x81mr9zh",
+    "x": 0.289,
+    "y": 0.505,
+    "width": 0.219,
+    "height": 0.224,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Manager",
+    "seats": 2,
+    "external_id": "mvkcr9wsjho6hbsev22dv2rf8uknxc6t",
+    "x": 0.668,
+    "y": 0.721,
+    "width": 0.215,
+    "height": 0.055,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Cambridgeshire",
+    "seats": 2,
+    "external_id": "lntj1u6djs8e1gcee6zz22519kysqnu5",
+    "x": 0.044,
+    "y": 0.452,
+    "width": 0.127,
+    "height": 0.132,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "systemic",
+    "seats": 3,
+    "external_id": "pt5hmdjvdf39evexm0bjbpvgozqy7i6l",
+    "x": 0.276,
+    "y": 0.35,
+    "width": 0.057,
+    "height": 0.123,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Connecticut",
+    "seats": 5,
+    "external_id": "oyuff4jhk0rghmcffnptezd71dfib2dt",
+    "x": 0.646,
+    "y": 0.584,
+    "width": 0.129,
+    "height": 0.059,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "lime",
+    "seats": 1,
+    "external_id": "r83vlke6wy9v22r0oncerdk87jaxelun",
+    "x": 0.266,
+    "y": 0.656,
+    "width": 0.175,
+    "height": 0.062,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Phosphorus",
+    "seats": 9,
+    "external_id": "yfv8xbupgft06khiwgn213qmg5sgytrn",
+    "x": 0.071,
+    "y": 0.582,
+    "width": 0.174,
+    "height": 0.059,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Wooden",
+    "seats": 1,
+    "external_id": "7oedluzzwb8dxfrklnadbuf58684m1tn",
+    "x": 0.667,
+    "y": 0.522,
+    "width": 0.102,
+    "height": 0.104,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "variant",
+    "seats": 4,
+    "external_id": "bgbs0s9s04wz3dcezze2np7rubkbm3np",
+    "x": 0.615,
+    "y": 0.22,
+    "width": 0.241,
+    "height": 0.179,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "grey",
+    "seats": 1,
+    "external_id": "6nis9vxxofi4wg8ofky4s9s5cmr3dykq",
+    "x": 0.11,
+    "y": 0.116,
+    "width": 0.16,
+    "height": 0.193,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Non",
+    "seats": 5,
+    "external_id": "u5hayfzo9ox5hllypn77dg2rzm4wxdai",
+    "x": 0.475,
+    "y": 0.181,
+    "width": 0.2,
+    "height": 0.151,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Electronic",
+    "seats": 5,
+    "external_id": "gcxeqqu5vhb9aox9mgzbz2d6cwrehk06",
+    "x": 0.052,
+    "y": 0.589,
+    "width": 0.198,
+    "height": 0.074,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ant",
+    "seats": 6,
+    "external_id": "lvs09zeq2sjekesi793k7fh0oar1te3n",
+    "x": 0.519,
+    "y": 0.169,
+    "width": 0.237,
+    "height": 0.074,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Bronze",
+    "seats": 2,
+    "external_id": "qncvm0xujbqyhvvejmppiyn2lxjd0l3x",
+    "x": 0.13,
+    "y": 0.64,
+    "width": 0.227,
+    "height": 0.136,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "firewall",
+    "seats": 5,
+    "external_id": "gfkhhcxmr6t1xcslfx3wz8yce43e5u7g",
+    "x": 0.302,
+    "y": 0.267,
+    "width": 0.193,
+    "height": 0.189,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Northeast",
+    "seats": 2,
+    "external_id": "yoo5goyzfz37mvspr8e8k2jzrxlrniqx",
+    "x": 0.742,
+    "y": 0.198,
+    "width": 0.076,
+    "height": 0.104,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 8,
+    "external_id": "g2oicdbzehmuned2fiyxaa3u2tmbvier",
+    "x": 0.215,
+    "y": 0.603,
+    "width": 0.098,
+    "height": 0.06,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Hybrid",
+    "seats": 3,
+    "external_id": "yr9l1xa1gurl3lkqbq4fncosqkdwk3sy",
+    "x": 0.406,
+    "y": 0.331,
+    "width": 0.134,
+    "height": 0.102,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Investment",
+    "seats": 1,
+    "external_id": "qfxi2ptyttb8j2v1wryrie9rfk7i5xsz",
+    "x": 0.426,
+    "y": 0.709,
+    "width": 0.172,
+    "height": 0.13,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Ergonomic",
+    "seats": 5,
+    "external_id": "93fj0gzl1pjiivluqr6oraug935fe1wk",
+    "x": 0.616,
+    "y": 0.132,
+    "width": 0.061,
+    "height": 0.101,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "woot",
+    "seats": 1,
+    "external_id": "l4ntkfilndynjjlqizyb86bh2juwkzbp",
+    "x": 0.219,
+    "y": 0.453,
+    "width": 0.135,
+    "height": 0.18,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "interactive",
+    "seats": 9,
+    "external_id": "5166uskbmb1ayj72tjti5dvned4fjweo",
+    "x": 0.367,
+    "y": 0.313,
+    "width": 0.114,
+    "height": 0.22,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mississippi",
+    "seats": 5,
+    "external_id": "drv4dq7sm1z6i42q3nfu2pmjx0zl9v6e",
+    "x": 0.268,
+    "y": 0.687,
+    "width": 0.22,
+    "height": 0.12,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "payment",
+    "seats": 3,
+    "external_id": "dzcdv8q462xjil57xmdxkm7mw2zu2qh8",
+    "x": 0.628,
+    "y": 0.75,
+    "width": 0.168,
+    "height": 0.081,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 7,
+    "external_id": "64h5ymw8anj9yvpjg0s3vuety8xojy1d",
+    "x": 0.452,
+    "y": 0.127,
+    "width": 0.082,
+    "height": 0.091,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Gasoline",
+    "seats": 3,
+    "external_id": "58fyo8oszxak3mastyk5qrpu2k3bwpks",
+    "x": 0.594,
+    "y": 0.049,
+    "width": 0.116,
+    "height": 0.145,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "syndicate",
+    "seats": 3,
+    "external_id": "r6v5reumyrzcsn1oihgh6bskzyvmb984",
+    "x": 0.287,
+    "y": 0.059,
+    "width": 0.116,
+    "height": 0.107,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Polygender",
+    "seats": 8,
+    "external_id": "jftae2j12p1ce9gynggkrwww7mox4bp5",
+    "x": 0.589,
+    "y": 0.346,
+    "width": 0.132,
+    "height": 0.115,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Androgyne",
+    "seats": 8,
+    "external_id": "fffdlcsn9k94frjux60jjdo6ufztrzhj",
+    "x": 0.693,
+    "y": 0.228,
+    "width": 0.191,
+    "height": 0.065,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Compatible",
+    "seats": 2,
+    "external_id": "btuvc74hmo9rxm5dwo2zaiu7ioxtup22",
+    "x": 0.496,
+    "y": 0.237,
+    "width": 0.084,
+    "height": 0.222,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Argon",
+    "seats": 5,
+    "external_id": "sbv5o73jtfuesd3rz6w6d7cs13302orh",
+    "x": 0.135,
+    "y": 0.099,
+    "width": 0.249,
+    "height": 0.131,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "West",
+    "seats": 8,
+    "external_id": "0o7fe2yekuw8plvqosw3dr1aa709wqwj",
+    "x": 0.128,
+    "y": 0.713,
+    "width": 0.242,
+    "height": 0.234,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "pessimistic",
+    "seats": 1,
+    "external_id": "yo8y6b2f2fq02pxkqmd4c746u1v84qm3",
+    "x": 0.378,
+    "y": 0.623,
+    "width": 0.177,
+    "height": 0.18,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Branding",
+    "seats": 5,
+    "external_id": "jqcfog0r5vxz49zd196hipidwcdqznxe",
+    "x": 0.712,
+    "y": 0.315,
+    "width": 0.21,
+    "height": 0.052,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "female",
+    "seats": 2,
+    "external_id": "rqacfcwtxx588nvwbn8lwdjv5e0p2xcu",
+    "x": 0.456,
+    "y": 0.146,
+    "width": 0.227,
+    "height": 0.071,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "whenever",
+    "seats": 5,
+    "external_id": "28sve4apq8f9rl8uy22gqthkeyo36ju1",
+    "x": 0.626,
+    "y": 0.118,
+    "width": 0.208,
+    "height": 0.069,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Oriental",
+    "seats": 4,
+    "external_id": "3qle0vlz6eblabsv23i61khzf4gfkdhc",
+    "x": 0.735,
+    "y": 0.359,
+    "width": 0.209,
+    "height": 0.092,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ohm",
+    "seats": 8,
+    "external_id": "5a5g0scyx4nzbozwfz49n69u292zse1f",
+    "x": 0.208,
+    "y": 0.328,
+    "width": 0.069,
+    "height": 0.239,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Liaison",
+    "seats": 9,
+    "external_id": "5fk5tlrh03iiqtqs07ne475yweq30toz",
+    "x": 0.248,
+    "y": 0.714,
+    "width": 0.117,
+    "height": 0.076,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "male",
+    "seats": 7,
+    "external_id": "5r3lnbc2fusxsf2fsqetjmddob8owb0n",
+    "x": 0.37,
+    "y": 0.098,
+    "width": 0.178,
+    "height": 0.176,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "navigating",
+    "seats": 5,
+    "external_id": "u7v5l6mx4ghfoox25871qe37fzu6f4sb",
+    "x": 0.689,
+    "y": 0.427,
+    "width": 0.131,
+    "height": 0.158,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Chicken",
+    "seats": 4,
+    "external_id": "fgfvp0bn9e2swobt81g1ey9cif520321",
+    "x": 0.528,
+    "y": 0.169,
+    "width": 0.126,
+    "height": 0.095,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Account",
+    "seats": 4,
+    "external_id": "pnj1jokpd6cljnkpel9b47e59u4lnuob",
+    "x": 0.24,
+    "y": 0.674,
+    "width": 0.149,
+    "height": 0.178,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Checking",
+    "seats": 6,
+    "external_id": "ctkt24kyq4drtahgdv98zmkn876d0l2s",
+    "x": 0.537,
+    "y": 0.056,
+    "width": 0.242,
+    "height": 0.193,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Rubber",
+    "seats": 5,
+    "external_id": "e724klju5mcxcmzmvh2y9hzpo0ycvg3w",
+    "x": 0.353,
+    "y": 0.185,
+    "width": 0.195,
+    "height": 0.056,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "between",
+    "seats": 1,
+    "external_id": "kc4drmxlhpr6rloh8rvwh8u06487cba1",
+    "x": 0.575,
+    "y": 0.606,
+    "width": 0.204,
+    "height": 0.11,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "upbeat",
+    "seats": 2,
+    "external_id": "zn2k2j5oillia35n64rzvg7o5ms5o8pz",
+    "x": 0.572,
+    "y": 0.039,
+    "width": 0.184,
+    "height": 0.074,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Southwest",
+    "seats": 8,
+    "external_id": "tlewvkb433t6uwk5kt3m2mikd0069va0",
+    "x": 0.219,
+    "y": 0.03,
+    "width": 0.072,
+    "height": 0.169,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Innovative",
+    "seats": 6,
+    "external_id": "9hq8ai302cijbpv7e3sf5gi1vd61uwvq",
+    "x": 0.124,
+    "y": 0.258,
+    "width": 0.068,
+    "height": 0.143,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Fiat",
+    "seats": 8,
+    "external_id": "jahy6z40bwqyvb6sd8g27wkuez1kus0i",
+    "x": 0.446,
+    "y": 0.095,
+    "width": 0.115,
+    "height": 0.193,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "didactic",
+    "seats": 9,
+    "external_id": "kv26qs7enb46opts55glhq1atsbs5mnp",
+    "x": 0.405,
+    "y": 0.387,
+    "width": 0.133,
+    "height": 0.191,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "farad",
+    "seats": 5,
+    "external_id": "dkn98l5xkqfhl9f6c1dz7vv8mqvnc4vm",
+    "x": 0.664,
+    "y": 0.429,
+    "width": 0.126,
+    "height": 0.243,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Visionary",
+    "seats": 6,
+    "external_id": "iqqmh1kerjw4z7rdozcluosxa0czxlu3",
+    "x": 0.281,
+    "y": 0.349,
+    "width": 0.24,
+    "height": 0.129,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Molybdenum",
+    "seats": 1,
+    "external_id": "z85tqjqqqrmmx2co0z84jm9dvgxlh4km",
+    "x": 0.348,
+    "y": 0.622,
+    "width": 0.136,
+    "height": 0.052,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "delightfully",
+    "seats": 7,
+    "external_id": "3gj8mluworcogymx2xs78syvd117kx5w",
+    "x": 0.66,
+    "y": 0.585,
+    "width": 0.249,
+    "height": 0.193,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "withdrawal",
+    "seats": 8,
+    "external_id": "unk389dq1adyd0kw4hte55mjck8y3k6d",
+    "x": 0.391,
+    "y": 0.098,
+    "width": 0.127,
+    "height": 0.23,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "towards",
+    "seats": 4,
+    "external_id": "2nkqp6gr6n954nds2kf0qtc6vk38ijd8",
+    "x": 0.734,
+    "y": 0.673,
+    "width": 0.164,
+    "height": 0.107,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "programming",
+    "seats": 9,
+    "external_id": "990chexmbx3cv7x84rwusp4ajn263672",
+    "x": 0.558,
+    "y": 0.315,
+    "width": 0.104,
+    "height": 0.235,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "envisioneer",
+    "seats": 7,
+    "external_id": "jl84sj9e3fmjbs0x4gcwfh9lm3z66zfr",
+    "x": 0.119,
+    "y": 0.246,
+    "width": 0.104,
+    "height": 0.235,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "amongst",
+    "seats": 6,
+    "external_id": "yy1ham113fkz62dbji3n5e15lbmxdocn",
+    "x": 0.097,
+    "y": 0.404,
+    "width": 0.191,
+    "height": 0.19,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "hacking",
+    "seats": 5,
+    "external_id": "eu78zzdj3u2rn15f5jr6iou2s6bz1evx",
+    "x": 0.016,
+    "y": 0.625,
+    "width": 0.224,
+    "height": 0.135,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Associate",
+    "seats": 5,
+    "external_id": "zan48k8972mjf95jilfsymbffippyihn",
+    "x": 0.475,
+    "y": 0.164,
+    "width": 0.2,
+    "height": 0.2,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "content",
+    "seats": 5,
+    "external_id": "ydrnd3toh9hjw3fj19m5kls13b6x58s1",
+    "x": 0.62,
+    "y": 0.181,
+    "width": 0.189,
+    "height": 0.088,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Mini",
+    "seats": 6,
+    "external_id": "345w1dm7rl9dyaxab5htukm2znq93cpw",
+    "x": 0.547,
+    "y": 0.026,
+    "width": 0.054,
+    "height": 0.237,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "into",
+    "seats": 1,
+    "external_id": "kfjncu4hnxaw54hwxhkmzx8hbjar6vuw",
+    "x": 0.02,
+    "y": 0.575,
+    "width": 0.054,
+    "height": 0.09,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Berkshire",
+    "seats": 2,
+    "external_id": "zoddprtaqkrm4wd29qfbk73cjtibok86",
+    "x": 0.556,
+    "y": 0.074,
+    "width": 0.214,
+    "height": 0.188,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Curium",
+    "seats": 3,
+    "external_id": "ekuzkjz7c3591cn0pnrpcpxiuqkohy7i",
+    "x": 0.615,
+    "y": 0.633,
+    "width": 0.087,
+    "height": 0.11,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "digital",
+    "seats": 2,
+    "external_id": "44p2jkk3e7ztv0tafzpn8tdxeq0rdo9n",
+    "x": 0.246,
+    "y": 0.685,
+    "width": 0.128,
+    "height": 0.07,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Representative",
+    "seats": 9,
+    "external_id": "p9cla2uohhsvgvuvis2nvrqcrfstltce",
+    "x": 0.313,
+    "y": 0.014,
+    "width": 0.117,
+    "height": 0.221,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "West",
+    "seats": 4,
+    "external_id": "wlur3l5abx4wuqnc19rrgrt9cbfhmz60",
+    "x": 0.279,
+    "y": 0.517,
+    "width": 0.182,
+    "height": 0.231,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Costa",
+    "seats": 6,
+    "external_id": "1cwyndskl067mdpprgobbtgc4zogwvnl",
+    "x": 0.497,
+    "y": 0.237,
+    "width": 0.101,
+    "height": 0.221,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "dioxide",
+    "seats": 1,
+    "external_id": "151yme57oz0hwc4ertii232nohago1t3",
+    "x": 0.651,
+    "y": 0.088,
+    "width": 0.146,
+    "height": 0.135,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Steel",
+    "seats": 4,
+    "external_id": "e87ok06j1ak9qhg67sjwvpeurge4ni62",
+    "x": 0.2,
+    "y": 0.581,
+    "width": 0.062,
+    "height": 0.091,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ullam",
+    "seats": 1,
+    "external_id": "ho414wg2ngmb5iet58ytn63dr2bf28aq",
+    "x": 0.738,
+    "y": 0.468,
+    "width": 0.059,
+    "height": 0.14,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sleek",
+    "seats": 7,
+    "external_id": "d6dqo407f86zf2q8tooyam9xdbksuvn3",
+    "x": 0.27,
+    "y": 0.187,
+    "width": 0.074,
+    "height": 0.137,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "program",
+    "seats": 1,
+    "external_id": "h3m63t5711gce614jlsdf1iob0gk58hn",
+    "x": 0.128,
+    "y": 0.307,
+    "width": 0.135,
+    "height": 0.101,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Boyle",
+    "seats": 1,
+    "external_id": "1k7m176ekgq4fcl89e0mtgdmvkwmoczl",
+    "x": 0.575,
+    "y": 0.182,
+    "width": 0.243,
+    "height": 0.088,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "ecology",
+    "seats": 9,
+    "external_id": "lcx76zrr92j0ugf04qkeqe83618vnug4",
+    "x": 0.612,
+    "y": 0.329,
+    "width": 0.114,
+    "height": 0.055,
+    "shape": "RECTANGLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Executive",
+    "seats": 9,
+    "external_id": "ciaxmqp58gbwcxfdxrcaw01ivfcl6zll",
+    "x": 0.15,
+    "y": 0.574,
+    "width": 0.172,
+    "height": 0.083,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  },
+  {
+    "name": "Sleek",
+    "seats": 3,
+    "external_id": "u4pkrh46y9iih2ene4am491orqusa0ch",
+    "x": 0.667,
+    "y": 0.195,
+    "width": 0.097,
+    "height": 0.058,
+    "shape": "CIRCLE",
+    "place_section_id": {
+      "type": "PlaceSection"
+    }
+  }
+]

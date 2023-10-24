@@ -1,0 +1,9 @@
+{
+  "bepaid": {
+    "buttonText": "View reservation",
+    "bookingDescription": "Pre-order at {{place}}",
+    "paymentMessages": {
+      "unsuccess": "Payment failed"
+    }
+  }
+}
